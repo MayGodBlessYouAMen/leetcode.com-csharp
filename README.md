@@ -1,1 +1,1 @@
-# LeetCode.cn-algorithms https://leetcode-cn.com/problemset/algorithms/ by C#
+# LeetCode.com by C# Visual Studio 2013
