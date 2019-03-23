@@ -41,12 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Esay\No0001.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DataBase\" />
-    <Folder Include="Esay\" />
     <Folder Include="Hard\" />
     <Folder Include="Medium\" />
   </ItemGroup>
