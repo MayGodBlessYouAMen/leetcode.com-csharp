@@ -22,6 +22,13 @@ namespace LeetCode.Com
             //int[] b = no0001.TwoSum(a, 9);
             #endregion
 
+            #region No0007
+            //No0007 no0007 = new No0007();
+            //Console.WriteLine(no0007.Reverse(123));
+            //Console.WriteLine(no0007.Reverse(-123));
+            //Console.WriteLine(no0007.Reverse(120));
+            #endregion
+
             Console.ReadKey();
         }
     }
