@@ -29,6 +29,13 @@ namespace LeetCode.Com
             //Console.WriteLine(no0007.Reverse(120));
             #endregion
 
+            #region No0009
+            No0009 no0009 = new No0009();
+            Console.WriteLine(no0009.IsPalindrome(121));
+            Console.WriteLine(no0009.IsPalindrome(-121));
+            Console.WriteLine(no0009.IsPalindrome(10));
+            #endregion
+
             Console.ReadKey();
         }
     }
