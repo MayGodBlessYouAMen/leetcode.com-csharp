@@ -30,10 +30,19 @@ namespace LeetCode.Com
             #endregion
 
             #region No0009
-            No0009 no0009 = new No0009();
-            Console.WriteLine(no0009.IsPalindrome(121));
-            Console.WriteLine(no0009.IsPalindrome(-121));
-            Console.WriteLine(no0009.IsPalindrome(10));
+            //No0009 no0009 = new No0009();
+            //Console.WriteLine(no0009.IsPalindrome(121));
+            //Console.WriteLine(no0009.IsPalindrome(-121));
+            //Console.WriteLine(no0009.IsPalindrome(10));
+            #endregion
+
+            #region No0013
+            No0013 no0013 = new No0013();
+            Console.WriteLine(no0013.RomanToInt("III"));
+            Console.WriteLine(no0013.RomanToInt("IV"));
+            Console.WriteLine(no0013.RomanToInt("IX"));
+            Console.WriteLine(no0013.RomanToInt("LVIII"));
+            Console.WriteLine(no0013.RomanToInt("MCMXCIV"));
             #endregion
 
             Console.ReadKey();
