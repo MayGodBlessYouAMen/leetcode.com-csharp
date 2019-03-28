@@ -14,7 +14,7 @@ namespace LeetCode.Com
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world");
+            //Console.WriteLine("hello world");
 
             #region No0001
             //No0001 no0001 = new No0001();
@@ -37,12 +37,27 @@ namespace LeetCode.Com
             #endregion
 
             #region No0013
-            No0013 no0013 = new No0013();
-            Console.WriteLine(no0013.RomanToInt("III"));
-            Console.WriteLine(no0013.RomanToInt("IV"));
-            Console.WriteLine(no0013.RomanToInt("IX"));
-            Console.WriteLine(no0013.RomanToInt("LVIII"));
-            Console.WriteLine(no0013.RomanToInt("MCMXCIV"));
+            //No0013 no0013 = new No0013();
+            //Console.WriteLine(no0013.RomanToInt("III"));
+            //Console.WriteLine(no0013.RomanToInt("IV"));
+            //Console.WriteLine(no0013.RomanToInt("IX"));
+            //Console.WriteLine(no0013.RomanToInt("LVIII"));
+            //Console.WriteLine(no0013.RomanToInt("MCMXCIV"));
+            #endregion
+
+            #region No0014
+            //No0014 no0014 = new No0014();
+            //Console.WriteLine(no0014.LongestCommonPrefix(new string[] { "flower", "flow", "flight" }));
+            //Console.WriteLine(no0014.LongestCommonPrefix(new string[] { "dog", "racecar", "car" }));
+            #endregion
+
+            #region No0020
+            No0020 no0020 = new No0020();
+            Console.WriteLine(no0020.IsValid("()"));
+            Console.WriteLine(no0020.IsValid("()[]{}"));
+            Console.WriteLine(no0020.IsValid("(]"));
+            Console.WriteLine(no0020.IsValid("([)]"));
+            Console.WriteLine(no0020.IsValid("{[]}"));
             #endregion
 
             Console.ReadKey();
