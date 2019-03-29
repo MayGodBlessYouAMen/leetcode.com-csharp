@@ -1,4 +1,5 @@
-﻿using LeetCode.Com.Esay;
+﻿using LeetCode.Com.Com;
+using LeetCode.Com.Esay;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -52,12 +53,23 @@ namespace LeetCode.Com
             #endregion
 
             #region No0020
-            No0020 no0020 = new No0020();
-            Console.WriteLine(no0020.IsValid("()"));
-            Console.WriteLine(no0020.IsValid("()[]{}"));
-            Console.WriteLine(no0020.IsValid("(]"));
-            Console.WriteLine(no0020.IsValid("([)]"));
-            Console.WriteLine(no0020.IsValid("{[]}"));
+            //No0020 no0020 = new No0020();
+            //Console.WriteLine(no0020.IsValid("()"));
+            //Console.WriteLine(no0020.IsValid("()[]{}"));
+            //Console.WriteLine(no0020.IsValid("(]"));
+            //Console.WriteLine(no0020.IsValid("([)]"));
+            //Console.WriteLine(no0020.IsValid("{[]}"));
+            #endregion
+
+            #region No0021
+            No0021 no0021 = new No0021();
+            ListNode l1 = new ListNode(1);
+            l1.AddNode(2);
+            l1.AddNode(4);
+            ListNode l2 = new ListNode(1);
+            l2.AddNode(3);
+            l2.AddNode(4);
+            ListNode l3 = no0021.MergeTwoLists(l1, l2);
             #endregion
 
             Console.ReadKey();
