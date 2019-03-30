@@ -62,14 +62,20 @@ namespace LeetCode.Com
             #endregion
 
             #region No0021
-            No0021 no0021 = new No0021();
-            ListNode l1 = new ListNode(1);
-            l1.AddNode(2);
-            l1.AddNode(4);
-            ListNode l2 = new ListNode(1);
-            l2.AddNode(3);
-            l2.AddNode(4);
-            ListNode l3 = no0021.MergeTwoLists(l1, l2);
+            //No0021 no0021 = new No0021();
+            //ListNode l1 = new ListNode(1);
+            //l1.AddNode(2);
+            //l1.AddNode(4);
+            //ListNode l2 = new ListNode(1);
+            //l2.AddNode(3);
+            //l2.AddNode(4);
+            //ListNode l3 = no0021.MergeTwoLists(l1, l2);
+            #endregion
+
+            #region No0026
+            No0026 no0026 = new No0026();
+            Console.WriteLine(no0026.RemoveDuplicates(new int[] { 1, 1, 2 }));
+            Console.WriteLine(no0026.RemoveDuplicates(new int[] { 0, 0, 1, 1, 1, 2, 2, 3, 3, 4 }));
             #endregion
 
             Console.ReadKey();
