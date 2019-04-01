@@ -79,9 +79,17 @@ namespace LeetCode.Com
             #endregion
 
             #region No0027
-            No0027 no0027 = new No0027();
-            Console.WriteLine(no0027.RemoveElement(new int[] { 3, 2, 2, 3 }, 3));
-            Console.WriteLine(no0027.RemoveElement(new int[] { 0, 1, 2, 2, 3, 0, 4, 2 }, 2));
+            //No0027 no0027 = new No0027();
+            //Console.WriteLine(no0027.RemoveElement(new int[] { 3, 2, 2, 3 }, 3));
+            //Console.WriteLine(no0027.RemoveElement(new int[] { 0, 1, 2, 2, 3, 0, 4, 2 }, 2));
+            #endregion
+
+            #region No0035
+            No0035 no0035 = new No0035();
+            Console.WriteLine(no0035.SearchInsert(new int[] { 1, 3, 5, 6 }, 5));
+            Console.WriteLine(no0035.SearchInsert(new int[] { 1, 3, 5, 6 }, 2));
+            Console.WriteLine(no0035.SearchInsert(new int[] { 1, 3, 5, 6 }, 7));
+            Console.WriteLine(no0035.SearchInsert(new int[] { 1, 3, 5, 6 }, 0));
             #endregion
 
             Console.ReadKey();
