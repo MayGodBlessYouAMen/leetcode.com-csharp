@@ -86,10 +86,16 @@ namespace LeetCode.Com
 
             #region No0035
             No0035 no0035 = new No0035();
-            Console.WriteLine(no0035.SearchInsert(new int[] { 1, 3, 5, 6 }, 5));
-            Console.WriteLine(no0035.SearchInsert(new int[] { 1, 3, 5, 6 }, 2));
-            Console.WriteLine(no0035.SearchInsert(new int[] { 1, 3, 5, 6 }, 7));
-            Console.WriteLine(no0035.SearchInsert(new int[] { 1, 3, 5, 6 }, 0));
+            //Console.WriteLine(no0035.SearchInsert(new int[] { 1, 3, 5, 6 }, 5));
+            //Console.WriteLine(no0035.SearchInsert(new int[] { 1, 3, 5, 6 }, 2));
+            //Console.WriteLine(no0035.SearchInsert(new int[] { 1, 3, 5, 6 }, 7));
+            //Console.WriteLine(no0035.SearchInsert(new int[] { 1, 3, 5, 6 }, 0));
+            #endregion
+
+            #region No0058
+            No0058 no0058 = new No0058();
+            Console.WriteLine(no0058.LengthOfLastWord(""));
+            Console.WriteLine(no0058.LengthOfLastWord("Hello World"));
             #endregion
 
             Console.ReadKey();
