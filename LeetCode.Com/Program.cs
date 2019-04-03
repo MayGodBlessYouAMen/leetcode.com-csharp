@@ -93,10 +93,17 @@ namespace LeetCode.Com
             #endregion
 
             #region No0058
-            No0058 no0058 = new No0058();
-            Console.WriteLine(no0058.LengthOfLastWord(""));
-            Console.WriteLine(no0058.LengthOfLastWord("Hello World"));
+            //No0058 no0058 = new No0058();
+            //Console.WriteLine(no0058.LengthOfLastWord(""));
+            //Console.WriteLine(no0058.LengthOfLastWord("Hello World"));
             #endregion
+
+            #region No0066
+            No0066 no0066 = new No0066();
+            int[] nums1 = no0066.PlusOne(new int[] { 1, 2, 3 });
+            int[] nums2 = no0066.PlusOne(new int[] { 4, 3, 2, 1 });
+            #endregion
+
 
             Console.ReadKey();
         }
