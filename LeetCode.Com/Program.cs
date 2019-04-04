@@ -99,9 +99,15 @@ namespace LeetCode.Com
             #endregion
 
             #region No0066
-            No0066 no0066 = new No0066();
-            int[] nums1 = no0066.PlusOne(new int[] { 1, 2, 3 });
-            int[] nums2 = no0066.PlusOne(new int[] { 4, 3, 2, 1 });
+            //No0066 no0066 = new No0066();
+            //int[] nums1 = no0066.PlusOne(new int[] { 1, 2, 3 });
+            //int[] nums2 = no0066.PlusOne(new int[] { 4, 3, 2, 1 });
+            #endregion
+
+            #region No0067
+            No0067 no0067 = new No0067();
+            Console.WriteLine(no0067.AddBinary("11", "1"));
+            Console.WriteLine(no0067.AddBinary("1010", "1011"));
             #endregion
 
 
