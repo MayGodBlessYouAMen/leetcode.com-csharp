@@ -105,9 +105,16 @@ namespace LeetCode.Com
             #endregion
 
             #region No0067
-            No0067 no0067 = new No0067();
-            Console.WriteLine(no0067.AddBinary("11", "1"));
-            Console.WriteLine(no0067.AddBinary("1010", "1011"));
+            //No0067 no0067 = new No0067();
+            //Console.WriteLine(no0067.AddBinary("11", "1"));
+            //Console.WriteLine(no0067.AddBinary("1010", "1011"));
+            #endregion
+
+            #region No0069
+            No0069 no0069 = new No0069();
+            Console.WriteLine(no0069.MySqrt(4));
+            Console.WriteLine(no0069.MySqrt(8));
+            Console.WriteLine(no0069.MySqrt(483898996));
             #endregion
 
 
