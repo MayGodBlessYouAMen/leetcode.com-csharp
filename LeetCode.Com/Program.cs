@@ -111,10 +111,17 @@ namespace LeetCode.Com
             #endregion
 
             #region No0069
-            No0069 no0069 = new No0069();
-            Console.WriteLine(no0069.MySqrt(4));
-            Console.WriteLine(no0069.MySqrt(8));
-            Console.WriteLine(no0069.MySqrt(483898996));
+            //No0069 no0069 = new No0069();
+            //Console.WriteLine(no0069.MySqrt(4));
+            //Console.WriteLine(no0069.MySqrt(8));
+            //Console.WriteLine(no0069.MySqrt(483898996));
+            #endregion
+
+            #region No0070
+            No0070 no0070 = new No0070();
+            Console.WriteLine(no0070.ClimbStairs(2));
+            Console.WriteLine(no0070.ClimbStairs(3));
+            Console.WriteLine(no0070.ClimbStairs(111));
             #endregion
 
 
