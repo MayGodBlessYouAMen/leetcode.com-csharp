@@ -112,10 +112,21 @@ namespace LeetCode.Com
             #endregion
 
             #region No0069
-            //No0069 no0069 = new No0069();
-            //Console.WriteLine(no0069.MySqrt(4));
-            //Console.WriteLine(no0069.MySqrt(8));
-            //Console.WriteLine(no0069.MySqrt(483898996));
+            No0069 no0069 = new No0069();
+            Console.WriteLine(no0069.MySqrt(0));
+            Console.WriteLine(no0069.MySqrt(1));
+            Console.WriteLine(no0069.MySqrt(2));
+            Console.WriteLine(no0069.MySqrt(3));
+            Console.WriteLine(no0069.MySqrt(4));
+            Console.WriteLine(no0069.MySqrt(5));
+            Console.WriteLine(no0069.MySqrt(6));
+            Console.WriteLine(no0069.MySqrt(7));
+            Console.WriteLine(no0069.MySqrt(8));
+            Console.WriteLine(no0069.MySqrt(9));
+            Console.WriteLine(no0069.MySqrt(10));
+            Console.WriteLine(no0069.MySqrt(11));
+            Console.WriteLine(no0069.MySqrt(483898996));
+            Console.WriteLine(no0069.MySqrt(2147483647));
             #endregion
 
             #region No0070
@@ -126,19 +137,19 @@ namespace LeetCode.Com
             #endregion
 
             #region No0083
-            No0083 no0083 = new No0083();
-            ListNode l1 = new ListNode(1);
-            l1.AddNode(1);
-            l1.AddNode(2);
-            Console.WriteLine(no0083.DeleteDuplicates(l1).ToString());
+            //No0083 no0083 = new No0083();
+            //ListNode l1 = new ListNode(1);
+            //l1.AddNode(1);
+            //l1.AddNode(2);
+            //Console.WriteLine(no0083.DeleteDuplicates(l1).ToString());
 
-            ListNode l2 = new ListNode(1);
-            l2.AddNode(1);
-            l2.AddNode(1);
-            l2.AddNode(2);
-            l2.AddNode(3);
-            l2.AddNode(3);
-            Console.WriteLine(no0083.DeleteDuplicates(l2).ToString());
+            //ListNode l2 = new ListNode(1);
+            //l2.AddNode(1);
+            //l2.AddNode(1);
+            //l2.AddNode(2);
+            //l2.AddNode(3);
+            //l2.AddNode(3);
+            //Console.WriteLine(no0083.DeleteDuplicates(l2).ToString());
             #endregion
 
             Console.ReadKey();
