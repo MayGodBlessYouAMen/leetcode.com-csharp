@@ -12,5 +12,21 @@ namespace LeetCode.Com.Com
         public ListNode next;
         public ListNode(int x) { val = x; }
 
+        public override string ToString()
+        {
+            if (this == null)
+            {
+                return "";
+            }
+            string s = val.ToString();
+            ListNode node = this;
+            while (node.next != null)
+            {
+                node = node.next;
+                s += "->" + node.val.ToString();
+            }
+
+            return s;
+        }
     }
 }

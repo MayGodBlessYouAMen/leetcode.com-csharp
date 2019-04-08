@@ -70,6 +70,7 @@ namespace LeetCode.Com
             //l2.AddNode(3);
             //l2.AddNode(4);
             //ListNode l3 = no0021.MergeTwoLists(l1, l2);
+            //Console.WriteLine(l3.ToString());
             #endregion
 
             #region No0026
@@ -118,12 +119,27 @@ namespace LeetCode.Com
             #endregion
 
             #region No0070
-            No0070 no0070 = new No0070();
-            Console.WriteLine(no0070.ClimbStairs(2));
-            Console.WriteLine(no0070.ClimbStairs(3));
-            Console.WriteLine(no0070.ClimbStairs(111));
+            //No0070 no0070 = new No0070();
+            //Console.WriteLine(no0070.ClimbStairs(2));
+            //Console.WriteLine(no0070.ClimbStairs(3));
+            //Console.WriteLine(no0070.ClimbStairs(111));
             #endregion
 
+            #region No0083
+            No0083 no0083 = new No0083();
+            ListNode l1 = new ListNode(1);
+            l1.AddNode(1);
+            l1.AddNode(2);
+            Console.WriteLine(no0083.DeleteDuplicates(l1).ToString());
+
+            ListNode l2 = new ListNode(1);
+            l2.AddNode(1);
+            l2.AddNode(1);
+            l2.AddNode(2);
+            l2.AddNode(3);
+            l2.AddNode(3);
+            Console.WriteLine(no0083.DeleteDuplicates(l2).ToString());
+            #endregion
 
             Console.ReadKey();
         }
