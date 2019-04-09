@@ -112,21 +112,21 @@ namespace LeetCode.Com
             #endregion
 
             #region No0069
-            No0069 no0069 = new No0069();
-            Console.WriteLine(no0069.MySqrt(0));
-            Console.WriteLine(no0069.MySqrt(1));
-            Console.WriteLine(no0069.MySqrt(2));
-            Console.WriteLine(no0069.MySqrt(3));
-            Console.WriteLine(no0069.MySqrt(4));
-            Console.WriteLine(no0069.MySqrt(5));
-            Console.WriteLine(no0069.MySqrt(6));
-            Console.WriteLine(no0069.MySqrt(7));
-            Console.WriteLine(no0069.MySqrt(8));
-            Console.WriteLine(no0069.MySqrt(9));
-            Console.WriteLine(no0069.MySqrt(10));
-            Console.WriteLine(no0069.MySqrt(11));
-            Console.WriteLine(no0069.MySqrt(483898996));
-            Console.WriteLine(no0069.MySqrt(2147483647));
+            //No0069 no0069 = new No0069();
+            //Console.WriteLine(no0069.MySqrt(0));
+            //Console.WriteLine(no0069.MySqrt(1));
+            //Console.WriteLine(no0069.MySqrt(2));
+            //Console.WriteLine(no0069.MySqrt(3));
+            //Console.WriteLine(no0069.MySqrt(4));
+            //Console.WriteLine(no0069.MySqrt(5));
+            //Console.WriteLine(no0069.MySqrt(6));
+            //Console.WriteLine(no0069.MySqrt(7));
+            //Console.WriteLine(no0069.MySqrt(8));
+            //Console.WriteLine(no0069.MySqrt(9));
+            //Console.WriteLine(no0069.MySqrt(10));
+            //Console.WriteLine(no0069.MySqrt(11));
+            //Console.WriteLine(no0069.MySqrt(483898996));
+            //Console.WriteLine(no0069.MySqrt(2147483647));
             #endregion
 
             #region No0070
@@ -150,6 +150,14 @@ namespace LeetCode.Com
             //l2.AddNode(3);
             //l2.AddNode(3);
             //Console.WriteLine(no0083.DeleteDuplicates(l2).ToString());
+            #endregion
+
+            #region No0088
+            No0088 no0088 = new No0088();
+            int[] nums1 = new int[] { 1, 2, 3, 0, 0, 0 };
+            int[] nums2 = new int[] { 2, 5, 6 };
+            no0088.Merge(nums1, 3, nums2, 3);
+            Console.WriteLine(nums1.ToConsoleString());
             #endregion
 
             Console.ReadKey();
