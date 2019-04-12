@@ -153,11 +153,28 @@ namespace LeetCode.Com
             #endregion
 
             #region No0088
-            No0088 no0088 = new No0088();
-            int[] nums1 = new int[] { 1, 2, 3, 0, 0, 0 };
-            int[] nums2 = new int[] { 2, 5, 6 };
-            no0088.Merge(nums1, 3, nums2, 3);
-            Console.WriteLine(nums1.ToConsoleString());
+            //No0088 no0088 = new No0088();
+            //int[] nums1 = new int[] { 1, 2, 3, 0, 0, 0 };
+            //int[] nums2 = new int[] { 2, 5, 6 };
+            //no0088.Merge(nums1, 3, nums2, 3);
+            //Console.WriteLine(nums1.ToConsoleString());
+            #endregion
+
+            #region No0100
+            //undone: test case
+            No0100 no0110 = new No0100();
+            #endregion
+
+            #region No0104
+            //undone: test case
+            No0104 no0114 = new No0104();
+            #endregion
+
+            #region No0118
+            //undone: 杨辉三角打印
+            No0118 no0118 = new No0118();
+            IList<IList<int>> list = no0118.Generate(1);
+            IList<IList<int>> list2 = no0118.Generate(5);
             #endregion
 
             Console.ReadKey();

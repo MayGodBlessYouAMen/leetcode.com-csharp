@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Com\ExtendMethod.cs" />
     <Compile Include="Com\ListNode.cs" />
+    <Compile Include="Com\TreeNode.cs" />
     <Compile Include="Esay\No0001.cs" />
     <Compile Include="Esay\No0007.cs" />
     <Compile Include="Esay\No0009.cs" />
@@ -60,6 +61,9 @@
     <Compile Include="Esay\No0070.cs" />
     <Compile Include="Esay\No0083.cs" />
     <Compile Include="Esay\No0088.cs" />
+    <Compile Include="Esay\No0100.cs" />
+    <Compile Include="Esay\No0104.cs" />
+    <Compile Include="Esay\No0118.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
