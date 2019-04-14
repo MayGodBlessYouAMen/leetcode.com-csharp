@@ -172,9 +172,20 @@ namespace LeetCode.Com
 
             #region No0118
             //undone: 杨辉三角打印
-            No0118 no0118 = new No0118();
-            IList<IList<int>> list = no0118.Generate(1);
-            IList<IList<int>> list2 = no0118.Generate(5);
+            //No0118 no0118 = new No0118();
+            //IList<IList<int>> list = no0118.Generate(1);
+            //IList<IList<int>> list2 = no0118.Generate(5);
+            #endregion
+
+            #region No0119
+            No0119 no0119 = new No0119();
+            IList<int> list;
+            list = no0119.GetRow(0);
+            list = no0119.GetRow(1);
+            list = no0119.GetRow(2);
+            list = no0119.GetRow(3);
+            list = no0119.GetRow(4);
+            list = no0119.GetRow(5);
             #endregion
 
             Console.ReadKey();
