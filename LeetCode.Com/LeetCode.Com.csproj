@@ -65,6 +65,7 @@
     <Compile Include="Esay\No0104.cs" />
     <Compile Include="Esay\No0118.cs" />
     <Compile Include="Esay\No0119.cs" />
+    <Compile Include="Esay\No0121.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

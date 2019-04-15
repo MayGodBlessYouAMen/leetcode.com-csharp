@@ -178,14 +178,20 @@ namespace LeetCode.Com
             #endregion
 
             #region No0119
-            No0119 no0119 = new No0119();
-            IList<int> list;
-            list = no0119.GetRow(0);
-            list = no0119.GetRow(1);
-            list = no0119.GetRow(2);
-            list = no0119.GetRow(3);
-            list = no0119.GetRow(4);
-            list = no0119.GetRow(5);
+            //No0119 no0119 = new No0119();
+            //IList<int> list;
+            //list = no0119.GetRow(0);
+            //list = no0119.GetRow(1);
+            //list = no0119.GetRow(2);
+            //list = no0119.GetRow(3);
+            //list = no0119.GetRow(4);
+            //list = no0119.GetRow(5);
+            #endregion
+
+            #region No0121
+            No0121 no0121 = new No0121();
+            Console.WriteLine(no0121.MaxProfit(new int[] { 7, 1, 5, 3, 6, 4 }));
+            Console.WriteLine(no0121.MaxProfit(new int[] { 7, 6, 4, 3, 1 }));
             #endregion
 
             Console.ReadKey();
