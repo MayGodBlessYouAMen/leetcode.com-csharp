@@ -195,9 +195,15 @@ namespace LeetCode.Com
             #endregion
 
             #region No0125
-            No0125 no0125 = new No0125();
-            Console.WriteLine(no0125.IsPalindrome("A man, a plan, a canal: Panama"));
-            Console.WriteLine(no0125.IsPalindrome("race a car"));
+            //No0125 no0125 = new No0125();
+            //Console.WriteLine(no0125.IsPalindrome("A man, a plan, a canal: Panama"));
+            //Console.WriteLine(no0125.IsPalindrome("race a car"));
+            #endregion
+
+            #region No0136
+            No0136 no0136 = new No0136();
+            Console.WriteLine(no0136.SingleNumber(new int[] { 2, 2, 1 }));
+            Console.WriteLine(no0136.SingleNumber(new int[] { 4, 1, 2, 1, 2 }));
             #endregion
 
             Console.ReadKey();
