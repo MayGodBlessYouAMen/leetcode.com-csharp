@@ -201,9 +201,15 @@ namespace LeetCode.Com
             #endregion
 
             #region No0136
-            No0136 no0136 = new No0136();
-            Console.WriteLine(no0136.SingleNumber(new int[] { 2, 2, 1 }));
-            Console.WriteLine(no0136.SingleNumber(new int[] { 4, 1, 2, 1, 2 }));
+            //No0136 no0136 = new No0136();
+            //Console.WriteLine(no0136.SingleNumber(new int[] { 2, 2, 1 }));
+            //Console.WriteLine(no0136.SingleNumber(new int[] { 4, 1, 2, 1, 2 }));
+            #endregion
+
+            #region No0167
+            No0167 no0167 = new No0167();
+            int[] nums1 =  no0167.TwoSum(new int[] { 2, 7, 11, 15 }, 9);
+            Console.WriteLine(nums1.ToConsoleString());
             #endregion
 
             Console.ReadKey();
