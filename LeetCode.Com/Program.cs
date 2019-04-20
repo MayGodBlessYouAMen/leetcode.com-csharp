@@ -206,6 +206,17 @@ namespace LeetCode.Com
             //Console.WriteLine(no0136.SingleNumber(new int[] { 4, 1, 2, 1, 2 }));
             #endregion
 
+            #region No0155
+            No0155 minStack = new No0155();
+            minStack.Push(-2);
+            minStack.Push(0);
+            minStack.Push(-3);
+            Console.WriteLine(minStack.GetMin());   // Returns -3.
+            minStack.Pop();
+            Console.WriteLine(minStack.Top());      // Returns 0.
+            Console.WriteLine(minStack.GetMin());   // Returns -2.
+            #endregion
+
             #region No0167
             //No0167 no0167 = new No0167();
             //int[] nums1 =  no0167.TwoSum(new int[] { 2, 7, 11, 15 }, 9);
@@ -213,15 +224,14 @@ namespace LeetCode.Com
             #endregion
 
             #region No0189
-            No0189 no0189 = new No0189();
-            int[] nums1 = new int[] { 1, 2, 3, 4, 5, 6, 7 };
-            no0189.Rotate(nums1, 3);
-            Console.WriteLine(nums1.ToConsoleString());
+            //No0189 no0189 = new No0189();
+            //int[] nums1 = new int[] { 1, 2, 3, 4, 5, 6, 7 };
+            //no0189.Rotate(nums1, 3);
+            //Console.WriteLine(nums1.ToConsoleString());
 
-            int[] nums2 = new int[] { -1, -100, 3, 99 };
-            no0189.Rotate(nums2,2);
-            Console.WriteLine(nums2.ToConsoleString());
-
+            //int[] nums2 = new int[] { -1, -100, 3, 99 };
+            //no0189.Rotate(nums2,2);
+            //Console.WriteLine(nums2.ToConsoleString()); 
             #endregion
 
             Console.ReadKey();
