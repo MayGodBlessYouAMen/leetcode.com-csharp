@@ -207,20 +207,28 @@ namespace LeetCode.Com
             #endregion
 
             #region No0155
-            No0155 minStack = new No0155();
-            minStack.Push(-2);
-            minStack.Push(0);
-            minStack.Push(-3);
-            Console.WriteLine(minStack.GetMin());   // Returns -3.
-            minStack.Pop();
-            Console.WriteLine(minStack.Top());      // Returns 0.
-            Console.WriteLine(minStack.GetMin());   // Returns -2.
+            //No0155 minStack = new No0155();
+            //minStack.Push(-2);
+            //minStack.Push(0);
+            //minStack.Push(-3);
+            //Console.WriteLine(minStack.GetMin());   // Returns -3.
+            //minStack.Pop();
+            //Console.WriteLine(minStack.Top());      // Returns 0.
+            //Console.WriteLine(minStack.GetMin());   // Returns -2.
             #endregion
 
             #region No0167
             //No0167 no0167 = new No0167();
             //int[] nums1 =  no0167.TwoSum(new int[] { 2, 7, 11, 15 }, 9);
             //Console.WriteLine(nums1.ToConsoleString());
+            #endregion
+
+            #region No0171
+            No0171 no0171 = new No0171();
+            Console.WriteLine(no0171.TitleToNumber("A"));
+            Console.WriteLine(no0171.TitleToNumber("AB"));
+            Console.WriteLine(no0171.TitleToNumber("ZY"));
+            Console.WriteLine(no0171.TitleToNumber("ZZY"));
             #endregion
 
             #region No0189
