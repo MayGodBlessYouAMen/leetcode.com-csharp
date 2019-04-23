@@ -224,11 +224,19 @@ namespace LeetCode.Com
             #endregion
 
             #region No0171
-            No0171 no0171 = new No0171();
-            Console.WriteLine(no0171.TitleToNumber("A"));
-            Console.WriteLine(no0171.TitleToNumber("AB"));
-            Console.WriteLine(no0171.TitleToNumber("ZY"));
-            Console.WriteLine(no0171.TitleToNumber("ZZY"));
+            ////No0171 no0171 = new No0171();
+            ////Console.WriteLine(no0171.TitleToNumber("A"));
+            ////Console.WriteLine(no0171.TitleToNumber("AB"));
+            ////Console.WriteLine(no0171.TitleToNumber("ZY"));
+            ////Console.WriteLine(no0171.TitleToNumber("ZZY"));
+            #endregion
+
+            #region No0172
+            No0172 no0172 = new No0172();
+            Console.WriteLine(no0172.TrailingZeroes(3));
+            Console.WriteLine(no0172.TrailingZeroes(5));
+            Console.WriteLine(no0172.TrailingZeroes(100));
+            Console.WriteLine(no0172.TrailingZeroes(125));
             #endregion
 
             #region No0189
