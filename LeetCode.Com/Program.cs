@@ -232,11 +232,11 @@ namespace LeetCode.Com
             #endregion
 
             #region No0172
-            No0172 no0172 = new No0172();
-            Console.WriteLine(no0172.TrailingZeroes(3));
-            Console.WriteLine(no0172.TrailingZeroes(5));
-            Console.WriteLine(no0172.TrailingZeroes(100));
-            Console.WriteLine(no0172.TrailingZeroes(125));
+            //No0172 no0172 = new No0172();
+            //Console.WriteLine(no0172.TrailingZeroes(3));
+            //Console.WriteLine(no0172.TrailingZeroes(5));
+            //Console.WriteLine(no0172.TrailingZeroes(100));
+            //Console.WriteLine(no0172.TrailingZeroes(125));
             #endregion
 
             #region No0189
@@ -248,6 +248,16 @@ namespace LeetCode.Com
             //int[] nums2 = new int[] { -1, -100, 3, 99 };
             //no0189.Rotate(nums2,2);
             //Console.WriteLine(nums2.ToConsoleString()); 
+            #endregion
+
+            #region No0191 leetcode提交通过。自己这里测试结果不正确，原因还没找到
+            //No0191 no0191 = new No0191();
+            //uint u1 = 00000000000000000000000000001011;
+            //uint u2 = 00000000000000000000000010000000;
+            ////uint u3 = 11111111111111111111111111111101;  
+            //Console.WriteLine(no0191.HammingWeight(u1));  //3
+            //Console.WriteLine(no0191.HammingWeight(u2));  //1
+            ////Console.WriteLine(no0191.HammingWeight(u3));  //31
             #endregion
 
             Console.ReadKey();
