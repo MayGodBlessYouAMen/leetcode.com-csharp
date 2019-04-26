@@ -260,6 +260,11 @@ namespace LeetCode.Com
             ////Console.WriteLine(no0191.HammingWeight(u3));  //31
             #endregion
 
+            #region No0202
+            No0202 no0202 = new No0202();
+            Console.WriteLine(no0202.IsHappy(19));
+            #endregion
+
             Console.ReadKey();
         }
     }
