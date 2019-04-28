@@ -12,6 +12,10 @@ namespace LeetCode.Com.Com
         public ListNode next;
         public ListNode(int x) { val = x; }
 
+        /// <summary>
+        /// 扩展方法。打印链表所有元素(用->连接)
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             if (this == null)
