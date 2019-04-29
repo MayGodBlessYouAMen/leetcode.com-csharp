@@ -266,18 +266,27 @@ namespace LeetCode.Com
             #endregion
 
             #region No0203
-            No0203 no0203 = new No0203();
-            ListNode node1 = new ListNode(1);
-            node1.next = new ListNode(2);
-            node1.next.next = new ListNode(6);
-            node1.next.next.next = new ListNode(3);
-            node1.next.next.next.next = new ListNode(4);
-            node1.next.next.next.next.next = new ListNode(5);
-            node1.next.next.next.next.next.next = new ListNode(6);
-            Console.WriteLine("原链表:" + node1.ToString());
-            ListNode node2 = no0203.RemoveElements(node1, 6);
-            Console.WriteLine("移除元素6以后:" + node2.ToString());
+            //No0203 no0203 = new No0203();
+            //ListNode node1 = new ListNode(1);
+            //node1.next = new ListNode(2);
+            //node1.next.next = new ListNode(6);
+            //node1.next.next.next = new ListNode(3);
+            //node1.next.next.next.next = new ListNode(4);
+            //node1.next.next.next.next.next = new ListNode(5);
+            //node1.next.next.next.next.next.next = new ListNode(6);
+            //Console.WriteLine("原链表:" + node1.ToString());
+            //ListNode node2 = no0203.RemoveElements(node1, 6);
+            //Console.WriteLine("移除元素6以后:" + node2.ToString());
             #endregion
+
+            #region No0204
+            No0204 no0204 = new No0204();
+            Console.WriteLine(no0204.CountPrimes(10));
+            Console.WriteLine(no0204.CountPrimes(111));
+            Console.WriteLine(no0204.CountPrimes(int.MaxValue)); //超时
+            #endregion
+
+
             Console.ReadKey();
         }
     }
