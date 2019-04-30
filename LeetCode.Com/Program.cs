@@ -280,12 +280,19 @@ namespace LeetCode.Com
             #endregion
 
             #region No0204
-            No0204 no0204 = new No0204();
-            Console.WriteLine(no0204.CountPrimes(10));
-            Console.WriteLine(no0204.CountPrimes(111));
-            Console.WriteLine(no0204.CountPrimes(int.MaxValue)); //超时
+            //No0204 no0204 = new No0204();
+            //Console.WriteLine(no0204.CountPrimes(10));
+            //Console.WriteLine(no0204.CountPrimes(111));
+            //Console.WriteLine(no0204.CountPrimes(int.MaxValue)); //超时
             #endregion
 
+            #region No0205
+            No0205 no0205 = new No0205();
+            Console.WriteLine(no0205.IsIsomorphic("aa", "ab"));          //false
+            Console.WriteLine(no0205.IsIsomorphic("ab", "aa"));          //false
+            Console.WriteLine(no0205.IsIsomorphic("egg", "add"));        //true
+            Console.WriteLine(no0205.IsIsomorphic("abab", "baba"));      //true
+            #endregion
 
             Console.ReadKey();
         }
