@@ -287,12 +287,24 @@ namespace LeetCode.Com
             #endregion
 
             #region No0205
-            No0205 no0205 = new No0205();
-            Console.WriteLine(no0205.IsIsomorphic("aa", "ab"));          //false
-            Console.WriteLine(no0205.IsIsomorphic("ab", "aa"));          //false
-            Console.WriteLine(no0205.IsIsomorphic("egg", "add"));        //true
-            Console.WriteLine(no0205.IsIsomorphic("abab", "baba"));      //true
+            //No0205 no0205 = new No0205();
+            //Console.WriteLine(no0205.IsIsomorphic("aa", "ab"));          //false
+            //Console.WriteLine(no0205.IsIsomorphic("ab", "aa"));          //false
+            //Console.WriteLine(no0205.IsIsomorphic("egg", "add"));        //true
+            //Console.WriteLine(no0205.IsIsomorphic("abab", "baba"));      //true
             #endregion
+
+            #region No0206
+            No0206 no0206 = new No0206();
+            ListNode node1 = new ListNode(1);
+            node1.next = new ListNode(2);
+            node1.next.next = new ListNode(3);
+            node1.next.next.next = new ListNode(4);
+            node1.next.next.next.next = new ListNode(5);
+            Console.WriteLine(node1.ToString());
+            Console.WriteLine(no0206.ReverseList(node1).ToString());
+            #endregion
+
 
             Console.ReadKey();
         }
