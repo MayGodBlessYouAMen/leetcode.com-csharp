@@ -295,14 +295,21 @@ namespace LeetCode.Com
             #endregion
 
             #region No0206
-            No0206 no0206 = new No0206();
-            ListNode node1 = new ListNode(1);
-            node1.next = new ListNode(2);
-            node1.next.next = new ListNode(3);
-            node1.next.next.next = new ListNode(4);
-            node1.next.next.next.next = new ListNode(5);
-            Console.WriteLine(node1.ToString());
-            Console.WriteLine(no0206.ReverseList(node1).ToString());
+            //No0206 no0206 = new No0206();
+            //ListNode node1 = new ListNode(1);
+            //node1.next = new ListNode(2);
+            //node1.next.next = new ListNode(3);
+            //node1.next.next.next = new ListNode(4);
+            //node1.next.next.next.next = new ListNode(5);
+            //Console.WriteLine(node1.ToString());
+            //Console.WriteLine(no0206.ReverseList(node1).ToString());
+            #endregion
+
+            #region No0217
+            No0217 no0217 = new No0217();
+            Console.WriteLine(no0217.ContainsDuplicate(new int[] { 1, 2, 3, 1 }));
+            Console.WriteLine(no0217.ContainsDuplicate(new int[] { 1, 2, 3, 4 }));
+            Console.WriteLine(no0217.ContainsDuplicate(new int[] { 1, 1, 1, 3, 3, 4, 3, 2, 4, 2 }));
             #endregion
 
 
