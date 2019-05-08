@@ -306,10 +306,22 @@ namespace LeetCode.Com
             #endregion
 
             #region No0217
-            No0217 no0217 = new No0217();
-            Console.WriteLine(no0217.ContainsDuplicate(new int[] { 1, 2, 3, 1 }));
-            Console.WriteLine(no0217.ContainsDuplicate(new int[] { 1, 2, 3, 4 }));
-            Console.WriteLine(no0217.ContainsDuplicate(new int[] { 1, 1, 1, 3, 3, 4, 3, 2, 4, 2 }));
+            //No0217 no0217 = new No0217();
+            //Console.WriteLine(no0217.ContainsDuplicate(new int[] { 1, 2, 3, 1 }));
+            //Console.WriteLine(no0217.ContainsDuplicate(new int[] { 1, 2, 3, 4 }));
+            //Console.WriteLine(no0217.ContainsDuplicate(new int[] { 1, 1, 1, 3, 3, 4, 3, 2, 4, 2 }));
+            #endregion
+
+            #region No0226
+            No0226 no0226 = new No0226();
+
+            #endregion
+
+            #region No0231
+            No0231 no0231 = new No0231();
+            Console.WriteLine(no0231.IsPowerOfTwo(1));
+            Console.WriteLine(no0231.IsPowerOfTwo(16));
+            Console.WriteLine(no0231.IsPowerOfTwo(218));
             #endregion
 
 
