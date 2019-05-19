@@ -318,10 +318,20 @@ namespace LeetCode.Com
             #endregion
 
             #region No0231
-            No0231 no0231 = new No0231();
-            Console.WriteLine(no0231.IsPowerOfTwo(1));
-            Console.WriteLine(no0231.IsPowerOfTwo(16));
-            Console.WriteLine(no0231.IsPowerOfTwo(218));
+            //No0231 no0231 = new No0231();
+            //Console.WriteLine(no0231.IsPowerOfTwo(1));
+            //Console.WriteLine(no0231.IsPowerOfTwo(16));
+            //Console.WriteLine(no0231.IsPowerOfTwo(218));
+            #endregion
+
+            #region No0237
+            No0237 no0237 = new No0237();
+            #endregion
+
+            #region No0242
+            No0242 no0242 = new No0242();
+            Console.WriteLine(no0242.IsAnagram("anagram", "nagaram"));
+            Console.WriteLine(no0242.IsAnagram("rat", "car"));
             #endregion
 
 
