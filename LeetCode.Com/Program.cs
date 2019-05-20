@@ -329,9 +329,14 @@ namespace LeetCode.Com
             #endregion
 
             #region No0242
-            No0242 no0242 = new No0242();
-            Console.WriteLine(no0242.IsAnagram("anagram", "nagaram"));
-            Console.WriteLine(no0242.IsAnagram("rat", "car"));
+            //No0242 no0242 = new No0242();
+            //Console.WriteLine(no0242.IsAnagram("anagram", "nagaram"));
+            //Console.WriteLine(no0242.IsAnagram("rat", "car"));
+            #endregion
+
+            #region No0258
+            No0258 no0258 = new No0258();
+            Console.WriteLine(no0258.AddDigits(38));
             #endregion
 
 
