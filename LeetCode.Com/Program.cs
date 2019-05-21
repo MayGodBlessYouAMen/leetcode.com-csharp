@@ -335,8 +335,15 @@ namespace LeetCode.Com
             #endregion
 
             #region No0258
-            No0258 no0258 = new No0258();
-            Console.WriteLine(no0258.AddDigits(38));
+            //No0258 no0258 = new No0258();
+            //Console.WriteLine(no0258.AddDigits(38));
+            #endregion
+
+            #region No0263
+            No0263 no0263 = new No0263();
+            Console.WriteLine(no0263.IsUgly(6));
+            Console.WriteLine(no0263.IsUgly(8));
+            Console.WriteLine(no0263.IsUgly(14));
             #endregion
 
 
