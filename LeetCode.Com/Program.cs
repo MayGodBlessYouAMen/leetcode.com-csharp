@@ -347,11 +347,23 @@ namespace LeetCode.Com
             #endregion
 
             #region No0268
-            No0268 no0268 = new No0268();
-            int[] arr1 = new int[] { 3, 0, 1 };
-            int[] arr2 = new int[] { 9, 6, 4, 2, 3, 5, 7, 0, 1 };
-            Console.WriteLine(no0268.MissingNumber(arr1));
-            Console.WriteLine(no0268.MissingNumber(arr2));
+            //No0268 no0268 = new No0268();
+            //int[] arr1 = new int[] { 3, 0, 1 };
+            //int[] arr2 = new int[] { 9, 6, 4, 2, 3, 5, 7, 0, 1 };
+            //Console.WriteLine(no0268.MissingNumber(arr1));
+            //Console.WriteLine(no0268.MissingNumber(arr2));
+            #endregion
+
+            #region No0278
+            //No0278 no0278 = new No0278();
+            #endregion
+
+            #region No0283
+            No0283 no0283 = new No0283();
+            int[] nums1 = new int[] { 0, 1, 0, 3, 12 };
+            Console.WriteLine(nums1.ToConsoleString());
+            no0283.MoveZeroes(nums1);
+            Console.WriteLine(nums1.ToConsoleString());
             #endregion
 
 
