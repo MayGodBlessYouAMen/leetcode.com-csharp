@@ -359,13 +359,19 @@ namespace LeetCode.Com
             #endregion
 
             #region No0283
-            No0283 no0283 = new No0283();
-            int[] nums1 = new int[] { 0, 1, 0, 3, 12 };
-            Console.WriteLine(nums1.ToConsoleString());
-            no0283.MoveZeroes(nums1);
-            Console.WriteLine(nums1.ToConsoleString());
+            //No0283 no0283 = new No0283();
+            //int[] nums1 = new int[] { 0, 1, 0, 3, 12 };
+            //Console.WriteLine(nums1.ToConsoleString());
+            //no0283.MoveZeroes(nums1);
+            //Console.WriteLine(nums1.ToConsoleString());
             #endregion
 
+            #region No0326
+            No0326 no0326 = new No0326();
+            Console.WriteLine(no0326.IsPowerOfThree(27));
+            Console.WriteLine(no0326.IsPowerOfThree(9));
+            Console.WriteLine(no0326.IsPowerOfThree(45));
+            #endregion
 
             Console.ReadKey();
         }

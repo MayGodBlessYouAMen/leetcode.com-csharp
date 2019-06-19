@@ -90,6 +90,7 @@
     <Compile Include="Esay\No0278.cs" />
     <Compile Include="Esay\No0283.cs" />
     <Compile Include="Esay\No0292.cs" />
+    <Compile Include="Esay\No0326.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
