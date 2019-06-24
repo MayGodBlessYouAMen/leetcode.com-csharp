@@ -367,10 +367,16 @@ namespace LeetCode.Com
             #endregion
 
             #region No0326
-            No0326 no0326 = new No0326();
-            Console.WriteLine(no0326.IsPowerOfThree(27));
-            Console.WriteLine(no0326.IsPowerOfThree(9));
-            Console.WriteLine(no0326.IsPowerOfThree(45));
+            //No0326 no0326 = new No0326();
+            //Console.WriteLine(no0326.IsPowerOfThree(27));
+            //Console.WriteLine(no0326.IsPowerOfThree(9));
+            //Console.WriteLine(no0326.IsPowerOfThree(45));
+            #endregion
+
+            #region No0338
+            No0338 no0388 = new No0338();
+            Console.WriteLine(no0388.CountBits(2).ToConsoleString());
+            Console.WriteLine(no0388.CountBits(5).ToConsoleString());
             #endregion
 
             Console.ReadKey();
