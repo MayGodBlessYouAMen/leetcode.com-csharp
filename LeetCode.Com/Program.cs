@@ -374,9 +374,15 @@ namespace LeetCode.Com
             #endregion
 
             #region No0338
-            No0338 no0388 = new No0338();
-            Console.WriteLine(no0388.CountBits(2).ToConsoleString());
-            Console.WriteLine(no0388.CountBits(5).ToConsoleString());
+            //No0338 no0388 = new No0338();
+            //Console.WriteLine(no0388.CountBits(2).ToConsoleString());
+            //Console.WriteLine(no0388.CountBits(5).ToConsoleString());
+            #endregion
+
+            #region No0342
+            No0342 no0342 = new No0342();
+            Console.WriteLine(no0342.IsPowerOfFour(16));
+            Console.WriteLine(no0342.IsPowerOfFour(5));
             #endregion
 
             Console.ReadKey();
