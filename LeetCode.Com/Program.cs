@@ -379,10 +379,16 @@ namespace LeetCode.Com
             //Console.WriteLine(no0388.CountBits(5).ToConsoleString());
             #endregion
 
-            #region No0342
-            No0342 no0342 = new No0342();
-            Console.WriteLine(no0342.IsPowerOfFour(16));
-            Console.WriteLine(no0342.IsPowerOfFour(5));
+            //#region No0342
+            //No0342 no0342 = new No0342();
+            //Console.WriteLine(no0342.IsPowerOfFour(16));
+            //Console.WriteLine(no0342.IsPowerOfFour(5));
+            //#endregion
+
+            #region No0344
+            No0344 no0344 = new No0344();
+            no0344.ReverseString(new char[] { 'h', 'e', 'l', 'l', 'o' });
+            no0344.ReverseString(new char[] { 'o', 'l', 'l', 'e', 'h' });
             #endregion
 
             Console.ReadKey();
