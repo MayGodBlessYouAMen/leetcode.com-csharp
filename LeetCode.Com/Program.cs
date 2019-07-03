@@ -386,9 +386,15 @@ namespace LeetCode.Com
             //#endregion
 
             #region No0344
-            No0344 no0344 = new No0344();
-            no0344.ReverseString(new char[] { 'h', 'e', 'l', 'l', 'o' });
-            no0344.ReverseString(new char[] { 'o', 'l', 'l', 'e', 'h' });
+            //No0344 no0344 = new No0344();
+            //no0344.ReverseString(new char[] { 'h', 'e', 'l', 'l', 'o' });
+            //no0344.ReverseString(new char[] { 'o', 'l', 'l', 'e', 'h' });
+            #endregion
+
+            #region No0345
+            No0345 no0345 = new No0345();
+            Console.WriteLine(no0345.ReverseVowels("hello"));
+            Console.WriteLine(no0345.ReverseVowels("leetcode"));
             #endregion
 
             Console.ReadKey();
