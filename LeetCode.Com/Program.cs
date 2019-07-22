@@ -392,9 +392,15 @@ namespace LeetCode.Com
             #endregion
 
             #region No0345
-            No0345 no0345 = new No0345();
-            Console.WriteLine(no0345.ReverseVowels("hello"));
-            Console.WriteLine(no0345.ReverseVowels("leetcode"));
+            //No0345 no0345 = new No0345();
+            //Console.WriteLine(no0345.ReverseVowels("hello"));
+            //Console.WriteLine(no0345.ReverseVowels("leetcode"));
+            #endregion
+
+            #region No0349
+            No0349 no0349 = new No0349();
+            Console.WriteLine(no0349.Intersection(new int[] { 1, 2, 2, 1 }, new int[] { 2, 2 }).ToConsoleString());
+            Console.WriteLine(no0349.Intersection(new int[] { 4, 9, 5 }, new int[] { 9, 4, 9, 8, 4 }).ToConsoleString());
             #endregion
 
             Console.ReadKey();
