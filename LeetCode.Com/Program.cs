@@ -398,9 +398,15 @@ namespace LeetCode.Com
             #endregion
 
             #region No0349
-            No0349 no0349 = new No0349();
-            Console.WriteLine(no0349.Intersection(new int[] { 1, 2, 2, 1 }, new int[] { 2, 2 }).ToConsoleString());
-            Console.WriteLine(no0349.Intersection(new int[] { 4, 9, 5 }, new int[] { 9, 4, 9, 8, 4 }).ToConsoleString());
+            //No0349 no0349 = new No0349();
+            //Console.WriteLine(no0349.Intersection(new int[] { 1, 2, 2, 1 }, new int[] { 2, 2 }).ToConsoleString());
+            //Console.WriteLine(no0349.Intersection(new int[] { 4, 9, 5 }, new int[] { 9, 4, 9, 8, 4 }).ToConsoleString());
+            #endregion
+
+            #region No0350
+            No0350 no0350 = new No0350();
+            Console.WriteLine(no0350.Intersection(new int[] { 1, 2, 2, 1 }, new int[] { 2, 2 }).ToConsoleString());
+            Console.WriteLine(no0350.Intersection(new int[] { 4, 9, 5 }, new int[] { 9, 4, 9, 8, 4 }).ToConsoleString());
             #endregion
 
             Console.ReadKey();
