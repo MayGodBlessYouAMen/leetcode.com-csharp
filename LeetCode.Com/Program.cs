@@ -379,11 +379,11 @@ namespace LeetCode.Com
             //Console.WriteLine(no0388.CountBits(5).ToConsoleString());
             #endregion
 
-            //#region No0342
+            #region No0342
             //No0342 no0342 = new No0342();
             //Console.WriteLine(no0342.IsPowerOfFour(16));
             //Console.WriteLine(no0342.IsPowerOfFour(5));
-            //#endregion
+            #endregion
 
             #region No0344
             //No0344 no0344 = new No0344();
@@ -404,9 +404,17 @@ namespace LeetCode.Com
             #endregion
 
             #region No0350
-            No0350 no0350 = new No0350();
-            Console.WriteLine(no0350.Intersection(new int[] { 1, 2, 2, 1 }, new int[] { 2, 2 }).ToConsoleString());
-            Console.WriteLine(no0350.Intersection(new int[] { 4, 9, 5 }, new int[] { 9, 4, 9, 8, 4 }).ToConsoleString());
+            //No0350 no0350 = new No0350();
+            //Console.WriteLine(no0350.Intersection(new int[] { 1, 2, 2, 1 }, new int[] { 2, 2 }).ToConsoleString());
+            //Console.WriteLine(no0350.Intersection(new int[] { 4, 9, 5 }, new int[] { 9, 4, 9, 8, 4 }).ToConsoleString());
+            #endregion
+
+            #region No0367
+            No0367 no0367 = new No0367();
+            Console.WriteLine(no0367.IsPerfectSquare(1));
+            Console.WriteLine(no0367.IsPerfectSquare(2));
+            Console.WriteLine(no0367.IsPerfectSquare(64));
+            Console.WriteLine(no0367.IsPerfectSquare(int.MaxValue));
             #endregion
 
             Console.ReadKey();
