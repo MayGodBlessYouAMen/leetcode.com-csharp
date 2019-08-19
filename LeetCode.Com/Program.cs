@@ -410,11 +410,17 @@ namespace LeetCode.Com
             #endregion
 
             #region No0367
-            No0367 no0367 = new No0367();
-            Console.WriteLine(no0367.IsPerfectSquare(1));
-            Console.WriteLine(no0367.IsPerfectSquare(2));
-            Console.WriteLine(no0367.IsPerfectSquare(64));
-            Console.WriteLine(no0367.IsPerfectSquare(int.MaxValue));
+            //No0367 no0367 = new No0367();
+            //Console.WriteLine(no0367.IsPerfectSquare(1));
+            //Console.WriteLine(no0367.IsPerfectSquare(2));
+            //Console.WriteLine(no0367.IsPerfectSquare(64));
+            //Console.WriteLine(no0367.IsPerfectSquare(int.MaxValue));
+            #endregion
+
+            #region No0387
+            No0387 no0387 = new No0387();
+            Console.WriteLine(no0387.FirstUniqChar("leetcode"));
+            Console.WriteLine(no0387.FirstUniqChar("loveleetcode"));
             #endregion
 
             Console.ReadKey();
