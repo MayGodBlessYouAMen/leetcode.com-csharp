@@ -418,9 +418,15 @@ namespace LeetCode.Com
             #endregion
 
             #region No0387
-            No0387 no0387 = new No0387();
-            Console.WriteLine(no0387.FirstUniqChar("leetcode"));
-            Console.WriteLine(no0387.FirstUniqChar("loveleetcode"));
+            //No0387 no0387 = new No0387();
+            //Console.WriteLine(no0387.FirstUniqChar("leetcode"));
+            //Console.WriteLine(no0387.FirstUniqChar("loveleetcode"));
+            #endregion
+
+            #region No1160
+            No1160 no1160 = new No1160();
+            Console.WriteLine(no1160.CountCharacters(new string[] { "cat", "bt", "hat", "tree" }, "atach"));
+            Console.WriteLine(no1160.CountCharacters(new string[] { "hello", "world", "leetcode" }, "welldonehoneyr"));
             #endregion
 
             Console.ReadKey();
