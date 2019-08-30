@@ -430,10 +430,16 @@ namespace LeetCode.Com
             #endregion
 
             #region No0038
-            No0038 no0038 = new No0038();
-            Console.WriteLine(no0038.CountAndSay(1));
-            Console.WriteLine(no0038.CountAndSay(4));
-            Console.WriteLine(no0038.CountAndSay(30));
+            //No0038 no0038 = new No0038();
+            //Console.WriteLine(no0038.CountAndSay(1));
+            //Console.WriteLine(no0038.CountAndSay(4));
+            //Console.WriteLine(no0038.CountAndSay(30));
+            #endregion
+
+            #region No0806
+            No0806 no0806 = new No0806();
+            Console.WriteLine(no0806.NumberOfLines(new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 }, "abcdefghijklmnopqrstuvwxyz").ToConsoleString());
+            Console.WriteLine(no0806.NumberOfLines(new int[] { 4, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 }, "bbbcccdddaaa").ToConsoleString());
             #endregion
 
             Console.ReadKey();
