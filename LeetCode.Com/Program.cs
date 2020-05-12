@@ -109,6 +109,12 @@ namespace LeetCode.Com
             //Console.WriteLine(no0038.CountAndSay(30));
             #endregion
 
+            #region No0053
+            //No0053 no0053 = new No0053();
+            //Console.WriteLine(no0053.MaxSubArray(new int[] { -2, 1, -3, 4, -1, 2, 1, -5, 4 }));
+            //Console.WriteLine(no0053.MaxSubArray(new int[] { -1 }));
+            #endregion
+
             #region No0058
             //No0058 no0058 = new No0058();
             //Console.WriteLine(no0058.LengthOfLastWord(""));
