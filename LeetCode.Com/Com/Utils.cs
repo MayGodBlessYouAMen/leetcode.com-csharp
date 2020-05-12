@@ -64,5 +64,24 @@ namespace LeetCode.Com.Com
 
             return node;
         }
+
+        /// <summary>
+        /// 控制台打印IList<IList<T>>类型
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="list"></param>
+        public static void ConsoleWriteLine<T>(IList<IList<T>> list)
+        {
+            if (list == null)
+            {
+                Console.WriteLine("");
+                return;
+            }
+
+            foreach (var sublist in list)
+            {
+                Console.WriteLine(string.Join<T>(",", sublist));
+            }
+        }
     }
 }
