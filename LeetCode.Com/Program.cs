@@ -188,19 +188,28 @@ namespace LeetCode.Com
             #endregion
 
             #region No0101
-            //undone: test case
-            No0101 no0111 = new No0101();
-            TreeNode treenode0101_1 = Utils.CreateTreeNode(new List<int>() { 1, 2, 2, 3, 4, 4, 3 });
-            TreeNode treenode0101_2 = Utils.CreateTreeNode(new List<int>() { 1, 2, 2, 3, 4, 4, 3, 5, 6, 7, 8, 8, 7, 6, 5 });
-            TreeNode treenode0101_3 = Utils.CreateTreeNode(new List<string>() { "1", "2", "2", "null", "3", "null", "3" });
-            Console.WriteLine(no0111.IsSymmetric(treenode0101_1));
-            Console.WriteLine(no0111.IsSymmetric(treenode0101_2));
-            Console.WriteLine(no0111.IsSymmetric(treenode0101_3));
+            //No0101 no0101 = new No0101();
+            //TreeNode treenode0101_1 = Utils.CreateTreeNode(new List<int>() { 1, 2, 2, 3, 4, 4, 3 });
+            //TreeNode treenode0101_2 = Utils.CreateTreeNode(new List<int>() { 1, 2, 2, 3, 4, 4, 3, 5, 6, 7, 8, 8, 7, 6, 5 });
+            //TreeNode treenode0101_3 = Utils.CreateTreeNode(new List<string>() { "1", "2", "2", "null", "3", "null", "3" });
+            //Console.WriteLine(no0101.IsSymmetric(treenode0101_1));
+            //Console.WriteLine(no0101.IsSymmetric(treenode0101_2));
+            //Console.WriteLine(no0101.IsSymmetric(treenode0101_3));
             #endregion
 
             #region No0104
             //undone: test case
             No0104 no0114 = new No0104();
+            #endregion
+
+            #region No0107
+            //No0107 no0107 = new No0107();
+            //TreeNode treenode0107_1 = Utils.CreateTreeNode(new List<int>() { 1, 2, 2, 3, 4, 4, 3 });
+            //TreeNode treenode0107_2 = Utils.CreateTreeNode(new List<int>() { 1, 2, 2, 3, 4, 4, 3, 5, 6, 7, 8, 8, 7, 6, 5 });
+            //TreeNode treenode0107_3 = Utils.CreateTreeNode(new List<string>() { "3", "9", "20", "null", "null", "15", "7" });
+            //Utils.ConsoleWriteLine(no0107.LevelOrderBottom(treenode0107_1));
+            //Utils.ConsoleWriteLine(no0107.LevelOrderBottom(treenode0107_2));
+            //Utils.ConsoleWriteLine(no0107.LevelOrderBottom(treenode0107_3));
             #endregion
 
             #region No0118
