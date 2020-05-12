@@ -228,6 +228,16 @@ namespace LeetCode.Com
             //Console.WriteLine(no0111.MinDepth(treenode0111_6));
             #endregion
 
+            #region No0112
+            //No0112 no0112 = new No0112();
+            //TreeNode treenode0112_1 = Utils.CreateTreeNode(new List<int>() { });
+            //TreeNode treenode0112_2 = Utils.CreateTreeNode(new List<int>() { 1 });
+            //TreeNode treenode0112_3 = Utils.CreateTreeNode(new List<string>() { "5", "4", "8", "11", "null", "13", "4", "7", "2", "null", "null", "null", "1" });
+            //Console.WriteLine(no0112.HasPathSum(treenode0112_1, 1));
+            //Console.WriteLine(no0112.HasPathSum(treenode0112_2, 1));
+            //Console.WriteLine(no0112.HasPathSum(treenode0112_3, 22));
+            #endregion
+
             #region No0118
             //undone: 杨辉三角打印
             //No0118 no0118 = new No0118();
