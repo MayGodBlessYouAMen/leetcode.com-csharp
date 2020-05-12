@@ -85,12 +85,28 @@ namespace LeetCode.Com
             //Console.WriteLine(no0027.RemoveElement(new int[] { 0, 1, 2, 2, 3, 0, 4, 2 }, 2));
             #endregion
 
+            #region No0028
+            //No0028 no0028 = new No0028();
+            //Console.WriteLine(no0028.StrStr("",""));
+            //Console.WriteLine(no0028.StrStr("aa",""));
+            //Console.WriteLine(no0028.StrStr("","aa"));
+            //Console.WriteLine(no0028.StrStr("aabbaa", "aa"));
+            //Console.WriteLine(no0028.StrStr("aabbaabb", "bb"));
+            #endregion
+
             #region No0035
             No0035 no0035 = new No0035();
             //Console.WriteLine(no0035.SearchInsert(new int[] { 1, 3, 5, 6 }, 5));
             //Console.WriteLine(no0035.SearchInsert(new int[] { 1, 3, 5, 6 }, 2));
             //Console.WriteLine(no0035.SearchInsert(new int[] { 1, 3, 5, 6 }, 7));
             //Console.WriteLine(no0035.SearchInsert(new int[] { 1, 3, 5, 6 }, 0));
+            #endregion
+
+            #region No0038
+            //No0038 no0038 = new No0038();
+            //Console.WriteLine(no0038.CountAndSay(1));
+            //Console.WriteLine(no0038.CountAndSay(4));
+            //Console.WriteLine(no0038.CountAndSay(30));
             #endregion
 
             #region No0058
@@ -429,17 +445,10 @@ namespace LeetCode.Com
             //Console.WriteLine(no1160.CountCharacters(new string[] { "hello", "world", "leetcode" }, "welldonehoneyr"));
             #endregion
 
-            #region No0038
-            //No0038 no0038 = new No0038();
-            //Console.WriteLine(no0038.CountAndSay(1));
-            //Console.WriteLine(no0038.CountAndSay(4));
-            //Console.WriteLine(no0038.CountAndSay(30));
-            #endregion
-
             #region No0806
-            No0806 no0806 = new No0806();
-            Console.WriteLine(no0806.NumberOfLines(new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 }, "abcdefghijklmnopqrstuvwxyz").ToConsoleString());
-            Console.WriteLine(no0806.NumberOfLines(new int[] { 4, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 }, "bbbcccdddaaa").ToConsoleString());
+            //No0806 no0806 = new No0806();
+            //Console.WriteLine(no0806.NumberOfLines(new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 }, "abcdefghijklmnopqrstuvwxyz").ToConsoleString());
+            //Console.WriteLine(no0806.NumberOfLines(new int[] { 4, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 }, "bbbcccdddaaa").ToConsoleString());
             #endregion
 
             Console.ReadKey();
