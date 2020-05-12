@@ -212,6 +212,22 @@ namespace LeetCode.Com
             //Utils.ConsoleWriteLine(no0107.LevelOrderBottom(treenode0107_3));
             #endregion
 
+            #region No0111
+            //No0111 no0111 = new No0111();
+            //TreeNode treenode0111_1 = Utils.CreateTreeNode(new List<int>() { });
+            //TreeNode treenode0111_2 = Utils.CreateTreeNode(new List<int>() { 1 });
+            //TreeNode treenode0111_3 = Utils.CreateTreeNode(new List<int>() { 1, 2 });
+            //TreeNode treenode0111_4 = Utils.CreateTreeNode(new List<string>() { "1", "null", "2" });
+            //TreeNode treenode0111_5 = Utils.CreateTreeNode(new List<int>() { 1, 2, 2, 3, 4, 4, 3, 5, 6, 7, 8, 8, 7, 6, 5 });
+            //TreeNode treenode0111_6 = Utils.CreateTreeNode(new List<string>() { "1", "9", "20", "null", "null", "15", "7" });
+            //Console.WriteLine(no0111.MinDepth(treenode0111_1));
+            //Console.WriteLine(no0111.MinDepth(treenode0111_2));
+            //Console.WriteLine(no0111.MinDepth(treenode0111_3));
+            //Console.WriteLine(no0111.MinDepth(treenode0111_4));
+            //Console.WriteLine(no0111.MinDepth(treenode0111_5));
+            //Console.WriteLine(no0111.MinDepth(treenode0111_6));
+            #endregion
+
             #region No0118
             //undone: 杨辉三角打印
             //No0118 no0118 = new No0118();
