@@ -10,6 +10,30 @@ namespace LeetCode.Com.Com
     /// </summary>
     public class Utils
     {
+
+        #region ListNode
+        public static ListNode CreateListNode(List<int> numberlist)
+        {
+            ListNode node = null;
+            node = CreateListNode(node, numberlist, 0);
+            return node;
+        }
+
+        private static ListNode CreateListNode(ListNode node, List<int> numberlist, int index)
+        {
+            if (index >= numberlist.Count)
+            {
+                return null;
+            }
+
+            node = new ListNode(numberlist[index]);
+            node.next = CreateListNode(node.next, numberlist, index + 1);
+
+            return node;
+        }
+        #endregion
+
+        #region TreeNode
         /// <summary>
         /// 根据前序遍历数组创建二叉树
         /// [1,2,2,3,4,4,3]
@@ -64,6 +88,7 @@ namespace LeetCode.Com.Com
 
             return node;
         }
+        #endregion
 
         /// <summary>
         /// 控制台打印IList<IList<T>>类型
