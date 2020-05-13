@@ -109,13 +109,16 @@
     <Compile Include="Esay\No0387.cs" />
     <Compile Include="Esay\No0806.cs" />
     <Compile Include="Esay\No1160.cs" />
+    <Compile Include="Medium\No0002.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Test\EsayTest.cs" />
+    <Compile Include="Test\HardTest.cs" />
+    <Compile Include="Test\MediumTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DataBase\" />
     <Folder Include="Hard\" />
-    <Folder Include="Medium\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
