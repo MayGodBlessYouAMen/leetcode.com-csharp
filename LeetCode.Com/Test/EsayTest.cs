@@ -1,4 +1,5 @@
-﻿using LeetCode.Com.Esay;
+﻿using LeetCode.Com.Com;
+using LeetCode.Com.Esay;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -273,6 +274,23 @@ namespace LeetCode.Com.Test
             //No0136 no0136 = new No0136();
             //Console.WriteLine(no0136.SingleNumber(new int[] { 2, 2, 1 }));
             //Console.WriteLine(no0136.SingleNumber(new int[] { 4, 1, 2, 1, 2 }));
+            #endregion
+
+            #region No0141
+            //No0141 no0141 = new No0141();
+            //ListNode listnode0141_1 = Utils.CreateListNode(new List<int>() { 3, 2, 0, -4 });
+            //ListNode listnode0141_1_last = Utils.GetNode(listnode0141_1, 3);
+            //ListNode listnode0141_1_pos = Utils.GetNode(listnode0141_1, 1);
+            //listnode0141_1_last.next = listnode0141_1_pos;
+            //Console.WriteLine(no0141.HasCycle(listnode0141_1));
+
+            //ListNode listnode0141_2 = Utils.CreateListNode(new List<int>() { 1, 2 });
+            //ListNode listnode0141_2_last = Utils.GetNode(listnode0141_2, 1);
+            //ListNode listnode0141_2_pos = Utils.GetNode(listnode0141_2, 0);
+            //listnode0141_2_last.next = listnode0141_2_pos;
+            //Console.WriteLine(no0141.HasCycle(listnode0141_2));
+
+            //Console.WriteLine(no0141.HasCycle(Utils.CreateListNode(new List<int>() { 1 })));
             #endregion
 
             #region No0155
