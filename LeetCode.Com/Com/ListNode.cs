@@ -13,14 +13,14 @@ namespace LeetCode.Com.Com
         public ListNode(int x) { val = x; }
 
         /// <summary>
-        /// 扩展方法。打印链表所有元素(用->连接)
+        /// 重写方法。打印链表所有元素(用->连接)。无法处理为null时的情况
         /// </summary>
         /// <returns></returns>
         public override string ToString()
         {
             if (this == null)
             {
-                return "";
+                return "null";
             }
             string s = val.ToString();
             ListNode node = this;

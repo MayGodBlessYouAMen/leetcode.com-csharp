@@ -90,7 +90,7 @@ namespace LeetCode.Com.Test
             #endregion
 
             #region No0035
-            No0035 no0035 = new No0035();
+            //No0035 no0035 = new No0035();
             //Console.WriteLine(no0035.SearchInsert(new int[] { 1, 3, 5, 6 }, 5));
             //Console.WriteLine(no0035.SearchInsert(new int[] { 1, 3, 5, 6 }, 2));
             //Console.WriteLine(no0035.SearchInsert(new int[] { 1, 3, 5, 6 }, 7));
@@ -302,6 +302,27 @@ namespace LeetCode.Com.Test
             //minStack.Pop();
             //Console.WriteLine(minStack.Top());      // Returns 0.
             //Console.WriteLine(minStack.GetMin());   // Returns -2.
+            #endregion
+
+            #region No0160
+            //No0160 no0160 = new No0160();
+            ////两个链表比较的是地址相同的子链 生成链表时要注意
+            //Console.WriteLine(no0160.GetIntersectionNode(Utils.CreateListNode(new List<int>() { }), Utils.CreateListNode(new List<int>() { })).ToConsoleString());
+            //Console.WriteLine(no0160.GetIntersectionNode(Utils.CreateListNode(new List<int>() { 4, 1, 8, 4, 5 }), Utils.CreateListNode(new List<int>() { })).ToConsoleString());
+            //Console.WriteLine(no0160.GetIntersectionNode(Utils.CreateListNode(new List<int>() { }), Utils.CreateListNode(new List<int>() { 4, 1, 8, 4, 5 })).ToConsoleString());
+            //{
+            //    ListNode listnode0106_temp1 = Utils.CreateListNode(new List<int>() { 8, 4, 5 });
+            //    ListNode listnode0106_11 = Utils.CreateListNode(new List<int>() { 4, 1 }).AddListNode(listnode0106_temp1);
+            //    ListNode listnode0106_12 = Utils.CreateListNode(new List<int>() { 5, 0, 1 }).AddListNode(listnode0106_temp1);
+            //    Console.WriteLine(no0160.GetIntersectionNode(listnode0106_11, listnode0106_12).ToConsoleString());
+            //}
+            //{
+            //    ListNode listnode0106_temp2 = Utils.CreateListNode(new List<int>() { 2, 4 });
+            //    ListNode listnode0106_21 = Utils.CreateListNode(new List<int>() { 0, 9, 1 }).AddListNode(listnode0106_temp2);
+            //    ListNode listnode0106_22 = Utils.CreateListNode(new List<int>() { 3 }).AddListNode(listnode0106_temp2);
+            //    Console.WriteLine(no0160.GetIntersectionNode(listnode0106_21, listnode0106_22).ToConsoleString());
+            //}
+            //Console.WriteLine(no0160.GetIntersectionNode(Utils.CreateListNode(new List<int>() { 2, 6, 4 }), Utils.CreateListNode(new List<int>() { 1, 5 })).ToConsoleString());
             #endregion
 
             #region No0167
