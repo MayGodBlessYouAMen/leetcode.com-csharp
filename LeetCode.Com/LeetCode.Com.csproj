@@ -84,6 +84,7 @@
     <Compile Include="Esay\No0171.cs" />
     <Compile Include="Esay\No0172.cs" />
     <Compile Include="Esay\No0189.cs" />
+    <Compile Include="Esay\No0190.cs" />
     <Compile Include="Esay\No0191.cs" />
     <Compile Include="Esay\No0202.cs" />
     <Compile Include="Esay\No0203.cs" />

@@ -358,6 +358,12 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(nums2.ToConsoleString()); 
             #endregion
 
+            #region No0190
+            //No0190 no0190 = new No0190();
+            //Console.WriteLine(no0190.reverseBits(43261596).Equals(964176192));
+            //Console.WriteLine(no0190.reverseBits(4294967293).Equals(3221225471));
+            #endregion
+
             #region No0191 leetcode提交通过。自己这里测试结果不正确，原因还没找到
             //No0191 no0191 = new No0191();
             //uint u1 = 00000000000000000000000000001011;
