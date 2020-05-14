@@ -12,6 +12,11 @@ namespace LeetCode.Com.Com
     {
 
         #region ListNode
+        /// <summary>
+        /// 创建链表
+        /// </summary>
+        /// <param name="numberlist"></param>
+        /// <returns></returns>
         public static ListNode CreateListNode(List<int> numberlist)
         {
             ListNode node = null;
@@ -28,6 +33,34 @@ namespace LeetCode.Com.Com
 
             node = new ListNode(numberlist[index]);
             node.next = CreateListNode(node.next, numberlist, index + 1);
+
+            return node;
+        }
+
+        /// <summary>
+        /// 获取链表指定位置节点
+        /// </summary>
+        /// <param name="node"></param>
+        /// <param name="pos"></param>
+        /// <returns></returns>
+        public static ListNode GetNode(ListNode head, int pos)
+        {
+            ListNode node = head;
+
+            int i = 0;
+            while (i < pos)
+            {
+                if (node == null || node.next == null)
+                {
+                    break;
+                }
+                node = node.next;
+                i++;
+            }
+            if (i != pos)
+            {
+                return null;
+            }
 
             return node;
         }
