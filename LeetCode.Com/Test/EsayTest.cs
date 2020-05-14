@@ -480,6 +480,15 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(nums1.ToConsoleString());
             #endregion
 
+            #region No0290
+            //No0290 no0290 = new No0290();
+            //Console.WriteLine(no0290.WordPattern("abba", "dog cat cat dog") == true);
+            //Console.WriteLine(no0290.WordPattern("abba", "dog cat cat fish") == false);
+            //Console.WriteLine(no0290.WordPattern("aaaa", "dog cat cat dog") == false);
+            //Console.WriteLine(no0290.WordPattern("abba", "dog dog dog dog") == false);
+            //Console.WriteLine(no0290.WordPattern("abbaa", "dog dog dog dog") == false);
+            #endregion
+
             #region No0326
             //No0326 no0326 = new No0326();
             //Console.WriteLine(no0326.IsPowerOfThree(27));
