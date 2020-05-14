@@ -489,6 +489,13 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0290.WordPattern("abbaa", "dog dog dog dog") == false);
             #endregion
 
+            #region No0303
+            No0303.NumArray arr = new No0303.NumArray(new int[] { -2, 0, 3, -5, 2, -1 });
+            Console.WriteLine(arr.SumRange(0, 2) == 1);
+            Console.WriteLine(arr.SumRange(2, 5) == -1);
+            Console.WriteLine(arr.SumRange(0, 5) == -3);
+            #endregion
+
             #region No0326
             //No0326 no0326 = new No0326();
             //Console.WriteLine(no0326.IsPowerOfThree(27));
