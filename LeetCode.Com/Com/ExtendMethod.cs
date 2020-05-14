@@ -9,7 +9,7 @@ namespace LeetCode.Com.Com
     {
 
         /// <summary>
-        /// 链表添加节点
+        /// 链表末尾添加值
         /// </summary>
         /// <param name="node"></param>
         /// <param name="x"></param>
@@ -29,6 +29,75 @@ namespace LeetCode.Com.Com
             t.next = new ListNode(x);
 
             return node;
+        }
+
+        /// <summary>
+        /// 链表末尾添加链表（两个链表合并）
+        /// </summary>
+        /// <param name="node"></param>
+        /// <param name="x"></param>
+        /// <returns></returns>
+        public static ListNode AddListNode(this ListNode node, ListNode node2)
+        {
+            if (node == null)
+            {
+                return node2;
+            }
+
+            if (node2 == null)
+            {
+                return node;
+            }
+
+            ListNode t = node;
+            while (t.next != null)
+            {
+                t = t.next;
+            }
+            t.next = node2;
+
+            return node;
+        }
+
+        /// <summary>
+        /// 链表长度。提交leetcode时这个方法不方便提交，只能用于测试时。
+        /// </summary>
+        /// <param name="Node"></param>
+        /// <returns></returns>
+        public static int Length(this ListNode node)
+        {
+            if (node == null)
+            {
+                return 0;
+            }
+            int length = 0;
+            while (node != null)
+            {
+                length++;
+                node = node.next;
+            }
+            return length;
+        }
+
+        /// <summary>
+        /// 扩展方法。打印链表所有元素(用->连接)。可以处理为null时的情况
+        /// </summary>
+        /// <returns></returns>
+        public static string ToConsoleString(this ListNode head)
+        {
+            if (head == null)
+            {
+                return "null";
+            }
+            string s = head.val.ToString();
+            ListNode node = head;
+            while (node.next != null)
+            {
+                node = node.next;
+                s += "->" + node.val.ToString();
+            }
+
+            return s;
         }
 
         /// <summary>
