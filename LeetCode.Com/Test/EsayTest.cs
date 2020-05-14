@@ -256,6 +256,13 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0121.MaxProfit(new int[] { 7, 6, 4, 3, 1 }));
             #endregion
 
+            #region No0122
+            //No0122 no0122 = new No0122();
+            //Console.WriteLine(no0122.MaxProfit(new int[] { 7, 1, 5, 3, 6, 4 }));
+            //Console.WriteLine(no0122.MaxProfit(new int[] { 1, 2, 3, 4, 5 }));
+            //Console.WriteLine(no0122.MaxProfit(new int[] { 7, 6, 4, 3, 1 }));
+            #endregion
+
             #region No0125
             //No0125 no0125 = new No0125();
             //Console.WriteLine(no0125.IsPalindrome("A man, a plan, a canal: Panama"));
