@@ -553,6 +553,13 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0387.FirstUniqChar("loveleetcode"));
             #endregion
 
+            #region No0414
+            //No0414 no0414 = new No0414();
+            //Console.WriteLine(no0414.ThirdMax(new int[] { 3, 2, 1 }) == 1);
+            //Console.WriteLine(no0414.ThirdMax(new int[] { 1, 2 }) == 2);
+            //Console.WriteLine(no0414.ThirdMax(new int[] { 2, 2, 3, 1 }) == 1);
+            #endregion
+
             #region No0434
             //No0434 no0434 = new No0434();
             //Console.WriteLine(no0434.CountSegments("Hello, my name is John"));
@@ -571,7 +578,7 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no1160.CountCharacters(new string[] { "hello", "world", "leetcode" }, "welldonehoneyr"));
             #endregion
 
-            
+
         }
     }
 }
