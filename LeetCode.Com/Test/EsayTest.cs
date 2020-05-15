@@ -490,10 +490,10 @@ namespace LeetCode.Com.Test
             #endregion
 
             #region No0303
-            No0303.NumArray arr = new No0303.NumArray(new int[] { -2, 0, 3, -5, 2, -1 });
-            Console.WriteLine(arr.SumRange(0, 2) == 1);
-            Console.WriteLine(arr.SumRange(2, 5) == -1);
-            Console.WriteLine(arr.SumRange(0, 5) == -3);
+            //No0303.NumArray arr = new No0303.NumArray(new int[] { -2, 0, 3, -5, 2, -1 });
+            //Console.WriteLine(arr.SumRange(0, 2) == 1);
+            //Console.WriteLine(arr.SumRange(2, 5) == -1);
+            //Console.WriteLine(arr.SumRange(0, 5) == -3);
             #endregion
 
             #region No0326
@@ -553,10 +553,10 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0387.FirstUniqChar("loveleetcode"));
             #endregion
 
-            #region No1160
-            //No1160 no1160 = new No1160();
-            //Console.WriteLine(no1160.CountCharacters(new string[] { "cat", "bt", "hat", "tree" }, "atach"));
-            //Console.WriteLine(no1160.CountCharacters(new string[] { "hello", "world", "leetcode" }, "welldonehoneyr"));
+            #region No0434
+            //No0434 no0434 = new No0434();
+            //Console.WriteLine(no0434.CountSegments("Hello, my name is John"));
+            //Console.WriteLine(no0434.CountSegments("Hello,  my   name    is    John"));
             #endregion
 
             #region No0806
@@ -564,6 +564,14 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0806.NumberOfLines(new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 }, "abcdefghijklmnopqrstuvwxyz").ToConsoleString());
             //Console.WriteLine(no0806.NumberOfLines(new int[] { 4, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 }, "bbbcccdddaaa").ToConsoleString());
             #endregion
+
+            #region No1160
+            //No1160 no1160 = new No1160();
+            //Console.WriteLine(no1160.CountCharacters(new string[] { "cat", "bt", "hat", "tree" }, "atach"));
+            //Console.WriteLine(no1160.CountCharacters(new string[] { "hello", "world", "leetcode" }, "welldonehoneyr"));
+            #endregion
+
+            
         }
     }
 }
