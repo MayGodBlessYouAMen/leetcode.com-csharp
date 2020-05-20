@@ -553,6 +553,15 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0387.FirstUniqChar("loveleetcode"));
             #endregion
 
+            #region No0392
+            No0392 no0392 = new No0392();
+            Console.WriteLine(no0392.IsSubsequence("","") == true);
+            Console.WriteLine(no0392.IsSubsequence("abc", "") == false);
+            Console.WriteLine(no0392.IsSubsequence("", "abc") == true);
+            Console.WriteLine(no0392.IsSubsequence("abc", "abc") == true);
+            Console.WriteLine(no0392.IsSubsequence("acb", "abc") == false);
+            #endregion
+
             #region No0414
             //No0414 no0414 = new No0414();
             //Console.WriteLine(no0414.ThirdMax(new int[] { 3, 2, 1 }) == 1);
