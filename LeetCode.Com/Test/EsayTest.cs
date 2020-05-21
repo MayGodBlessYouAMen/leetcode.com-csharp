@@ -554,12 +554,20 @@ namespace LeetCode.Com.Test
             #endregion
 
             #region No0392
-            No0392 no0392 = new No0392();
-            Console.WriteLine(no0392.IsSubsequence("","") == true);
-            Console.WriteLine(no0392.IsSubsequence("abc", "") == false);
-            Console.WriteLine(no0392.IsSubsequence("", "abc") == true);
-            Console.WriteLine(no0392.IsSubsequence("abc", "abc") == true);
-            Console.WriteLine(no0392.IsSubsequence("acb", "abc") == false);
+            //No0392 no0392 = new No0392();
+            //Console.WriteLine(no0392.IsSubsequence("","") == true);
+            //Console.WriteLine(no0392.IsSubsequence("abc", "") == false);
+            //Console.WriteLine(no0392.IsSubsequence("", "abc") == true);
+            //Console.WriteLine(no0392.IsSubsequence("abc", "abc") == true);
+            //Console.WriteLine(no0392.IsSubsequence("acb", "abc") == false);
+            #endregion
+
+            #region No0409
+            //No0409 no0409 = new No0409();
+            //Console.WriteLine(no0409.LongestPalindrome("") == 0);
+            //Console.WriteLine(no0409.LongestPalindrome("a") == 1);
+            //Console.WriteLine(no0409.LongestPalindrome("Aa") == 1);
+            //Console.WriteLine(no0409.LongestPalindrome("abccccdd") == 7);
             #endregion
 
             #region No0414
