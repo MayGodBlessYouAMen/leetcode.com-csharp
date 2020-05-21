@@ -583,6 +583,13 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0434.CountSegments("Hello,  my   name    is    John"));
             #endregion
 
+            #region No0443
+            //No0443 no0443 = new No0443();
+            //Console.WriteLine(no0443.Compress(new char[] { 'a', 'a', 'b', 'b', 'c', 'c', 'c' }) == 6);
+            //Console.WriteLine(no0443.Compress(new char[] { 'a' }) == 1);
+            //Console.WriteLine(no0443.Compress(new char[] { 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b' }) == 4);
+            #endregion
+
             #region No0806
             //No0806 no0806 = new No0806();
             //Console.WriteLine(no0806.NumberOfLines(new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 }, "abcdefghijklmnopqrstuvwxyz").ToConsoleString());
