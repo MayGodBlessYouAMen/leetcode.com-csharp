@@ -590,6 +590,15 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0443.Compress(new char[] { 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b' }) == 4);
             #endregion
 
+            #region No0557
+            //No0557 no0557 = new No0557();
+            //Console.WriteLine(no0557.ReverseWords("")=="");
+            //Console.WriteLine(no0557.ReverseWords(" ")==" ");
+            //Console.WriteLine(no0557.ReverseWords("  ")=="  ");
+            //Console.WriteLine(no0557.ReverseWords(" ab cd  efg   hi ") == " ba dc  gfe   ih ");
+            //Console.WriteLine(no0557.ReverseWords("Let's take LeetCode contest") == "s'teL ekat edoCteeL tsetnoc");
+            #endregion
+
             #region No0806
             //No0806 no0806 = new No0806();
             //Console.WriteLine(no0806.NumberOfLines(new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 }, "abcdefghijklmnopqrstuvwxyz").ToConsoleString());
