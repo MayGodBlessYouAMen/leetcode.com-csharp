@@ -607,6 +607,15 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(No0559.FindRestaurant(new string[] { "aa", "bb", "cc", "dd", "ee", "ff", "gg" }, new string[] { "gg", "ff", "ee", "dd", "cc", "bb", "aa" }).ToConsoleString());
             #endregion
 
+            #region No0645
+            No0645 no0645 = new No0645();
+            Console.WriteLine(no0645.FindErrorNums(new int[] { 1, 2, 2, 4 }).ToConsoleString());
+            Console.WriteLine(no0645.FindErrorNums(new int[] { 1, 3, 3, 4 }).ToConsoleString());
+            Console.WriteLine(no0645.FindErrorNums(new int[] { 1, 1 }).ToConsoleString());
+            Console.WriteLine(no0645.FindErrorNums(new int[] { 2, 2 }).ToConsoleString());
+            Console.WriteLine(no0645.FindErrorNums(new int[] { 3, 2, 3, 4 }).ToConsoleString());
+            #endregion
+
             #region No0806
             //No0806 no0806 = new No0806();
             //Console.WriteLine(no0806.NumberOfLines(new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 }, "abcdefghijklmnopqrstuvwxyz").ToConsoleString());

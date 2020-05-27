@@ -120,6 +120,7 @@
     <Compile Include="Esay\No0443.cs" />
     <Compile Include="Esay\No0557.cs" />
     <Compile Include="Esay\No0559.cs" />
+    <Compile Include="Esay\No0645.cs" />
     <Compile Include="Esay\No0806.cs" />
     <Compile Include="Esay\No1160.cs" />
     <Compile Include="Medium\No0002.cs" />
