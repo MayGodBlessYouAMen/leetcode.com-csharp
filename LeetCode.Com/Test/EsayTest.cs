@@ -599,6 +599,14 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0557.ReverseWords("Let's take LeetCode contest") == "s'teL ekat edoCteeL tsetnoc");
             #endregion
 
+            #region No0559
+            //No0559 No0559 = new No0559();
+            //Console.WriteLine(No0559.FindRestaurant(new string[] { "Shogun", "Tapioca Express", "Burger King", "KFC" }, new string[] { "Piatti", "The Grill at Torrey Pines", "Hungry Hunter Steakhouse", "Shogun" }).ToConsoleString());
+            //Console.WriteLine(No0559.FindRestaurant(new string[] { "Shogun", "Tapioca Express", "Burger King", "KFC" }, new string[] { "Piatti", "The Grill at Torrey Pines", "Hungry Hunter Steakhouse", "Shogun" }).ToConsoleString());
+            //Console.WriteLine(No0559.FindRestaurant(new string[] { "aa", "bb", "cc" }, new string[] { "bb", "aa", "cc" }).ToConsoleString());
+            //Console.WriteLine(No0559.FindRestaurant(new string[] { "aa", "bb", "cc", "dd", "ee", "ff", "gg" }, new string[] { "gg", "ff", "ee", "dd", "cc", "bb", "aa" }).ToConsoleString());
+            #endregion
+
             #region No0806
             //No0806 no0806 = new No0806();
             //Console.WriteLine(no0806.NumberOfLines(new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 }, "abcdefghijklmnopqrstuvwxyz").ToConsoleString());
