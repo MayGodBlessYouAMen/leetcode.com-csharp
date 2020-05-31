@@ -125,6 +125,7 @@
     <Compile Include="Esay\No0806.cs" />
     <Compile Include="Esay\No1141.cs" />
     <Compile Include="Esay\No1160.cs" />
+    <Compile Include="Esay\No1417.cs" />
     <Compile Include="Medium\No0002.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

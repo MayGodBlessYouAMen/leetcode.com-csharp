@@ -643,7 +643,14 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no1160.CountCharacters(new string[] { "hello", "world", "leetcode" }, "welldonehoneyr"));
             #endregion
 
-
+            #region No1417
+            //No1417 no1417 = new No1417();
+            //Console.WriteLine(no1417.Reformat("a0b1c2"));
+            //Console.WriteLine(no1417.Reformat("leetcode"));
+            //Console.WriteLine(no1417.Reformat("1229857369"));
+            //Console.WriteLine(no1417.Reformat("covid2019"));
+            //Console.WriteLine(no1417.Reformat("ab123"));
+            #endregion
         }
     }
 }
