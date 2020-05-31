@@ -5,6 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace LeetCode.Com
 {
@@ -17,7 +18,7 @@ namespace LeetCode.Com
         static void Main(string[] args)
         {
             //Console.WriteLine("hello world");
-
+            
             EsayTest.Start();
             MediumTest.Start();
             HardTest.Start();

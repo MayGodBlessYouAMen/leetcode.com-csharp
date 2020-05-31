@@ -608,12 +608,19 @@ namespace LeetCode.Com.Test
             #endregion
 
             #region No0645
-            No0645 no0645 = new No0645();
-            Console.WriteLine(no0645.FindErrorNums(new int[] { 1, 2, 2, 4 }).ToConsoleString());
-            Console.WriteLine(no0645.FindErrorNums(new int[] { 1, 3, 3, 4 }).ToConsoleString());
-            Console.WriteLine(no0645.FindErrorNums(new int[] { 1, 1 }).ToConsoleString());
-            Console.WriteLine(no0645.FindErrorNums(new int[] { 2, 2 }).ToConsoleString());
-            Console.WriteLine(no0645.FindErrorNums(new int[] { 3, 2, 3, 4 }).ToConsoleString());
+            //No0645 no0645 = new No0645();
+            //Console.WriteLine(no0645.FindErrorNums(new int[] { 1, 2, 2, 4 }).ToConsoleString());
+            //Console.WriteLine(no0645.FindErrorNums(new int[] { 1, 3, 3, 4 }).ToConsoleString());
+            //Console.WriteLine(no0645.FindErrorNums(new int[] { 1, 1 }).ToConsoleString());
+            //Console.WriteLine(no0645.FindErrorNums(new int[] { 2, 2 }).ToConsoleString());
+            //Console.WriteLine(no0645.FindErrorNums(new int[] { 3, 2, 3, 4 }).ToConsoleString());
+            #endregion
+
+            #region No0796
+            //No0796 no0796 = new No0796();
+            //Console.WriteLine(no0796.RotateString("", "") == true);
+            //Console.WriteLine(no0796.RotateString("abcde", "cdeab") == true);
+            //Console.WriteLine(no0796.RotateString("abcde", "abced") == false);
             #endregion
 
             #region No0806
