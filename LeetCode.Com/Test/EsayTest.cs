@@ -629,6 +629,14 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0806.NumberOfLines(new int[] { 4, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 }, "bbbcccdddaaa").ToConsoleString());
             #endregion
 
+            #region No1141
+            //No1141 no1141 = new No1141();
+            //Console.WriteLine(no1141.BuildArray(new int[] { 1, 3 }, 3).ToConsoleString());
+            //Console.WriteLine(no1141.BuildArray(new int[] { 1, 2, 3 }, 3).ToConsoleString());
+            //Console.WriteLine(no1141.BuildArray(new int[] { 1, 2 }, 4).ToConsoleString());
+            //Console.WriteLine(no1141.BuildArray(new int[] { 2, 3, 4 }, 4).ToConsoleString());
+            #endregion
+
             #region No1160
             //No1160 no1160 = new No1160();
             //Console.WriteLine(no1160.CountCharacters(new string[] { "cat", "bt", "hat", "tree" }, "atach"));

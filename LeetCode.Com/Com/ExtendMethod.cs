@@ -126,5 +126,27 @@ namespace LeetCode.Com.Com
 
             return sb.ToString();
         }
+
+        public static string ToConsoleString<T>(this IList<T> arr)
+        {
+            if (arr == null || arr.Count == 0)
+            {
+                return "[]";
+            }
+
+            StringBuilder sb = new StringBuilder();
+            sb.Append("[");
+            for (int i = 0; i < arr.Count; i++)
+            {
+                if (i > 0)
+                {
+                    sb.Append(",");
+                }
+                sb.Append(arr[i].ToString());
+            }
+            sb.Append("]");
+
+            return sb.ToString();
+        }
     }
 }
