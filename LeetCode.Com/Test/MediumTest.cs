@@ -21,6 +21,11 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0002.AddTwoNumbers(Utils.CreateListNode(new List<int>() { }), Utils.CreateListNode(new List<int>() { })));
             //Console.WriteLine(no0002.AddTwoNumbers(Utils.CreateListNode(new List<int>() { 5}), Utils.CreateListNode(new List<int>() { 5})).ToString());
             #endregion
+
+            #region No0049
+            //No0049 no0049 = new No0049();
+            //Console.WriteLine(no0049.GroupAnagrams(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" }).ToConsoleString<IList<string>>());
+            #endregion
         }
     }
 }

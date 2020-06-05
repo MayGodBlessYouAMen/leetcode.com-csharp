@@ -142,7 +142,28 @@ namespace LeetCode.Com.Com
                 {
                     sb.Append(",");
                 }
-                sb.Append(arr[i].ToString());
+
+                //Console.WriteLine(typeof(T) is IList<object>);
+                //Console.WriteLine(typeof(T) is IList<string>);
+                //Console.WriteLine(typeof(T) is List<object>);
+                //Console.WriteLine(typeof(T) is List<string>);
+                //Console.WriteLine(typeof(T) == typeof(List<object>));
+                //Console.WriteLine(typeof(T) == typeof(List<string>));
+                //Console.WriteLine(typeof(T) == typeof(IList<object>));
+                //Console.WriteLine(typeof(T) == typeof(IList<string>));   //true
+                //Console.WriteLine(typeof(IList<object>).IsAssignableFrom(typeof(T)));
+                //Console.WriteLine(typeof(IList<string>).IsAssignableFrom(typeof(T)));
+                //Console.WriteLine(typeof(List<string>).IsAssignableFrom(typeof(T)));   //true
+
+                if (typeof(T) == typeof(IList<string>))
+                {
+                    var list = arr[i] as IList<string>;
+                    sb.Append(list.ToConsoleString());
+                }
+                else
+                {
+                    sb.Append(arr[i].ToString());
+                }
             }
             sb.Append("]");
 
