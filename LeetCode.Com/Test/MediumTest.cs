@@ -30,6 +30,16 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0003.LengthOfLongestSubstring("pwwkew"));
             #endregion
 
+            #region No0005
+            //No0005 no0005 = new No0005();
+            //Console.WriteLine(no0005.LongestPalindrome(""));
+            //Console.WriteLine(no0005.LongestPalindrome("a"));
+            //Console.WriteLine(no0005.LongestPalindrome("aa"));
+            //Console.WriteLine(no0005.LongestPalindrome("ab"));
+            //Console.WriteLine(no0005.LongestPalindrome("babad"));
+            //Console.WriteLine(no0005.LongestPalindrome("cbbd"));
+            #endregion
+
             #region No0049
             //No0049 no0049 = new No0049();
             //Console.WriteLine(no0049.GroupAnagrams(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" }).ToConsoleString());
