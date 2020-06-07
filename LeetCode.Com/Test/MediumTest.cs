@@ -40,6 +40,11 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0005.LongestPalindrome("cbbd"));
             #endregion
 
+            #region No0011
+            //No0011 no0011 = new No0011();
+            //Console.WriteLine(no0011.MaxArea(new int[] { 1, 8, 6, 2, 5, 4, 8, 3, 7 }) == 49);
+            #endregion
+
             #region No0049
             //No0049 no0049 = new No0049();
             //Console.WriteLine(no0049.GroupAnagrams(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" }).ToConsoleString());
