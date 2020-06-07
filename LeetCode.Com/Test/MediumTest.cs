@@ -22,9 +22,17 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0002.AddTwoNumbers(Utils.CreateListNode(new List<int>() { 5}), Utils.CreateListNode(new List<int>() { 5})).ToString());
             #endregion
 
+            #region No0003
+            //No0003 no0003 = new No0003();
+            //Console.WriteLine(no0003.LengthOfLongestSubstring(""));
+            //Console.WriteLine(no0003.LengthOfLongestSubstring("abcabcbb"));
+            //Console.WriteLine(no0003.LengthOfLongestSubstring("bbbbb"));
+            //Console.WriteLine(no0003.LengthOfLongestSubstring("pwwkew"));
+            #endregion
+
             #region No0049
             //No0049 no0049 = new No0049();
-            //Console.WriteLine(no0049.GroupAnagrams(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" }).ToConsoleString<IList<string>>());
+            //Console.WriteLine(no0049.GroupAnagrams(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" }).ToConsoleString());
             #endregion
         }
     }

@@ -155,7 +155,7 @@ namespace LeetCode.Com.Com
                 //Console.WriteLine(typeof(IList<string>).IsAssignableFrom(typeof(T)));
                 //Console.WriteLine(typeof(List<string>).IsAssignableFrom(typeof(T)));   //true
 
-                if (typeof(T) == typeof(IList<string>))
+                if (typeof(T).Name == "IList`1")
                 {
                     var list = arr[i] as IList<string>;
                     sb.Append(list.ToConsoleString());
