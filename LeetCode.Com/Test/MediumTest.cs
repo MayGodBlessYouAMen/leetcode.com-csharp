@@ -53,6 +53,16 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0015.ThreeSum(new int[] { -1, 0, 1 }).ToConsoleString<IList<int>>());
             #endregion
 
+            #region No0016
+            //No0016 no0016 = new No0016();
+            //Console.WriteLine(no0016.ThreeSumClosest(new int[] { -1, 2, 1, -4 }, 1));
+            //Console.WriteLine(no0016.ThreeSumClosest(new int[] { -1, 2, 1, -4 }, 0));
+            //Console.WriteLine(no0016.ThreeSumClosest(new int[] { -1, 2, 1, -4 }, 2));
+            //Console.WriteLine(no0016.ThreeSumClosest(new int[] { -1, 2, 1, -4 }, 10));
+            //Console.WriteLine(no0016.ThreeSumClosest(new int[] { -1, 2, 1, -4 }, -10));
+            //Console.WriteLine(no0016.ThreeSumClosest(new int[] { 0, 0, 0 }, 1));
+            #endregion
+
             #region No0018
             //No0018 no0018 = new No0018();
             //Console.WriteLine(no0018.FourSum(new int[] { 1, 0, -1, 0, -2, 2 }, 0).ToConsoleString<IList<int>>());
