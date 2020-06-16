@@ -53,6 +53,18 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0015.ThreeSum(new int[] { -1, 0, 1 }).ToConsoleString<IList<int>>());
             #endregion
 
+            #region No0018
+            //No0018 no0018 = new No0018();
+            //Console.WriteLine(no0018.FourSum(new int[] { 1, 0, -1, 0, -2, 2 }, 0).ToConsoleString<IList<int>>());
+            //Console.WriteLine(no0018.FourSum(new int[] { 1, 0, -1, 0, -2, 2 }, 1).ToConsoleString<IList<int>>());
+            //Console.WriteLine(no0018.FourSum(new int[] { 1, 0, -1, 0, -2, 2 }, 2).ToConsoleString<IList<int>>());
+            //Console.WriteLine(no0018.FourSum(new int[] { }, 0).ToConsoleString<IList<int>>());
+            //Console.WriteLine(no0018.FourSum(new int[] { -1, 0, 1 }, 0).ToConsoleString<IList<int>>());
+            //Console.WriteLine(no0018.FourSum(new int[] { -2, 0, 1, 1 }, 0).ToConsoleString<IList<int>>());
+            //Console.WriteLine(no0018.FourSum(new int[] { 0, 0, 0, 0 }, 0).ToConsoleString<IList<int>>());
+            //Console.WriteLine(no0018.FourSum(new int[] { 1, -2, -5, -4, -3, 3, 3, 5 }, -11).ToConsoleString<IList<int>>());
+            #endregion
+
             #region No0049
             //No0049 no0049 = new No0049();
             //Console.WriteLine(no0049.GroupAnagrams(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" }).ToConsoleString());
