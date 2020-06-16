@@ -157,8 +157,16 @@ namespace LeetCode.Com.Com
 
                 if (typeof(T).Name == "IList`1")
                 {
-                    var list = arr[i] as IList<string>;
-                    sb.Append(list.ToConsoleString());
+                    var list1 = arr[i] as IList<string>;
+                    if (list1 != null)
+                    {
+                        sb.Append(list1.ToConsoleString());
+                    }
+                    else
+                    {
+                        var list2 = arr[i] as IList<int>;
+                        sb.Append(list2.ToConsoleString());
+                    }
                 }
                 else
                 {

@@ -45,6 +45,14 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0011.MaxArea(new int[] { 1, 8, 6, 2, 5, 4, 8, 3, 7 }) == 49);
             #endregion
 
+            #region No0015
+            //No0015 no0015 = new No0015();
+            //Console.WriteLine(no0015.ThreeSum(new int[] { -1, 0, 1, 2, -1, -4 }).ToConsoleString<IList<int>>());
+            //Console.WriteLine(no0015.ThreeSum(new int[] { }).ToConsoleString<IList<int>>());
+            //Console.WriteLine(no0015.ThreeSum(new int[] { -1, 0 }).ToConsoleString<IList<int>>());
+            //Console.WriteLine(no0015.ThreeSum(new int[] { -1, 0, 1 }).ToConsoleString<IList<int>>());
+            #endregion
+
             #region No0049
             //No0049 no0049 = new No0049();
             //Console.WriteLine(no0049.GroupAnagrams(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" }).ToConsoleString());
