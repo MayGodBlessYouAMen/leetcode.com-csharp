@@ -8,7 +8,7 @@ namespace LeetCode.Com.Esay
     /// <summary>
     /// Minimum Index Sum of Two Lists
     /// </summary>
-    public class No0559
+    public class No0599
     {
         public string[] FindRestaurant(string[] list1, string[] list2)
         {
