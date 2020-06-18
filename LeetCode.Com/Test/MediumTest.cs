@@ -79,6 +79,12 @@ namespace LeetCode.Com.Test
             //No0049 no0049 = new No0049();
             //Console.WriteLine(no0049.GroupAnagrams(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" }).ToConsoleString());
             #endregion
+
+            #region No0338
+            //No0338 no0388 = new No0338();
+            //Console.WriteLine(no0388.CountBits(2).ToConsoleString());
+            //Console.WriteLine(no0388.CountBits(5).ToConsoleString());
+            #endregion
         }
     }
 }
