@@ -331,6 +331,13 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(nums1.ToConsoleString());
             #endregion
 
+            #region No0168
+            //No0168 no0168 = new No0168();
+            //Console.WriteLine(no0168.ConvertToTitle(1) == "A");
+            //Console.WriteLine(no0168.ConvertToTitle(28) == "AB");
+            //Console.WriteLine(no0168.ConvertToTitle(701) == "ZY");
+            #endregion
+
             #region No0171
             ////No0171 no0171 = new No0171();
             ////Console.WriteLine(no0171.TitleToNumber("A"));

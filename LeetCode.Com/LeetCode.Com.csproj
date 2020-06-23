@@ -81,6 +81,7 @@
     <Compile Include="Esay\No0155.cs" />
     <Compile Include="Esay\No0160.cs" />
     <Compile Include="Esay\No0167.cs" />
+    <Compile Include="Esay\No0168.cs" />
     <Compile Include="Esay\No0171.cs" />
     <Compile Include="Esay\No0172.cs" />
     <Compile Include="Esay\No0189.cs" />
@@ -119,7 +120,7 @@
     <Compile Include="Esay\No0434.cs" />
     <Compile Include="Esay\No0443.cs" />
     <Compile Include="Esay\No0557.cs" />
-    <Compile Include="Esay\No0559.cs" />
+    <Compile Include="Esay\No0599.cs" />
     <Compile Include="Esay\No0645.cs" />
     <Compile Include="Esay\No0796.cs" />
     <Compile Include="Esay\No0806.cs" />
