@@ -338,6 +338,12 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0168.ConvertToTitle(701) == "ZY");
             #endregion
 
+            #region No0169
+            No0169 no0169 = new No0169();
+            Console.WriteLine(no0169.MajorityElement(new int[] { 3, 2, 3 }) == 3);
+            Console.WriteLine(no0169.MajorityElement(new int[] { 2, 2, 1, 1, 1, 2, 2 }) == 2);
+            #endregion
+
             #region No0171
             ////No0171 no0171 = new No0171();
             ////Console.WriteLine(no0171.TitleToNumber("A"));
