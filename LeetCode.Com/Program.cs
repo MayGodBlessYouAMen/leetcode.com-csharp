@@ -1,15 +1,9 @@
-﻿using LeetCode.Com.Com;
-using LeetCode.Com.Esay;
-using LeetCode.Com.Test;
+﻿using LeetCode.Com.Test;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LeetCode.Com
 {
-    class Program
+    static class Program
     {
         /// <summary>
         /// 测试类
