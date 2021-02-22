@@ -107,6 +107,7 @@
     <Compile Include="Esay\No0292.cs" />
     <Compile Include="Esay\No0303.cs" />
     <Compile Include="Esay\No0326.cs" />
+    <Compile Include="Esay\No0371.cs" />
     <Compile Include="Medium\No0338.cs" />
     <Compile Include="Esay\No0342.cs" />
     <Compile Include="Esay\No0344.cs" />
@@ -145,6 +146,9 @@
   <ItemGroup>
     <Folder Include="DataBase\" />
     <Folder Include="Hard\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Esay\No0175.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
