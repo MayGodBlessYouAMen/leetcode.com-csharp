@@ -834,6 +834,12 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0806.NumberOfLines(new int[] { 4, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 }, "bbbcccdddaaa").ToConsoleString());
             #endregion
 
+            #region No0811
+            //No0811 no0811 = new No0811();
+            //Console.WriteLine(no0811.SubdomainVisits(new string[] { "9001 discuss.leetcode.com" }).ToConsoleString());
+            //Console.WriteLine(no0811.SubdomainVisits(new string[] { "900 google.mail.com", "50 yahoo.com", "1 intel.mail.com", "5 wiki.org" }).ToConsoleString());
+            #endregion
+
             #region No1141
             //No1141 no1141 = new No1141();
             //Console.WriteLine(no1141.BuildArray(new int[] { 1, 3 }, 3).ToConsoleString());
