@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace LeetCode.Com.Esay
+namespace LeetCode.Com.Medium
 {
     /// <summary>
     /// [38]Count and Say

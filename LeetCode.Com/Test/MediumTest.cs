@@ -75,6 +75,13 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0018.FourSum(new int[] { 1, -2, -5, -4, -3, 3, 3, 5 }, -11).ToConsoleString<IList<int>>());
             #endregion
 
+            #region No0038
+            //No0038 no0038 = new No0038();
+            //Console.WriteLine(no0038.CountAndSay(1));
+            //Console.WriteLine(no0038.CountAndSay(4));
+            //Console.WriteLine(no0038.CountAndSay(30));
+            #endregion
+
             #region No0049
             //No0049 no0049 = new No0049();
             //Console.WriteLine(no0049.GroupAnagrams(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" }).ToConsoleString());

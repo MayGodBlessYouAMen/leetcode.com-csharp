@@ -97,13 +97,6 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0035.SearchInsert(new int[] { 1, 3, 5, 6 }, 0));
             #endregion
 
-            #region No0038
-            //No0038 no0038 = new No0038();
-            //Console.WriteLine(no0038.CountAndSay(1));
-            //Console.WriteLine(no0038.CountAndSay(4));
-            //Console.WriteLine(no0038.CountAndSay(30));
-            #endregion
-
             #region No0053
             //No0053 no0053 = new No0053();
             //Console.WriteLine(no0053.MaxSubArray(new int[] { -2, 1, -3, 4, -1, 2, 1, -5, 4 }));

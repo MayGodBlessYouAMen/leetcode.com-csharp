@@ -56,7 +56,8 @@
     <Compile Include="Esay\No0027.cs" />
     <Compile Include="Esay\No0028.cs" />
     <Compile Include="Esay\No0035.cs" />
-    <Compile Include="Esay\No0038.cs" />
+    <Compile Include="Hard\No0004.cs" />
+    <Compile Include="Medium\No0038.cs" />
     <Compile Include="Esay\No0053.cs" />
     <Compile Include="Esay\No0058.cs" />
     <Compile Include="Esay\No0066.cs" />
@@ -145,7 +146,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DataBase\" />
-    <Folder Include="Hard\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Esay\No0175.sql" />
