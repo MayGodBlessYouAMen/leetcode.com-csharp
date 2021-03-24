@@ -667,6 +667,11 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0476.FindComplement(1));
             #endregion
 
+            #region No0485
+            //No0485 no0485 = new No0485();
+            //Console.WriteLine(no0485.FindMaxConsecutiveOnes(new int[] { 1, 1, 0, 1, 1, 1 }));
+            #endregion
+
             #region No0557
             //No0557 no0557 = new No0557();
             //Console.WriteLine(no0557.ReverseWords("")=="");
