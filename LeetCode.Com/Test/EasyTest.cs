@@ -619,6 +619,12 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0434.CountSegments("Hello,  my   name    is    John"));
             #endregion
 
+            #region No0441
+            //No0441 no0441 = new No0441();
+            //Console.WriteLine(no0441.ArrangeCoins(5));
+            //Console.WriteLine(no0441.ArrangeCoins(8));
+            #endregion
+
             #region No0443
             //No0443 no0443 = new No0443();
             //Console.WriteLine(no0443.Compress(new char[] { 'a', 'a', 'b', 'b', 'c', 'c', 'c' }) == 6);
