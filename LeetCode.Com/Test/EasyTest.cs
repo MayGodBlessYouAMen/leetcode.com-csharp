@@ -790,6 +790,14 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0645.FindErrorNums(new int[] { 3, 2, 3, 4 }).ToConsoleString());
             #endregion
 
+            #region No0657
+            //No0657 no0657 = new No0657();
+            //Console.WriteLine(no0657.JudgeCircle("UD"));
+            //Console.WriteLine(no0657.JudgeCircle("LL"));
+            //Console.WriteLine(no0657.JudgeCircle("RRDD"));
+            //Console.WriteLine(no0657.JudgeCircle("LDRRLRUULR"));
+            #endregion
+
             #region No0796
             //No0796 no0796 = new No0796();
             //Console.WriteLine(no0796.RotateString("", "") == true);
