@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 
@@ -140,6 +141,59 @@ namespace LeetCode.Com.Com
             {
                 Console.WriteLine(string.Join<T>(",", sublist));
             }
+        }
+
+        public static void CreateModelClass()
+        {
+            string[] lines = File.ReadAllLines("leetcodelist.txt");
+            if (!(lines?.Count() > 0))
+            {
+                return;
+            }
+
+            foreach (var line in lines)
+            {
+                if (string.IsNullOrWhiteSpace(line))
+                {
+                    continue;
+                }
+                string no = line.Trim().Split(' ')[0];
+                string name = line.Trim().Replace(no, "");
+
+                string level = "Esay";
+                CreateModelClass(level, int.Parse(no), name);
+            }
+        }
+
+        /// <summary>
+        /// 临时用-创建类
+        /// </summary>
+        /// <param name="level"></param>
+        /// <param name="no"></param>
+        /// <param name="name"></param>
+        private static void CreateModelClass(string level, int no, string name)
+        {
+            string classname = $"No{no.ToString("0000")}";
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("using System;");
+            sb.AppendLine("using System.Collections.Generic;");
+            sb.AppendLine("using System.Linq;");
+            sb.AppendLine("using System.Text;");
+            sb.AppendLine("");
+            sb.AppendLine($"namespace LeetCode.Com.{level}");
+            sb.AppendLine("{");
+            sb.AppendLine("    /// <summary>");
+            sb.AppendLine($"    /// [{no}] {name}");
+            sb.AppendLine("    /// </summary>");
+            sb.AppendLine($"    public class {classname}");
+            sb.AppendLine("    {");
+            sb.AppendLine("        ");
+            sb.AppendLine("    }");
+            sb.AppendLine("}");
+
+            Directory.CreateDirectory("temp");
+            string filename = $"temp/{classname}.cs";
+            File.WriteAllText(filename, sb.ToString(), Encoding.UTF8);
         }
     }
 }

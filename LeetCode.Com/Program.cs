@@ -12,7 +12,9 @@ namespace LeetCode.Com
         static void Main(string[] args)
         {
             //Console.WriteLine("hello world");
-            
+
+            //Com.Utils.CreateModelClass();
+
             EsayTest.Start();
             MediumTest.Start();
             HardTest.Start();
