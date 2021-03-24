@@ -608,6 +608,11 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0414.ThirdMax(new int[] { 2, 2, 3, 1 }) == 1);
             #endregion
 
+            #region No0415
+            //No0415 no0415 = new No0415();
+            //Console.WriteLine(no0415.AddStrings("123123213213123213123","324324324234234232"));
+            #endregion
+
             #region No0434
             //No0434 no0434 = new No0434();
             //Console.WriteLine(no0434.CountSegments("Hello, my name is John"));
