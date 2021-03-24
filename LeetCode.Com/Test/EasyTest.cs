@@ -720,6 +720,12 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0509.Fib(4));
             #endregion
 
+            #region No0520
+            //No0520 no0520 = new No0520();
+            //Console.WriteLine(no0520.DetectCapitalUse("USA"));
+            //Console.WriteLine(no0520.DetectCapitalUse("FlaG"));
+            #endregion
+
             #region No0557
             //No0557 no0557 = new No0557();
             //Console.WriteLine(no0557.ReverseWords("")=="");
