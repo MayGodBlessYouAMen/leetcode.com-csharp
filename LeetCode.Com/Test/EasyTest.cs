@@ -692,6 +692,18 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0500.FindWords(new string[] { "adsdf", "sfd" }).ToConsoleString<string>());
             #endregion
 
+            #region No0504
+            //No0504 no0504 = new No0504();
+            //Console.WriteLine(no0504.ConvertToBase7(100));
+            //Console.WriteLine(no0504.ConvertToBase7(-7));
+            #endregion
+
+            #region No0506
+            //No0506 no0506 = new No0506();
+            //Console.WriteLine(no0506.FindRelativeRanks(new int[] { 5, 4, 3, 2, 1 }).ToConsoleString<string>());
+            //Console.WriteLine(no0506.FindRelativeRanks(new int[] { 10, 3, 8, 9, 4 }).ToConsoleString<string>());
+            #endregion
+
             #region No0557
             //No0557 no0557 = new No0557();
             //Console.WriteLine(no0557.ReverseWords("")=="");
