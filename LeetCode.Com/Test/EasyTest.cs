@@ -741,6 +741,12 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0557.ReverseWords("Let's take LeetCode contest") == "s'teL ekat edoCteeL tsetnoc");
             #endregion
 
+            #region No0561
+            //No0561 no0561 = new No0561();
+            //Console.WriteLine(no0561.ArrayPairSum(new int[] { 1, 4, 3, 2 }));
+            //Console.WriteLine(no0561.ArrayPairSum(new int[] { 6, 2, 6, 5, 1, 2 }));
+            #endregion
+
             #region No0599
             //No0599 No0599 = new No0599();
             //Console.WriteLine(No0599.FindRestaurant(new string[] { "Shogun", "Tapioca Express", "Burger King", "KFC" }, new string[] { "Piatti", "The Grill at Torrey Pines", "Hungry Hunter Steakhouse", "Shogun" }).ToConsoleString());
