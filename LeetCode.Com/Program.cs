@@ -15,7 +15,7 @@ namespace LeetCode.Com
 
             //Com.Utils.CreateModelClass();
 
-            EsayTest.Start();
+            EasyTest.Start();
             MediumTest.Start();
             HardTest.Start();
 

@@ -1,5 +1,5 @@
 ﻿using LeetCode.Com.Com;
-using LeetCode.Com.Esay;
+using LeetCode.Com.Easy;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +7,7 @@ using System.Text;
 
 namespace LeetCode.Com.Test
 {
-    public class EsayTest
+    public class EasyTest
     {
         public static void Start()
         {

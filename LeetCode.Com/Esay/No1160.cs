@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace LeetCode.Com.Esay
+namespace LeetCode.Com.Easy
 {
     /// <summary>
     /// 1160. Find Words That Can Be Formed by Characters

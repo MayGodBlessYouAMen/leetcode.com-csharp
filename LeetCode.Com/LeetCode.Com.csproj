@@ -145,7 +145,7 @@
     <Compile Include="Medium\No0049.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Test\EsayTest.cs" />
+    <Compile Include="Test\EasyTest.cs" />
     <Compile Include="Test\HardTest.cs" />
     <Compile Include="Test\MediumTest.cs" />
   </ItemGroup>
