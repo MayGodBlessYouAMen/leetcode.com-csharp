@@ -87,6 +87,16 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0049.GroupAnagrams(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" }).ToConsoleString());
             #endregion
 
+            #region No0107
+            No0107 no0107 = new No0107();
+            TreeNode treeNode1 = Utils.CreateTreeNode(new List<string>() { "3", "9", "20", "null", "null", "15", "7" });
+            Console.WriteLine(no0107.LevelOrderBottom(treeNode1).ToConsoleString());
+            TreeNode treeNode2 = Utils.CreateTreeNode(new List<string>() { "1" });
+            Console.WriteLine(no0107.LevelOrderBottom(treeNode2).ToConsoleString());
+            TreeNode treeNode3 = Utils.CreateTreeNode(new List<string>() { });
+            Console.WriteLine(no0107.LevelOrderBottom(treeNode3).ToConsoleString());
+            #endregion
+
             #region No0338
             //No0338 no0388 = new No0338();
             //Console.WriteLine(no0388.CountBits(2).ToConsoleString());
