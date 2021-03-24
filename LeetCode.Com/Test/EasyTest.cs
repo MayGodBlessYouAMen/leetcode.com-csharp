@@ -679,6 +679,12 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0492.ConstructRectangle(122122).ToConsoleString<int>());
             #endregion
 
+            #region No0496
+            //No0496 no0496 = new No0496();
+            //Console.WriteLine(no0496.NextGreaterElement(new int[] { 4, 1, 2 }, new int[] { 1, 3, 4, 2 }).ToConsoleString<int>());
+            //Console.WriteLine(no0496.NextGreaterElement(new int[] { 2, 4 }, new int[] { 1, 2, 3, 4 }).ToConsoleString<int>());
+            #endregion
+
             #region No0557
             //No0557 no0557 = new No0557();
             //Console.WriteLine(no0557.ReverseWords("")=="");
