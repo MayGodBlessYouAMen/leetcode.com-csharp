@@ -823,6 +823,11 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0796.RotateString("abcde", "abced") == false);
             #endregion
 
+            #region No0804
+            //No0804 no0804 = new No0804();
+            //Console.WriteLine(no0804.UniqueMorseRepresentations(new string[] { "gin", "zen", "gig", "msg" }));
+            #endregion
+
             #region No0806
             //No0806 no0806 = new No0806();
             //Console.WriteLine(no0806.NumberOfLines(new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 }, "abcdefghijklmnopqrstuvwxyz").ToConsoleString());
