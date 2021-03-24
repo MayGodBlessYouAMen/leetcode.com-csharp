@@ -632,6 +632,11 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0443.Compress(new char[] { 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b' }) == 4);
             #endregion
 
+            #region No0448
+            //No0448 no0448 = new No0448();
+            //Console.WriteLine(no0448.FindDisappearedNumbers(new int[] { 4, 3, 2, 7, 8, 2, 3, 1 }).ToConsoleString());
+            #endregion
+
             #region No0557
             //No0557 no0557 = new No0557();
             //Console.WriteLine(no0557.ReverseWords("")=="");
