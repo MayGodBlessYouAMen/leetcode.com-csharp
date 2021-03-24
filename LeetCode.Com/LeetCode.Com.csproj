@@ -81,6 +81,8 @@
     <Compile Include="Easy\No0541.cs" />
     <Compile Include="Easy\No0561.cs" />
     <Compile Include="Easy\No0575.cs" />
+    <Content Include="Easy\No0595.sql" />
+    <Compile Include="Easy\No0617.cs" />
     <Compile Include="Hard\No0004.cs" />
     <Compile Include="Medium\No0189.cs" />
     <Compile Include="Medium\No0107.cs" />

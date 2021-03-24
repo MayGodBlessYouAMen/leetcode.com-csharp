@@ -127,6 +127,12 @@ namespace LeetCode.Com.Com
             return sb.ToString();
         }
 
+        /// <summary>
+        /// IList<T>打印
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="arr"></param>
+        /// <returns></returns>
         public static string ToConsoleString<T>(this IList<T> arr)
         {
             if (arr == null || arr.Count == 0)
@@ -176,6 +182,48 @@ namespace LeetCode.Com.Com
             sb.Append("]");
 
             return sb.ToString();
+        }
+
+        /// <summary>
+        /// 层序遍历
+        /// </summary>
+        /// <param name="treeNode"></param>
+        /// <returns></returns>
+        public static string ToConsoleString(this TreeNode treeNode)
+        {
+            List<string> list = new List<string>();
+            ToConsoleString(treeNode, list);
+            return $"[{string.Join(",", list.ToArray())}]";
+        }
+
+        private static void ToConsoleString(TreeNode treeNode, List<string> list)
+        {
+            if (treeNode != null)
+            {
+                list.Add(treeNode.val.ToString());
+                //左右同时为null时不操作
+                if (!(treeNode.left == null && treeNode.right == null))
+                {
+                    if (treeNode.left == null)
+                    {
+                        list.Add("null");
+                    }
+                    else
+                    {
+                        ToConsoleString(treeNode.left, list);
+                    }
+
+                    if (treeNode.right == null)
+                    {
+                        //右子树为null时不用打印
+                        //list.Add("null");
+                    }
+                    else
+                    {
+                        ToConsoleString(treeNode.right, list);
+                    }
+                }
+            }
         }
     }
 }
