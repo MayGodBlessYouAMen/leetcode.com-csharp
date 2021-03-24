@@ -163,6 +163,7 @@ namespace LeetCode.Com.Com
 
                 if (typeof(T).Name == "IList`1")
                 {
+                    //这里是为了处理IList<IList<Tvalue>>这种情况
                     var list1 = arr[i] as IList<string>;
                     if (list1 != null)
                     {

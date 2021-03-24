@@ -840,6 +840,12 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0811.SubdomainVisits(new string[] { "900 google.mail.com", "50 yahoo.com", "1 intel.mail.com", "5 wiki.org" }).ToConsoleString());
             #endregion
 
+            #region No0832
+            //No0832 no0832 = new No0832();
+            //Console.WriteLine(no0832.FlipAndInvertImage(new int[][] { new int[] { 1, 1, 0 }, new int[] { 1, 1, 0 }, new int[] { 0, 0, 0 } }).ToConsoleString<IList<int>>());
+            //Console.WriteLine(no0832.FlipAndInvertImage(new int[][] { new int[] { 1, 1, 0, 0 }, new int[] { 1, 0, 0, 1 }, new int[] { 0, 1, 1, 1 }, new int[] { 1, 0, 1, 0 } }).ToConsoleString<IList<int>>());
+            #endregion
+
             #region No1141
             //No1141 no1141 = new No1141();
             //Console.WriteLine(no1141.BuildArray(new int[] { 1, 3 }, 3).ToConsoleString());
