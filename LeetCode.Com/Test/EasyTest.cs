@@ -661,6 +661,12 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0463.IslandPerimeter(new int[,] { { 1, 0 } }));
             #endregion
 
+            #region No0476
+            //No0476 no0476 = new No0476();
+            //Console.WriteLine(no0476.FindComplement(5));
+            //Console.WriteLine(no0476.FindComplement(1));
+            #endregion
+
             #region No0557
             //No0557 no0557 = new No0557();
             //Console.WriteLine(no0557.ReverseWords("")=="");
