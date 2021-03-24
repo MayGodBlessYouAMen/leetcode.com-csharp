@@ -713,6 +713,13 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0507.CheckPerfectNumber(2));
             #endregion
 
+            #region No0509
+            //No0509 no0509 = new No0509();
+            //Console.WriteLine(no0509.Fib(2));
+            //Console.WriteLine(no0509.Fib(3));
+            //Console.WriteLine(no0509.Fib(4));
+            #endregion
+
             #region No0557
             //No0557 no0557 = new No0557();
             //Console.WriteLine(no0557.ReverseWords("")=="");
