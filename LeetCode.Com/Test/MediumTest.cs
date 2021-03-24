@@ -88,13 +88,24 @@ namespace LeetCode.Com.Test
             #endregion
 
             #region No0107
-            No0107 no0107 = new No0107();
-            TreeNode treeNode1 = Utils.CreateTreeNode(new List<string>() { "3", "9", "20", "null", "null", "15", "7" });
-            Console.WriteLine(no0107.LevelOrderBottom(treeNode1).ToConsoleString());
-            TreeNode treeNode2 = Utils.CreateTreeNode(new List<string>() { "1" });
-            Console.WriteLine(no0107.LevelOrderBottom(treeNode2).ToConsoleString());
-            TreeNode treeNode3 = Utils.CreateTreeNode(new List<string>() { });
-            Console.WriteLine(no0107.LevelOrderBottom(treeNode3).ToConsoleString());
+            //No0107 no0107 = new No0107();
+            //TreeNode treeNode1 = Utils.CreateTreeNode(new List<string>() { "3", "9", "20", "null", "null", "15", "7" });
+            //Console.WriteLine(no0107.LevelOrderBottom(treeNode1).ToConsoleString());
+            //TreeNode treeNode2 = Utils.CreateTreeNode(new List<string>() { "1" });
+            //Console.WriteLine(no0107.LevelOrderBottom(treeNode2).ToConsoleString());
+            //TreeNode treeNode3 = Utils.CreateTreeNode(new List<string>() { });
+            //Console.WriteLine(no0107.LevelOrderBottom(treeNode3).ToConsoleString());
+            #endregion
+
+            #region No0189
+            //No0189 no0189 = new No0189();
+            //int[] arr1 = new int[] { 1, 2, 3, 4, 5, 6, 7 };
+            //no0189.Rotate(arr1, 3);
+            //Console.WriteLine(arr1.ToConsoleString<int>());
+
+            //int[] arr2 = new int[] { -1, -100, 3, 99 };
+            //no0189.Rotate(arr2, 2);
+            //Console.WriteLine(arr2.ToConsoleString<int>());
             #endregion
 
             #region No0338

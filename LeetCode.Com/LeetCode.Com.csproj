@@ -57,6 +57,7 @@
     <Compile Include="Esay\No0028.cs" />
     <Compile Include="Esay\No0035.cs" />
     <Compile Include="Hard\No0004.cs" />
+    <Compile Include="Medium\No0189.cs" />
     <Compile Include="Medium\No0107.cs" />
     <Compile Include="Medium\No0038.cs" />
     <Compile Include="Esay\No0053.cs" />
