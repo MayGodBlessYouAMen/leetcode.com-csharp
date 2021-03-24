@@ -577,6 +577,11 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0392.IsSubsequence("acb", "abc") == false);
             #endregion
 
+            #region No0401
+            //No0401 no0401 = new No0401();
+            //Console.WriteLine(no0401.ReadBinaryWatch(1).ToConsoleString());
+            #endregion
+
             #region No0409
             //No0409 no0409 = new No0409();
             //Console.WriteLine(no0409.LongestPalindrome("") == 0);
