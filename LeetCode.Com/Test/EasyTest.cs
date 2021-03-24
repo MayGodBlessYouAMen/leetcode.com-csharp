@@ -726,6 +726,12 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0520.DetectCapitalUse("FlaG"));
             #endregion
 
+            #region No0541
+            //No0541 no0541 = new No0541();
+            //Console.WriteLine(no0541.ReverseStr("abcdefg", 2));
+            //Console.WriteLine(no0541.ReverseStr("abcd", 2));
+            #endregion
+
             #region No0557
             //No0557 no0557 = new No0557();
             //Console.WriteLine(no0557.ReverseWords("")=="");
