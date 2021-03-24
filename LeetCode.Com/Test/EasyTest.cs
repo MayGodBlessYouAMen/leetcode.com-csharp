@@ -810,6 +810,12 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0728.SelfDividingNumbers(1, 22).ToConsoleString());
             #endregion
 
+            #region No0771
+            //No0771 no0771 = new No0771();
+            //Console.WriteLine(no0771.NumJewelsInStones("aA", "aAAbbbb"));
+            //Console.WriteLine(no0771.NumJewelsInStones("z", "ZZ"));
+            #endregion
+
             #region No0796
             //No0796 no0796 = new No0796();
             //Console.WriteLine(no0796.RotateString("", "") == true);
