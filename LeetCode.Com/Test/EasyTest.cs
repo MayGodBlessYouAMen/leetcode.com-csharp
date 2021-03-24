@@ -596,6 +596,11 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0409.LongestPalindrome("abccccdd") == 7);
             #endregion
 
+            #region No0412
+            //No0412 no0412 = new No0412();
+            //Console.WriteLine(no0412.FizzBuzz(15).ToConsoleString());
+            #endregion
+
             #region No0414
             //No0414 no0414 = new No0414();
             //Console.WriteLine(no0414.ThirdMax(new int[] { 3, 2, 1 }) == 1);
