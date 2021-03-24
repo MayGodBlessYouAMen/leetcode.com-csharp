@@ -560,6 +560,14 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0387.FirstUniqChar("loveleetcode"));
             #endregion
 
+            #region No0389
+            //No0389 no0389 = new No0389();
+            //Console.WriteLine(no0389.FindTheDifference("abcd","abcde"));
+            //Console.WriteLine(no0389.FindTheDifference("", "y"));
+            //Console.WriteLine(no0389.FindTheDifference("a", "aa"));
+            //Console.WriteLine(no0389.FindTheDifference("ae", "aea"));
+            #endregion
+
             #region No0392
             //No0392 no0392 = new No0392();
             //Console.WriteLine(no0392.IsSubsequence("","") == true);
