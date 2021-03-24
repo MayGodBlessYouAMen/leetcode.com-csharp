@@ -113,6 +113,12 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0388.CountBits(2).ToConsoleString());
             //Console.WriteLine(no0388.CountBits(5).ToConsoleString());
             #endregion
+
+            #region No0371
+            No0371 no0371 = new No0371();
+            Console.WriteLine(no0371.GetSum(1, 2));
+            Console.WriteLine(no0371.GetSum(2, 3));
+            #endregion
         }
     }
 }
