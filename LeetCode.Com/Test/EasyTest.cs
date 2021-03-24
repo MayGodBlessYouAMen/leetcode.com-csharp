@@ -704,6 +704,15 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0506.FindRelativeRanks(new int[] { 10, 3, 8, 9, 4 }).ToConsoleString<string>());
             #endregion
 
+            #region No0507
+            //No0507 no0507 = new No0507();
+            //Console.WriteLine(no0507.CheckPerfectNumber(28));
+            //Console.WriteLine(no0507.CheckPerfectNumber(6));
+            //Console.WriteLine(no0507.CheckPerfectNumber(496));
+            //Console.WriteLine(no0507.CheckPerfectNumber(8128));
+            //Console.WriteLine(no0507.CheckPerfectNumber(2));
+            #endregion
+
             #region No0557
             //No0557 no0557 = new No0557();
             //Console.WriteLine(no0557.ReverseWords("")=="");
