@@ -649,6 +649,18 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0455.FindContentChildren(new int[] { 1, 2 }, new int[] { 1, 2, 3 }));
             #endregion
 
+            #region No0461
+            //No0461 no0461 = new No0461();
+            //Console.WriteLine(no0461.HammingDistance(1, 4));
+            #endregion
+
+            #region No0463
+            //No0463 no0463 = new No0463();
+            //Console.WriteLine(no0463.IslandPerimeter(new int[,] { { 0, 1, 0, 0 }, { 1, 1, 1, 0 }, { 0, 1, 0, 0 }, { 1, 1, 0, 0 } }));
+            //Console.WriteLine(no0463.IslandPerimeter(new int[,] { { 1 } }));
+            //Console.WriteLine(no0463.IslandPerimeter(new int[,] { { 1, 0 } }));
+            #endregion
+
             #region No0557
             //No0557 no0557 = new No0557();
             //Console.WriteLine(no0557.ReverseWords("")=="");
