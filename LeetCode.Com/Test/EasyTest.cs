@@ -582,6 +582,12 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0401.ReadBinaryWatch(1).ToConsoleString());
             #endregion
 
+            #region No0404
+            //No0404 no0404 = new No0404();
+            //TreeNode treeNode = Utils.CreateTreeNode(new List<string>() { "3", "9", "20", "null", "null", "15", "7" });
+            //Console.WriteLine(no0404.SumOfLeftLeaves(treeNode));
+            #endregion
+
             #region No0409
             //No0409 no0409 = new No0409();
             //Console.WriteLine(no0409.LongestPalindrome("") == 0);
