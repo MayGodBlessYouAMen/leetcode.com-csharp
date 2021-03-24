@@ -774,6 +774,13 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0617.MergeTrees(treeNode21, treeNode22).ToConsoleString());
             #endregion
 
+            #region No0628
+            //No0628 no0628 = new No0628();
+            //Console.WriteLine(no0628.MaximumProduct(new int[] { 1, 2, 3 }));
+            //Console.WriteLine(no0628.MaximumProduct(new int[] { 1, 2, 3, 4 }));
+            //Console.WriteLine(no0628.MaximumProduct(new int[] { -1, -2, -3 }));
+            #endregion
+
             #region No0645
             //No0645 no0645 = new No0645();
             //Console.WriteLine(no0645.FindErrorNums(new int[] { 1, 2, 2, 4 }).ToConsoleString());
