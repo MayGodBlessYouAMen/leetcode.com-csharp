@@ -115,9 +115,17 @@ namespace LeetCode.Com.Test
             #endregion
 
             #region No0371
-            No0371 no0371 = new No0371();
-            Console.WriteLine(no0371.GetSum(1, 2));
-            Console.WriteLine(no0371.GetSum(2, 3));
+            //No0371 no0371 = new No0371();
+            //Console.WriteLine(no0371.GetSum(1, 2));
+            //Console.WriteLine(no0371.GetSum(2, 3));
+            #endregion
+
+            #region No0443
+            //No0443 no0443 = new No0443();
+            //Console.WriteLine(no0443.Compress(new char[] { 'a', 'a', 'b', 'b', 'c', 'c', 'c' }));
+            //Console.WriteLine(no0443.Compress(new char[] { 'a' }));
+            //Console.WriteLine(no0443.Compress(new char[] { 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b' }));
+            //Console.WriteLine(no0443.Compress(new char[] { 'a', 'a', 'a', 'b', 'b', 'a', 'a' }));
             #endregion
         }
     }
