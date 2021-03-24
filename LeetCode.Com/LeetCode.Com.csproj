@@ -72,6 +72,7 @@
     <Compile Include="Easy\No0485.cs" />
     <Compile Include="Easy\No0492.cs" />
     <Compile Include="Easy\No0496.cs" />
+    <Compile Include="Easy\No0500.cs" />
     <Compile Include="Hard\No0004.cs" />
     <Compile Include="Medium\No0189.cs" />
     <Compile Include="Medium\No0107.cs" />

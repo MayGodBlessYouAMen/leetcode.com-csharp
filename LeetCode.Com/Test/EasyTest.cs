@@ -685,6 +685,13 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0496.NextGreaterElement(new int[] { 2, 4 }, new int[] { 1, 2, 3, 4 }).ToConsoleString<int>());
             #endregion
 
+            #region No0500
+            //No0500 no0500 = new No0500();
+            //Console.WriteLine(no0500.FindWords(new string[] { "Hello", "Alaska", "Dad", "Peace" }).ToConsoleString<string>());
+            //Console.WriteLine(no0500.FindWords(new string[] { "omk" }).ToConsoleString<string>());
+            //Console.WriteLine(no0500.FindWords(new string[] { "adsdf", "sfd" }).ToConsoleString<string>());
+            #endregion
+
             #region No0557
             //No0557 no0557 = new No0557();
             //Console.WriteLine(no0557.ReverseWords("")=="");
