@@ -798,6 +798,18 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0657.JudgeCircle("LDRRLRUULR"));
             #endregion
 
+            #region No0709
+            //No0709 no0709 = new No0709();
+            //Console.WriteLine(no0709.ToLowerCase("Hello"));
+            //Console.WriteLine(no0709.ToLowerCase("here"));
+            //Console.WriteLine(no0709.ToLowerCase("LOVELY"));
+            #endregion
+
+            #region No0728
+            //No0728 no0728 = new No0728();
+            //Console.WriteLine(no0728.SelfDividingNumbers(1, 22).ToConsoleString());
+            #endregion
+
             #region No0796
             //No0796 no0796 = new No0796();
             //Console.WriteLine(no0796.RotateString("", "") == true);
