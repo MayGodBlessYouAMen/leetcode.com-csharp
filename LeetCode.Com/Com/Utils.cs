@@ -160,7 +160,7 @@ namespace LeetCode.Com.Com
                 string no = line.Trim().Split(' ')[0];
                 string name = line.Trim().Replace(no, "");
 
-                string level = "Esay";
+                string level = "Easy";
                 CreateModelClass(level, int.Parse(no), name);
             }
         }
