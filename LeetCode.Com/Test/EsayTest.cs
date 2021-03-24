@@ -332,9 +332,9 @@ namespace LeetCode.Com.Test
             #endregion
 
             #region No0169
-            No0169 no0169 = new No0169();
-            Console.WriteLine(no0169.MajorityElement(new int[] { 3, 2, 3 }) == 3);
-            Console.WriteLine(no0169.MajorityElement(new int[] { 2, 2, 1, 1, 1, 2, 2 }) == 2);
+            //No0169 no0169 = new No0169();
+            //Console.WriteLine(no0169.MajorityElement(new int[] { 3, 2, 3 }) == 3);
+            //Console.WriteLine(no0169.MajorityElement(new int[] { 2, 2, 1, 1, 1, 2, 2 }) == 2);
             #endregion
 
             #region No0171
@@ -545,6 +545,13 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0367.IsPerfectSquare(2));
             //Console.WriteLine(no0367.IsPerfectSquare(64));
             //Console.WriteLine(no0367.IsPerfectSquare(int.MaxValue));
+            #endregion
+
+            #region No0383
+            //No0383 no0383 = new No0383();
+            //Console.WriteLine(no0383.CanConstruct("a","b"));
+            //Console.WriteLine(no0383.CanConstruct("aa", "ab"));
+            //Console.WriteLine(no0383.CanConstruct("aa", "aab"));
             #endregion
 
             #region No0387
