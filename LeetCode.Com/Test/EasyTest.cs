@@ -867,6 +867,12 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0917.ReverseOnlyLetters("Test1ng-Leet=code-Q!"));
             #endregion
 
+            #region No0929
+            //No0929 no0929 = new No0929();
+            //Console.WriteLine(no0929.NumUniqueEmails(new string[] { "test.email+alex@leetcode.com", "test.e.mail+bob.cathy@leetcode.com", "testemail+david@lee.tcode.com" }));
+            //Console.WriteLine(no0929.NumUniqueEmails(new string[] { "a@leetcode.com", "b@leetcode.com", "c@leetcode.com" }));
+            #endregion
+
             #region No1141
             //No1141 no1141 = new No1141();
             //Console.WriteLine(no1141.BuildArray(new int[] { 1, 3 }, 3).ToConsoleString());
