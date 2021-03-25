@@ -873,6 +873,18 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0929.NumUniqueEmails(new string[] { "a@leetcode.com", "b@leetcode.com", "c@leetcode.com" }));
             #endregion
 
+            #region No0933
+
+            #endregion
+
+            #region No0938
+            //No0938 no0938 = new No0938();
+            //TreeNode treeNode1 = Utils.CreateTreeNode(new List<string>() { "10", "5", "15", "3", "7", "null", "18" });
+            //Console.WriteLine(no0938.RangeSumBST(treeNode1, 7, 15));
+            //TreeNode treeNode2 = Utils.CreateTreeNode(new List<string>() { "10", "5", "15", "3", "7", "13", "18", "1", "null", "6" });
+            //Console.WriteLine(no0938.RangeSumBST(treeNode2, 6, 10));
+            #endregion
+
             #region No1141
             //No1141 no1141 = new No1141();
             //Console.WriteLine(no1141.BuildArray(new int[] { 1, 3 }, 3).ToConsoleString());
