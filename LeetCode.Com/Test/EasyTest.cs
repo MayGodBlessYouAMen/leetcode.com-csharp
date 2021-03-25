@@ -920,6 +920,13 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no1002.CommonChars(new string[] { "cool", "lock", "cook" }).ToConsoleString());
             #endregion
 
+            #region No1005
+            //No1005 no1005 = new No1005();
+            //Console.WriteLine(no1005.LargestSumAfterKNegations(new int[] { 4, 2, 3 }, 1));
+            //Console.WriteLine(no1005.LargestSumAfterKNegations(new int[] { 3, -1, 0, 2 }, 3));
+            //Console.WriteLine(no1005.LargestSumAfterKNegations(new int[] { 2, -3, -1, 5, -4 }, 2));
+            #endregion
+
             #region No1141
             //No1141 no1141 = new No1141();
             //Console.WriteLine(no1141.BuildArray(new int[] { 1, 3 }, 3).ToConsoleString());
