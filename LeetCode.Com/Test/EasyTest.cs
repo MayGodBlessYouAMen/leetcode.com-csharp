@@ -886,10 +886,17 @@ namespace LeetCode.Com.Test
             #endregion
 
             #region No0944
-            No0944 no0944 = new No0944();
-            Console.WriteLine(no0944.MinDeletionSize(new string[] { "cba", "daf", "ghi" }));
-            Console.WriteLine(no0944.MinDeletionSize(new string[] { "a", "b" }));
-            Console.WriteLine(no0944.MinDeletionSize(new string[] { "zyx", "wvu", "tsr" }));
+            //No0944 no0944 = new No0944();
+            //Console.WriteLine(no0944.MinDeletionSize(new string[] { "cba", "daf", "ghi" }));
+            //Console.WriteLine(no0944.MinDeletionSize(new string[] { "a", "b" }));
+            //Console.WriteLine(no0944.MinDeletionSize(new string[] { "zyx", "wvu", "tsr" }));
+            #endregion
+
+            #region No0961
+            //No0961 no0961 = new No0961();
+            //Console.WriteLine(no0961.RepeatedNTimes(new int[] { 1, 2, 3, 3 }));
+            //Console.WriteLine(no0961.RepeatedNTimes(new int[] { 2, 1, 2, 5, 3, 2 }));
+            //Console.WriteLine(no0961.RepeatedNTimes(new int[] { 5, 1, 5, 2, 5, 3, 5, 4 }));
             #endregion
 
             #region No1141

@@ -97,6 +97,8 @@
     <Compile Include="Easy\No0917.cs" />
     <Compile Include="Easy\No0929.cs" />
     <Compile Include="Easy\No0938.cs" />
+    <Compile Include="Easy\No0944.cs" />
+    <Compile Include="Easy\No0961.cs" />
     <Compile Include="Hard\No0004.cs" />
     <Compile Include="Medium\No0189.cs" />
     <Compile Include="Medium\No0107.cs" />
