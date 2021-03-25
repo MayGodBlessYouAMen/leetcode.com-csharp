@@ -899,6 +899,12 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0961.RepeatedNTimes(new int[] { 5, 1, 5, 2, 5, 3, 5, 4 }));
             #endregion
 
+            #region No0977
+            //No0977 no0977 = new No0977();
+            //Console.WriteLine(no0977.SortedSquares(new int[] { -4, -1, 0, 3, 10 }).ToConsoleString<int>());
+            //Console.WriteLine(no0977.SortedSquares(new int[] { -7, -3, 2, 3, 11 }).ToConsoleString<int>());
+            #endregion
+
             #region No1141
             //No1141 no1141 = new No1141();
             //Console.WriteLine(no1141.BuildArray(new int[] { 1, 3 }, 3).ToConsoleString());
