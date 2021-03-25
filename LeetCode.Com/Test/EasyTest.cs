@@ -959,6 +959,12 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no1108.DefangIPaddr("255.100.50.0"));
             #endregion
 
+            #region No1137
+            //No1137 no1137 = new No1137();
+            //Console.WriteLine(no1137.Tribonacci(4));
+            //Console.WriteLine(no1137.Tribonacci(25));
+            #endregion
+
             #region No1141
             //No1141 no1141 = new No1141();
             //Console.WriteLine(no1141.BuildArray(new int[] { 1, 3 }, 3).ToConsoleString());
