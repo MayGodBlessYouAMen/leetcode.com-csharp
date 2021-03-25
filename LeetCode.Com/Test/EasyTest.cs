@@ -874,7 +874,13 @@ namespace LeetCode.Com.Test
             #endregion
 
             #region No0933
-
+            //No0933 no0933 = new No0933();
+            //{
+            //    Console.WriteLine(no0933.Ping(1));
+            //    Console.WriteLine(no0933.Ping(100));
+            //    Console.WriteLine(no0933.Ping(3001));
+            //    Console.WriteLine(no0933.Ping(3002));
+            //}
             #endregion
 
             #region No0938
