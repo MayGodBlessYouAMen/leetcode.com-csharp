@@ -855,6 +855,11 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0852.PeakIndexInMountainArray(new int[] { 24, 69, 100, 99, 79, 78, 67, 36, 26, 19 }));
             #endregion
 
+            #region No0905
+            //No0905 no0905 = new No0905();
+            //Console.WriteLine(no0905.SortArrayByParity(new int[] { 3, 1, 2, 4 }).ToConsoleString<int>());
+            #endregion
+
             #region No1141
             //No1141 no1141 = new No1141();
             //Console.WriteLine(no1141.BuildArray(new int[] { 1, 3 }, 3).ToConsoleString());
