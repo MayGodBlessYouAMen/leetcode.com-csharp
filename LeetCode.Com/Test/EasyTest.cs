@@ -941,6 +941,18 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no1021.RemoveOuterParentheses("()()"));
             #endregion
 
+            #region No1022
+            //No1022 no1022 = new No1022();
+            //TreeNode treeNode1 = Utils.CreateTreeNode(new List<int>() { 1, 0, 1, 0, 1, 0, 1 });
+            //Console.WriteLine(no1022.SumRootToLeaf(treeNode1));
+            //TreeNode treeNode2 = Utils.CreateTreeNode(new List<int>() { 0 });
+            //Console.WriteLine(no1022.SumRootToLeaf(treeNode2));
+            //TreeNode treeNode3 = Utils.CreateTreeNode(new List<int>() { 1 });
+            //Console.WriteLine(no1022.SumRootToLeaf(treeNode3));
+            //TreeNode treeNode4 = Utils.CreateTreeNode(new List<int>() { 1, 1 });
+            //Console.WriteLine(no1022.SumRootToLeaf(treeNode4));
+            #endregion
+
             #region No1141
             //No1141 no1141 = new No1141();
             //Console.WriteLine(no1141.BuildArray(new int[] { 1, 3 }, 3).ToConsoleString());
