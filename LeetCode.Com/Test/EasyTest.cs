@@ -953,6 +953,12 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no1022.SumRootToLeaf(treeNode4));
             #endregion
 
+            #region No1108
+            //No1108 no1108 = new No1108();
+            //Console.WriteLine(no1108.DefangIPaddr("1.1.1.1"));
+            //Console.WriteLine(no1108.DefangIPaddr("255.100.50.0"));
+            #endregion
+
             #region No1141
             //No1141 no1141 = new No1141();
             //Console.WriteLine(no1141.BuildArray(new int[] { 1, 3 }, 3).ToConsoleString());
