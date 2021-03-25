@@ -885,6 +885,13 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0938.RangeSumBST(treeNode2, 6, 10));
             #endregion
 
+            #region No0944
+            No0944 no0944 = new No0944();
+            Console.WriteLine(no0944.MinDeletionSize(new string[] { "cba", "daf", "ghi" }));
+            Console.WriteLine(no0944.MinDeletionSize(new string[] { "a", "b" }));
+            Console.WriteLine(no0944.MinDeletionSize(new string[] { "zyx", "wvu", "tsr" }));
+            #endregion
+
             #region No1141
             //No1141 no1141 = new No1141();
             //Console.WriteLine(no1141.BuildArray(new int[] { 1, 3 }, 3).ToConsoleString());
