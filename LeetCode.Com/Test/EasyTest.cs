@@ -905,6 +905,15 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0977.SortedSquares(new int[] { -7, -3, 2, 3, 11 }).ToConsoleString<int>());
             #endregion
 
+            #region No0997
+            //No0997 no0997 = new No0997();
+            //Console.WriteLine(no0997.FindJudge(2, new int[][] { new int[] { 1, 2 } }));
+            //Console.WriteLine(no0997.FindJudge(3, new int[][] { new int[] { 1, 3 }, new int[] { 2, 3 } }));
+            //Console.WriteLine(no0997.FindJudge(3, new int[][] { new int[] { 1, 3 }, new int[] { 2, 3 }, new int[] { 3, 1 } }));
+            //Console.WriteLine(no0997.FindJudge(3, new int[][] { new int[] { 1, 2 }, new int[] { 2, 3 } }));
+            //Console.WriteLine(no0997.FindJudge(4, new int[][] { new int[] { 1, 3 }, new int[] { 1, 4 }, new int[] { 2, 3 }, new int[] { 2, 4 }, new int[] { 4, 3 } }));
+            #endregion
+
             #region No1141
             //No1141 no1141 = new No1141();
             //Console.WriteLine(no1141.BuildArray(new int[] { 1, 3 }, 3).ToConsoleString());
