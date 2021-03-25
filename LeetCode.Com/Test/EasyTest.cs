@@ -846,6 +846,15 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0832.FlipAndInvertImage(new int[][] { new int[] { 1, 1, 0, 0 }, new int[] { 1, 0, 0, 1 }, new int[] { 0, 1, 1, 1 }, new int[] { 1, 0, 1, 0 } }).ToConsoleString<IList<int>>());
             #endregion
 
+            #region No0852
+            //No0852 no0852 = new No0852();
+            //Console.WriteLine(no0852.PeakIndexInMountainArray(new int[] { 0, 1, 0 }));
+            //Console.WriteLine(no0852.PeakIndexInMountainArray(new int[] { 0, 2, 1, 0 }));
+            //Console.WriteLine(no0852.PeakIndexInMountainArray(new int[] { 0, 10, 5, 2 }));
+            //Console.WriteLine(no0852.PeakIndexInMountainArray(new int[] { 3, 4, 5, 1 }));
+            //Console.WriteLine(no0852.PeakIndexInMountainArray(new int[] { 24, 69, 100, 99, 79, 78, 67, 36, 26, 19 }));
+            #endregion
+
             #region No1141
             //No1141 no1141 = new No1141();
             //Console.WriteLine(no1141.BuildArray(new int[] { 1, 3 }, 3).ToConsoleString());
