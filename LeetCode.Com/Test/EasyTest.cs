@@ -927,6 +927,13 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no1005.LargestSumAfterKNegations(new int[] { 2, -3, -1, 5, -4 }, 2));
             #endregion
 
+            #region No1009
+            //No1009 no1009 = new No1009();
+            //Console.WriteLine(no1009.BitwiseComplement(5));
+            //Console.WriteLine(no1009.BitwiseComplement(7));
+            //Console.WriteLine(no1009.BitwiseComplement(10));
+            #endregion
+
             #region No1141
             //No1141 no1141 = new No1141();
             //Console.WriteLine(no1141.BuildArray(new int[] { 1, 3 }, 3).ToConsoleString());
