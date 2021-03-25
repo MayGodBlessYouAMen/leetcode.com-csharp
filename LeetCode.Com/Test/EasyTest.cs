@@ -934,6 +934,13 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no1009.BitwiseComplement(10));
             #endregion
 
+            #region No1021
+            //No1021 no1021 = new No1021();
+            //Console.WriteLine(no1021.RemoveOuterParentheses("(()())(())"));
+            //Console.WriteLine(no1021.RemoveOuterParentheses("(()())(())(()(()))"));
+            //Console.WriteLine(no1021.RemoveOuterParentheses("()()"));
+            #endregion
+
             #region No1141
             //No1141 no1141 = new No1141();
             //Console.WriteLine(no1141.BuildArray(new int[] { 1, 3 }, 3).ToConsoleString());
