@@ -110,7 +110,7 @@ namespace LeetCode.Com.Com
             root = CreateTreeNode(root, numberlist, 0);
             return root;
         }
-
+         
         private static TreeNode CreateTreeNode(TreeNode node, List<int> numberlist, int index)
         {
             if (index >= numberlist.Count)
@@ -121,6 +121,33 @@ namespace LeetCode.Com.Com
             node = new TreeNode(numberlist[index]);
             //node.left = CreateTreeNode(node.left, numberlist, 2 * index + 1);
             //node.right = CreateTreeNode(node.right, numberlist, 2 * index + 2);
+            node.left = CreateTreeNode(node.left, numberlist, index + 1);
+            node.right = CreateTreeNode(node.right, numberlist, index + 2);
+
+            return node;
+        }
+
+        public static TreeNode CreateTreeNode(List<int?> numberlist)
+        {
+            TreeNode root = null;
+            root = CreateTreeNode(root, numberlist, 0);
+            return root;
+        }
+
+        private static TreeNode CreateTreeNode(TreeNode node, List<int?> numberlist, int index)
+        {
+            if (index >= numberlist.Count)
+            {
+                return null;
+            }
+
+            if (numberlist[index] == null)
+            {
+                node = null;
+                return null;
+            }
+
+            node = new TreeNode((int)numberlist[index]); 
             node.left = CreateTreeNode(node.left, numberlist, index + 1);
             node.right = CreateTreeNode(node.right, numberlist, index + 2);
 
