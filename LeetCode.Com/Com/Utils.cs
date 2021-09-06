@@ -96,8 +96,10 @@ namespace LeetCode.Com.Com
             }
 
             node = new TreeNode(int.Parse(numberlist[index]));
-            node.left = CreateTreeNode(node.left, numberlist, 2 * index + 1);
-            node.right = CreateTreeNode(node.right, numberlist, 2 * index + 2);
+            //node.left = CreateTreeNode(node.left, numberlist, 2 * index + 1);
+            //node.right = CreateTreeNode(node.right, numberlist, 2 * index + 2);
+            node.left = CreateTreeNode(node.left, numberlist, index + 1);
+            node.right = CreateTreeNode(node.right, numberlist, index + 2);
 
             return node;
         }
@@ -117,8 +119,10 @@ namespace LeetCode.Com.Com
             }
 
             node = new TreeNode(numberlist[index]);
-            node.left = CreateTreeNode(node.left, numberlist, 2 * index + 1);
-            node.right = CreateTreeNode(node.right, numberlist, 2 * index + 2);
+            //node.left = CreateTreeNode(node.left, numberlist, 2 * index + 1);
+            //node.right = CreateTreeNode(node.right, numberlist, 2 * index + 2);
+            node.left = CreateTreeNode(node.left, numberlist, index + 1);
+            node.right = CreateTreeNode(node.right, numberlist, index + 2);
 
             return node;
         }
