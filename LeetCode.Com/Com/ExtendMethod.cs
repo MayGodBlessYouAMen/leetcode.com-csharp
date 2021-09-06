@@ -186,7 +186,7 @@ namespace LeetCode.Com.Com
         }
 
         /// <summary>
-        /// 层序遍历
+        /// 前序遍历
         /// </summary>
         /// <param name="treeNode"></param>
         /// <returns></returns>

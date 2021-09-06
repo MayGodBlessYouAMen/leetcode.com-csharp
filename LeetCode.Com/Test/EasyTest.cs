@@ -170,6 +170,30 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(nums1.ToConsoleString());
             #endregion
 
+            #region No0094
+            //No0094 no0094 = new No0094();
+            //{
+            //    TreeNode root = Utils.CreateTreeNode(new List<string>() { "1", "null", "2", "3" });
+            //    Console.WriteLine(no0094.InorderTraversal(root).ToConsoleString());         //[1,3,2]
+            //}
+            //{
+            //    TreeNode root = Utils.CreateTreeNode(new List<string>() {  });
+            //    Console.WriteLine(no0094.InorderTraversal(root).ToConsoleString());         //[]
+            //}
+            //{
+            //    TreeNode root = Utils.CreateTreeNode(new List<string>() { "1" });
+            //    Console.WriteLine(no0094.InorderTraversal(root).ToConsoleString());         //[1]
+            //}
+            //{
+            //    TreeNode root = Utils.CreateTreeNode(new List<string>() { "1", "2" });
+            //    Console.WriteLine(no0094.InorderTraversal(root).ToConsoleString());         //[2,1]
+            //}
+            //{
+            //    TreeNode root = Utils.CreateTreeNode(new List<string>() { "1", "null", "2" });
+            //    Console.WriteLine(no0094.InorderTraversal(root).ToConsoleString());         //[1,2]
+            //}
+            #endregion
+
             #region No0100
             //undone: test case
             No0100 no0110 = new No0100();
@@ -198,6 +222,20 @@ namespace LeetCode.Com.Test
             //Utils.ConsoleWriteLine(no0107.LevelOrderBottom(treenode0107_1));
             //Utils.ConsoleWriteLine(no0107.LevelOrderBottom(treenode0107_2));
             //Utils.ConsoleWriteLine(no0107.LevelOrderBottom(treenode0107_3));
+            #endregion
+
+            #region No0108
+            No0108 no0108 = new No0108();
+            {
+                int[] arr = new int[] { -10, -3, 0, 5, 9 }; 
+                var node = no0108.SortedArrayToBST(arr);
+                Console.WriteLine(node.ToConsoleString());
+            }
+            {
+                int[] arr = new int[] { 1, 3 };
+                var node = no0108.SortedArrayToBST(arr);
+                Console.WriteLine(node.ToConsoleString());
+            }
             #endregion
 
             #region No0111
