@@ -225,17 +225,17 @@ namespace LeetCode.Com.Test
             #endregion
 
             #region No0108
-            No0108 no0108 = new No0108();
-            {
-                int[] arr = new int[] { -10, -3, 0, 5, 9 }; 
-                var node = no0108.SortedArrayToBST(arr);
-                Console.WriteLine(node.ToConsoleString());
-            }
-            {
-                int[] arr = new int[] { 1, 3 };
-                var node = no0108.SortedArrayToBST(arr);
-                Console.WriteLine(node.ToConsoleString());
-            }
+            //No0108 no0108 = new No0108();
+            //{
+            //    int[] arr = new int[] { -10, -3, 0, 5, 9 }; 
+            //    var node = no0108.SortedArrayToBST(arr);
+            //    Console.WriteLine(node.ToConsoleString());
+            //}
+            //{
+            //    int[] arr = new int[] { 1, 3 };
+            //    var node = no0108.SortedArrayToBST(arr);
+            //    Console.WriteLine(node.ToConsoleString());
+            //}
             #endregion
 
             #region No0111
