@@ -528,6 +528,13 @@ namespace LeetCode.Com.Test
             }
             #endregion
 
+            #region No0225
+            //No0225 no0225 = new No0225();
+            //{ 
+                
+            //}
+            #endregion
+
             #region No0226
             No0226 no0226 = new No0226();
 
