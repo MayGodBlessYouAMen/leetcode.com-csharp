@@ -522,16 +522,16 @@ namespace LeetCode.Com.Test
             #region No0219
             No0219 no0219 = new No0219();
             {
-                Console.WriteLine(no0219.ContainsNearbyDuplicate(new int[] { 1, 2, 3, 1 }, 3));
-                Console.WriteLine(no0219.ContainsNearbyDuplicate(new int[] { 1, 0, 1, 1 }, 1));
-                Console.WriteLine(no0219.ContainsNearbyDuplicate(new int[] { 1, 2, 3, 1, 2, 3 }, 2));
+                //Console.WriteLine(no0219.ContainsNearbyDuplicate(new int[] { 1, 2, 3, 1 }, 3));
+                //Console.WriteLine(no0219.ContainsNearbyDuplicate(new int[] { 1, 0, 1, 1 }, 1));
+                //Console.WriteLine(no0219.ContainsNearbyDuplicate(new int[] { 1, 2, 3, 1, 2, 3 }, 2));
             }
             #endregion
 
             #region No0225
             //No0225 no0225 = new No0225();
             //{ 
-                
+
             //}
             #endregion
 
@@ -545,6 +545,18 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0231.IsPowerOfTwo(1));
             //Console.WriteLine(no0231.IsPowerOfTwo(16));
             //Console.WriteLine(no0231.IsPowerOfTwo(218));
+            #endregion
+
+            #region No0234
+            //No0234 no0234 = new No0234();
+            //{
+            //    var listNode = Utils.CreateListNode(new List<int>() { 1, 2, 2, 1 });
+            //    Console.WriteLine(no0234.IsPalindrome(listNode));
+            //}
+            //{
+            //    var listNode = Utils.CreateListNode(new List<int>() { 1, 2 });
+            //    Console.WriteLine(no0234.IsPalindrome(listNode));
+            //}
             #endregion
 
             #region No0237
