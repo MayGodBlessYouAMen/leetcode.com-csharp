@@ -196,7 +196,7 @@ namespace LeetCode.Com.Test
 
             #region No0100
             //undone: test case
-            No0100 no0110 = new No0100();
+            No0100 no0100 = new No0100();
             #endregion
 
             #region No0101
@@ -235,6 +235,23 @@ namespace LeetCode.Com.Test
             //    int[] arr = new int[] { 1, 3 };
             //    var node = no0108.SortedArrayToBST(arr);
             //    Console.WriteLine(node.ToConsoleString());
+            //}
+            #endregion
+
+            #region No0110
+            //No0110 no0110 = new No0110(); 
+            //此题测试有点问题。估计是自己写的树创建类有bug
+            //{
+            //    var node = Utils.CreateTreeNode(new List<int?>() { 3, 9, 20, null, null, 15, 7 });
+            //    Console.WriteLine(no0110.IsBalanced(node));  //true
+            //}
+            //{
+            //    var node = Utils.CreateTreeNode(new List<int?>() { 1, 2, 2, 3, 3, null, null, 4, 4 });
+            //    Console.WriteLine(no0110.IsBalanced(node));  //false
+            //}
+            //{
+            //    var node = Utils.CreateTreeNode(new List<int?>() { });
+            //    Console.WriteLine(no0110.IsBalanced(node));  //true
             //}
             #endregion
 
@@ -322,6 +339,22 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0141.HasCycle(listnode0141_2));
 
             //Console.WriteLine(no0141.HasCycle(Utils.CreateListNode(new List<int>() { 1 })));
+            #endregion
+
+            #region No0144
+            //No0144 no0144 = new No0144();
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int?>() { 1, null, 2, 3 });
+            //    Console.WriteLine(no0144.PreorderTraversal(root).ToConsoleString());
+            //}
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int?>() { });
+            //    Console.WriteLine(no0144.PreorderTraversal(root).ToConsoleString());
+            //}
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int?>() { 1 });
+            //    Console.WriteLine(no0144.PreorderTraversal(root).ToConsoleString());
+            //}
             #endregion
 
             #region No0155
