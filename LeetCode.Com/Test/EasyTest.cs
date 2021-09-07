@@ -519,6 +519,15 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0217.ContainsDuplicate(new int[] { 1, 1, 1, 3, 3, 4, 3, 2, 4, 2 }));
             #endregion
 
+            #region No0219
+            No0219 no0219 = new No0219();
+            {
+                Console.WriteLine(no0219.ContainsNearbyDuplicate(new int[] { 1, 2, 3, 1 }, 3));
+                Console.WriteLine(no0219.ContainsNearbyDuplicate(new int[] { 1, 0, 1, 1 }, 1));
+                Console.WriteLine(no0219.ContainsNearbyDuplicate(new int[] { 1, 2, 3, 1, 2, 3 }, 2));
+            }
+            #endregion
+
             #region No0226
             No0226 no0226 = new No0226();
 

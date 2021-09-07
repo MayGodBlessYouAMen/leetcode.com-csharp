@@ -61,6 +61,7 @@
     <Compile Include="Easy\No0110.cs" />
     <Compile Include="Easy\No0144.cs" />
     <Compile Include="Easy\No0145.cs" />
+    <Compile Include="Easy\No0219.cs" />
     <Compile Include="Easy\No0383.cs" />
     <Compile Include="Easy\No0389.cs" />
     <Compile Include="Easy\No0401.cs" />
@@ -86,6 +87,13 @@
     <Compile Include="Easy\No0541.cs" />
     <Compile Include="Easy\No0561.cs" />
     <Compile Include="Easy\No0575.cs" />
+    <None Include="Easy\No0195.sh" />
+    <None Include="Easy\No0193.sh" />
+    <Content Include="Easy\No0197.sql" />
+    <Content Include="Easy\No0196.sql" />
+    <Content Include="Easy\No0183.sql" />
+    <Content Include="Easy\No0182.sql" />
+    <Content Include="Easy\No0181.sql" />
     <Content Include="Easy\No0627.sql" />
     <Content Include="Easy\No0595.sql" />
     <Compile Include="Easy\No0617.cs" />
