@@ -357,6 +357,22 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0145
+            //No0145 no0145 = new No0145();
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int?>() { 1, null, 2, 3 });
+            //    Console.WriteLine(no0145.PostorderTraversal(root).ToConsoleString());
+            //}
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int?>() { });
+            //    Console.WriteLine(no0145.PostorderTraversal(root).ToConsoleString());
+            //}
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int?>() { 1 });
+            //    Console.WriteLine(no0145.PostorderTraversal(root).ToConsoleString());
+            //}
+            #endregion
+
             #region No0155
             //No0155 minStack = new No0155();
             //minStack.Push(-2);

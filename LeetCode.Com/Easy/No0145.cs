@@ -7,9 +7,9 @@ using System.Text;
 namespace LeetCode.Com.Easy
 {
     /// <summary>
-    /// 前序遍历
+    /// 后序遍历
     /// </summary>
-    public class No0144
+    public class No0145
     {
         /**
          * Definition for a binary tree node.
@@ -25,43 +25,43 @@ namespace LeetCode.Com.Easy
          * }
          */
 
-        public IList<int> PreorderTraversal(TreeNode root)
+        public IList<int> PostorderTraversal(TreeNode root)
         {
             IList<int> list = new List<int>();
 
             if (root != null)
             {
-                list.Add(root.val);
-
                 if (root.left != null)
                 {
-                    PreorderTraversal(list, root.left);
+                    PostorderTraversal(list, root.left);
                 }
 
                 if (root.right != null)
                 {
-                    PreorderTraversal(list, root.right);
+                    PostorderTraversal(list, root.right);
                 }
+
+                list.Add(root.val);
             }
 
             return list;
         }
 
-        private void PreorderTraversal(IList<int> list, TreeNode node)
+        private void PostorderTraversal(IList<int> list, TreeNode node)
         {
             if (node != null)
             {
-                list.Add(node.val);
-
                 if (node.left != null)
                 {
-                    PreorderTraversal(list, node.left);
+                    PostorderTraversal(list, node.left);
                 }
 
                 if (node.right != null)
                 {
-                    PreorderTraversal(list, node.right);
+                    PostorderTraversal(list, node.right);
                 }
+
+                list.Add(node.val);
             }
         }
     }
