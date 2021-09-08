@@ -95,6 +95,7 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0035.SearchInsert(new int[] { 1, 3, 5, 6 }, 2));
             //Console.WriteLine(no0035.SearchInsert(new int[] { 1, 3, 5, 6 }, 7));
             //Console.WriteLine(no0035.SearchInsert(new int[] { 1, 3, 5, 6 }, 0));
+            //Console.WriteLine(no0035.SearchInsert(new int[] { 1 }, 0));
             #endregion
 
             #region No0053
