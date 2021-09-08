@@ -593,6 +593,20 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0242.IsAnagram("rat", "car"));
             #endregion
 
+            #region No0257
+            //No0257 no0257 = new No0257();
+            //{
+            //    List<int?> list = new List<int?>() { 1, 2, 3, null, 5 };
+            //    var root = Utils.CreateTreeNode(list);
+            //    Console.WriteLine(no0257.BinaryTreePaths(root).ToConsoleString());
+            //}
+            //{
+            //    List<int?> list = new List<int?>() { 1 };
+            //    var root = Utils.CreateTreeNode(list);
+            //    Console.WriteLine(no0257.BinaryTreePaths(root).ToConsoleString());
+            //}
+            #endregion
+
             #region No0258
             //No0258 no0258 = new No0258();
             //Console.WriteLine(no0258.AddDigits(38));
