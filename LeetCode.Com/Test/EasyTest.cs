@@ -540,6 +540,30 @@ namespace LeetCode.Com.Test
 
             #endregion
 
+            #region No0228
+            //No0228 no0228 = new No0228();
+            //{
+            //    int[] arr = new int[] { 0, 1, 2, 4, 5, 7 };
+            //    Console.WriteLine(no0228.SummaryRanges(arr).ToConsoleString());
+            //}
+            //{
+            //    int[] arr = new int[] { 0, 2, 3, 4, 6, 8, 9 };
+            //    Console.WriteLine(no0228.SummaryRanges(arr).ToConsoleString());
+            //}
+            //{
+            //    int[] arr = new int[] { };
+            //    Console.WriteLine(no0228.SummaryRanges(arr).ToConsoleString());
+            //}
+            //{
+            //    int[] arr = new int[] { -1 };
+            //    Console.WriteLine(no0228.SummaryRanges(arr).ToConsoleString());
+            //}
+            //{
+            //    int[] arr = new int[] { 0 };
+            //    Console.WriteLine(no0228.SummaryRanges(arr).ToConsoleString());
+            //}
+            #endregion
+
             #region No0231
             //No0231 no0231 = new No0231();
             //Console.WriteLine(no0231.IsPowerOfTwo(1));
