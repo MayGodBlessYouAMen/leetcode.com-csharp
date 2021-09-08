@@ -722,6 +722,29 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0367.IsPerfectSquare(int.MaxValue));
             #endregion
 
+            #region No0374 
+            //{
+            //    No0374 no0374 = new No0374(6);
+            //    Console.WriteLine(no0374.GuessNumber(10)); ;
+            //}
+            //{
+            //    No0374 no0374 = new No0374(1);
+            //    Console.WriteLine(no0374.GuessNumber(1)); ;
+            //}
+            //{
+            //    No0374 no0374 = new No0374(1);
+            //    Console.WriteLine(no0374.GuessNumber(2)); ;
+            //}
+            //{
+            //    No0374 no0374 = new No0374(2);
+            //    Console.WriteLine(no0374.GuessNumber(2)); ;
+            //}
+            //{
+            //    No0374 no0374 = new No0374(1702766719);
+            //    Console.WriteLine(no0374.GuessNumber(2126753390)); ;
+            //}
+            #endregion
+
             #region No0383
             //No0383 no0383 = new No0383();
             //Console.WriteLine(no0383.CanConstruct("a","b"));
