@@ -68,13 +68,20 @@ namespace LeetCode.Com.Com
         #endregion
 
         #region TreeNode
-        /// <summary>
-        /// 根据前序遍历数组创建二叉树
-        /// [1,2,2,3,4,4,3]
-        /// [1,2,2,null,3,null,3]
-        /// </summary>
-        /// <param name="numberlist"></param>
-        /// <returns></returns>
+
+        /*  根据层序遍历生成二叉树
+         *  
+1            1                          
+2       2           3                     
+3    4    5     6     7              
+4   8 9 10 11 12 13 14 15   
+
+     n
+2n+1 2n+2                
+      
+         */
+
+        #region string
         public static TreeNode CreateTreeNode(List<string> numberlist)
         {
             TreeNode root = null;
@@ -89,28 +96,29 @@ namespace LeetCode.Com.Com
                 return null;
             }
 
-            if (numberlist[index].Equals("null", StringComparison.InvariantCultureIgnoreCase))
+            if (string.IsNullOrWhiteSpace(numberlist[index]) ||
+                numberlist[index].Equals("null", StringComparison.InvariantCultureIgnoreCase))
             {
                 node = null;
                 return null;
             }
 
             node = new TreeNode(int.Parse(numberlist[index]));
-            //node.left = CreateTreeNode(node.left, numberlist, 2 * index + 1);
-            //node.right = CreateTreeNode(node.right, numberlist, 2 * index + 2);
-            node.left = CreateTreeNode(node.left, numberlist, index + 1);
-            node.right = CreateTreeNode(node.right, numberlist, index + 2);
+            node.left = CreateTreeNode(node.left, numberlist, 2 * index + 1);
+            node.right = CreateTreeNode(node.right, numberlist, 2 * index + 2);
 
             return node;
         }
+        #endregion
 
+        #region int
         public static TreeNode CreateTreeNode(List<int> numberlist)
         {
             TreeNode root = null;
             root = CreateTreeNode(root, numberlist, 0);
             return root;
         }
-         
+
         private static TreeNode CreateTreeNode(TreeNode node, List<int> numberlist, int index)
         {
             if (index >= numberlist.Count)
@@ -119,14 +127,14 @@ namespace LeetCode.Com.Com
             }
 
             node = new TreeNode(numberlist[index]);
-            //node.left = CreateTreeNode(node.left, numberlist, 2 * index + 1);
-            //node.right = CreateTreeNode(node.right, numberlist, 2 * index + 2);
-            node.left = CreateTreeNode(node.left, numberlist, index + 1);
-            node.right = CreateTreeNode(node.right, numberlist, index + 2);
+            node.left = CreateTreeNode(node.left, numberlist, 2 * index + 1);
+            node.right = CreateTreeNode(node.right, numberlist, 2 * index + 2);
 
             return node;
         }
+        #endregion
 
+        #region int?
         public static TreeNode CreateTreeNode(List<int?> numberlist)
         {
             TreeNode root = null;
@@ -147,12 +155,14 @@ namespace LeetCode.Com.Com
                 return null;
             }
 
-            node = new TreeNode((int)numberlist[index]); 
-            node.left = CreateTreeNode(node.left, numberlist, index + 1);
-            node.right = CreateTreeNode(node.right, numberlist, index + 2);
+            node = new TreeNode((int)numberlist[index]);
+            node.left = CreateTreeNode(node.left, numberlist, 2 * index + 1);
+            node.right = CreateTreeNode(node.right, numberlist, 2 * index + 2);
 
             return node;
         }
+        #endregion
+
         #endregion
 
         /// <summary>
