@@ -1012,6 +1012,22 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0657.JudgeCircle("LDRRLRUULR"));
             #endregion
 
+            #region No0704
+            //No0704 no0704 = new No0704();
+            //{
+            //    Console.WriteLine(no0704.Search(new int[] { -1, 0, 3, 5, 9, 12 }, 9));     //4
+            //    Console.WriteLine(no0704.Search(new int[] { -1, 0, 3, 5, 9, 12 }, -1));     //0
+            //    Console.WriteLine(no0704.Search(new int[] { 1 }, 1));                       //0
+            //    Console.WriteLine(no0704.Search(new int[] { 1 }, 0));                       //-1
+            //    Console.WriteLine(no0704.Search(new int[] { 1 }, 2));                       //-1
+            //    Console.WriteLine(no0704.Search(new int[] { -1, 0, 3, 5, 9, 12 }, 2));     //-1
+            //    Console.WriteLine(no0704.Search(new int[] { -1, 0, 3, 5, 9, 12 }, 11));    //-1
+            //    Console.WriteLine(no0704.Search(new int[] { -1, 0, 3, 5, 9, 12 }, 13));    //-1
+            //    Console.WriteLine(no0704.Search(new int[] { -1, 0, 3, 5, 9, 12 }, 15));    //-1
+            //    Console.WriteLine(no0704.Search(new int[] { -1, 0, 3, 5, 9, 12 }, -2));    //-1 
+            //}
+            #endregion
+
             #region No0709
             //No0709 no0709 = new No0709();
             //Console.WriteLine(no0709.ToLowerCase("Hello"));
