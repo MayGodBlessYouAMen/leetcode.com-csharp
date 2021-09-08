@@ -66,6 +66,7 @@
     <Compile Include="Easy\No0228.cs" />
     <Compile Include="Easy\No0232.cs" />
     <Compile Include="Easy\No0234.cs" />
+    <Compile Include="Easy\No0235.cs" />
     <Compile Include="Easy\No0257.cs" />
     <Compile Include="Easy\No0383.cs" />
     <Compile Include="Easy\No0389.cs" />
