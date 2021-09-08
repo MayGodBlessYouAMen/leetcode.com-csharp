@@ -10,18 +10,21 @@ namespace LeetCode.Com.Easy
     /// </summary>
     public class No0278
     {
-        public int first = 823161944;
+        private int bad;
+
+        public No0278(int bad)
+        {
+            this.bad = bad;
+        }
 
         public bool IsBadVersion(int n)
         {
-            if (n >= first)
+            if (n >= bad)
             {
                 return true;
             }
-            else
-            {
-                return false;
-            }
+
+            return false;
         }
 
         public int FirstBadVersion(int n)
@@ -34,23 +37,30 @@ namespace LeetCode.Com.Easy
             #region 试试二分法
             if (IsBadVersion(1)) return 1;  //极端情况
 
-            long i = 1;
-            long j = n;      //此处ij如果用int类型，会导致后面i+j超出范围，case通不过
-            while (i < j)
+            int left = 1;
+            int rigth = n;
+            while (left < rigth)
             {
-                if (i + 1 == j) break; //ij相邻时跳出循环
-                long a = (i + j) / 2;
-                if (IsBadVersion((int)a))
+                int mid = left / 2 + rigth / 2;  //(left + rigth) / 2;  //防止溢出
+                if (IsBadVersion(mid))
                 {
-                    j = a;
+                    rigth = mid - 1;
                 }
                 else
                 {
-                    i = a;
+                    left = mid + 1;
                 }
             }
+            if (IsBadVersion(left))
+            {
+                return left;
+            }
+            if (IsBadVersion(rigth))
+            {
+                return rigth;
+            }
+            return rigth + 1;
             #endregion
-            return (int)j;
         }
     }
 }

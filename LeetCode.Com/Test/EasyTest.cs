@@ -650,8 +650,23 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0268.MissingNumber(arr2));
             #endregion
 
-            #region No0278
-            //No0278 no0278 = new No0278();
+            #region No0278 
+            //{
+            //    No0278 no0278 = new No0278(4);
+            //    Console.WriteLine(no0278.FirstBadVersion(5));  //4
+            //} 
+            //{
+            //    No0278 no0278 = new No0278(1);
+            //    Console.WriteLine(no0278.FirstBadVersion(1)); //1
+            //}
+            //{
+            //    No0278 no0278 = new No0278(2);
+            //    Console.WriteLine(no0278.FirstBadVersion(4));   //2
+            //}
+            //{
+            //    No0278 no0278 = new No0278(1702766719);
+            //    Console.WriteLine(no0278.FirstBadVersion(2126753390));  //1702766719
+            //}
             #endregion
 
             #region No0283
