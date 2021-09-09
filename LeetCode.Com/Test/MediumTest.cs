@@ -120,6 +120,17 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0371.GetSum(2, 3));
             #endregion
 
+            #region No0405
+            //No0405 no0405 = new No0405();
+            //{
+            //    Console.WriteLine(no0405.ToHex(26));
+            //    Console.WriteLine(no0405.ToHex(-1));
+            //    Console.WriteLine(no0405.ToHex(2147483647));    //2^31-1
+            //    Console.WriteLine(no0405.ToHex(-2147483647));
+            //    Console.WriteLine(no0405.ToHex(-2147483648));   //-2^31
+            //}
+            #endregion
+
             #region No0443
             //No0443 no0443 = new No0443();
             //Console.WriteLine(no0443.Compress(new char[] { 'a', 'a', 'b', 'b', 'c', 'c', 'c' }));
