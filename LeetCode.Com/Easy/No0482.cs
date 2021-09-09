@@ -9,7 +9,7 @@ namespace LeetCode.Com.Easy
     {
         public string LicenseKeyFormatting(string s, int k)
         {
-            //用string拼接会超时，改为StringBuilder拼接
+            //用string拼接会超时，改为用StringBuilder拼接
             StringBuilder sb = new StringBuilder();
             int count = 0;
             //倒序遍历
