@@ -1139,6 +1139,10 @@ namespace LeetCode.Com.Test
             //No0977 no0977 = new No0977();
             //Console.WriteLine(no0977.SortedSquares(new int[] { -4, -1, 0, 3, 10 }).ToConsoleString<int>());
             //Console.WriteLine(no0977.SortedSquares(new int[] { -7, -3, 2, 3, 11 }).ToConsoleString<int>());
+            //Console.WriteLine(no0977.SortedSquares(new int[] { -7, -3, -2, -1 }).ToConsoleString<int>());
+            //Console.WriteLine(no0977.SortedSquares(new int[] { -7, -3, -2, -1, 0 }).ToConsoleString<int>());
+            //Console.WriteLine(no0977.SortedSquares(new int[] { 0, 1, 2, 3, 4, 5 }).ToConsoleString<int>());
+            //Console.WriteLine(no0977.SortedSquares(new int[] { 1, 2, 3, 4, 5 }).ToConsoleString<int>());
             #endregion
 
             #region No0997
