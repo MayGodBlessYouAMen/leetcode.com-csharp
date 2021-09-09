@@ -891,6 +891,17 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0476.FindComplement(1));
             #endregion
 
+            #region No0482
+            No0482 no0482 = new No0482();
+            {
+                //Console.WriteLine(no0482.LicenseKeyFormatting("5F3Z-2e-9-w", 4));
+                //Console.WriteLine(no0482.LicenseKeyFormatting("2-5g-3-J", 2));
+                //Console.WriteLine(no0482.LicenseKeyFormatting("a", 1));
+
+
+            }
+            #endregion
+
             #region No0485
             //No0485 no0485 = new No0485();
             //Console.WriteLine(no0485.FindMaxConsecutiveOnes(new int[] { 1, 1, 0, 1, 1, 1 }));
