@@ -863,6 +863,16 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0455.FindContentChildren(new int[] { 1, 2 }, new int[] { 1, 2, 3 }));
             #endregion
 
+            #region No0459
+            //No0459 no0459 = new No0459();
+            //{
+            //    Console.WriteLine(no0459.RepeatedSubstringPattern("abab"));         //true
+            //    Console.WriteLine(no0459.RepeatedSubstringPattern("aba"));          //false
+            //    Console.WriteLine(no0459.RepeatedSubstringPattern("abcabcabcabc")); //true
+            //    Console.WriteLine(no0459.RepeatedSubstringPattern("a"));            //false
+            //}
+            #endregion
+
             #region No0461
             //No0461 no0461 = new No0461();
             //Console.WriteLine(no0461.HammingDistance(1, 4));
