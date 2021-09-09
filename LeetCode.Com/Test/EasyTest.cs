@@ -892,14 +892,12 @@ namespace LeetCode.Com.Test
             #endregion
 
             #region No0482
-            No0482 no0482 = new No0482();
-            {
-                //Console.WriteLine(no0482.LicenseKeyFormatting("5F3Z-2e-9-w", 4));
-                //Console.WriteLine(no0482.LicenseKeyFormatting("2-5g-3-J", 2));
-                //Console.WriteLine(no0482.LicenseKeyFormatting("a", 1));
-
-
-            }
+            //No0482 no0482 = new No0482();
+            //{
+            //    Console.WriteLine(no0482.LicenseKeyFormatting("5F3Z-2e-9-w", 4));
+            //    Console.WriteLine(no0482.LicenseKeyFormatting("2-5g-3-J", 2));
+            //    Console.WriteLine(no0482.LicenseKeyFormatting("a", 1));
+            //}
             #endregion
 
             #region No0485
@@ -912,6 +910,16 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0492.ConstructRectangle(4).ToConsoleString<int>());
             //Console.WriteLine(no0492.ConstructRectangle(37).ToConsoleString<int>());
             //Console.WriteLine(no0492.ConstructRectangle(122122).ToConsoleString<int>());
+            #endregion
+
+            #region No0495
+            //No0495 no0495 = new No0495();
+            //{
+            //    Console.WriteLine(no0495.FindPoisonedDuration(new int[] { 1, 4 }, 2));   //4
+            //    Console.WriteLine(no0495.FindPoisonedDuration(new int[] { 1, 2 }, 2));   //3
+            //    Console.WriteLine(no0495.FindPoisonedDuration(new int[] { 1, 2, 3, 4, 5, 6 }, 2));   //7
+            //    Console.WriteLine(no0495.FindPoisonedDuration(new int[] { 1, 3, 5, 7, 9, 11 }, 2));   //12
+            //}
             #endregion
 
             #region No0496
