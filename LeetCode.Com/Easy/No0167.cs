@@ -20,7 +20,8 @@ namespace LeetCode.Com.Easy
                 {
                     break;
                 }
-                else if (numbers[left] + numbers[right] > target)
+                
+                if (numbers[left] + numbers[right] > target)
                 {
                     right--;
                 }
