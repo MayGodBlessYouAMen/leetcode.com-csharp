@@ -99,6 +99,7 @@
     <Compile Include="Easy\No0575.cs" />
     <None Include="Easy\No0195.sh" />
     <None Include="Easy\No0193.sh" />
+    <Content Include="Easy\No0596.sql" />
     <Content Include="Easy\No0176.sql" />
     <Content Include="Easy\No0197.sql" />
     <Content Include="Easy\No0196.sql" />
@@ -107,6 +108,7 @@
     <Content Include="Easy\No0181.sql" />
     <Content Include="Easy\No0627.sql" />
     <Content Include="Easy\No0595.sql" />
+    <Compile Include="Easy\No0598.cs" />
     <Compile Include="Easy\No0617.cs" />
     <Compile Include="Easy\No0628.cs" />
     <Compile Include="Easy\No0657.cs" />

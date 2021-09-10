@@ -997,6 +997,17 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0575.DistributeCandies(new int[] { 6, 6, 6, 6 }));
             #endregion
 
+            #region No0598
+            //No0598 no0598 = new No0598();
+            //{
+            //    Console.WriteLine(no0598.MaxCount(3, 3, new int[][] { new int[] { 2, 2 }, new int[] { 3, 3 } }));
+            //    Console.WriteLine(no0598.MaxCount(3, 3, new int[][] { new int[] { 2, 2 }, new int[] { 3, 3 }, new int[] { 3, 3 }, new int[] { 3, 3 }, new int[] { 2, 2 }, new int[] { 3, 3 }, new int[] { 3, 3 }, new int[] { 3, 3 }, new int[] { 2, 2 }, new int[] { 3, 3 }, new int[] { 3, 3 }, new int[] { 3, 3 } }));
+            //    Console.WriteLine(no0598.MaxCount(3, 3, new int[][] { }));
+
+            //    Console.WriteLine(no0598.MaxCount(3, 3, new int[][] { new int[] { 1, 1 } }));
+            //}
+            #endregion
+
             #region No0599
             //No0599 No0599 = new No0599();
             //Console.WriteLine(No0599.FindRestaurant(new string[] { "Shogun", "Tapioca Express", "Burger King", "KFC" }, new string[] { "Piatti", "The Grill at Torrey Pines", "Hungry Hunter Steakhouse", "Shogun" }).ToConsoleString());
