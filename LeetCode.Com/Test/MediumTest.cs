@@ -54,6 +54,17 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0011.MaxArea(new int[] { 1, 8, 6, 2, 5, 4, 8, 3, 7 }) == 49);
             #endregion
 
+            #region No0012
+            //No0012 no0012 = new No0012();
+            //{
+            //    Console.WriteLine(no0012.IntToRoman(3));       //"III"
+            //    Console.WriteLine(no0012.IntToRoman(4));       //"IV"
+            //    Console.WriteLine(no0012.IntToRoman(9));       //"IX"
+            //    Console.WriteLine(no0012.IntToRoman(58));      //"LVIII"
+            //    Console.WriteLine(no0012.IntToRoman(1994));    //"MCMXCIV"
+            //}
+            #endregion
+
             #region No0015
             //No0015 no0015 = new No0015();
             //Console.WriteLine(no0015.ThreeSum(new int[] { -1, 0, 1, 2, -1, -4 }).ToConsoleString<IList<int>>());
