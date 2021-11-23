@@ -40,6 +40,15 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0005.LongestPalindrome("cbbd"));
             #endregion
 
+            #region No0006
+            //No0006 no0006 = new No0006();
+            //{
+            //    Console.WriteLine(no0006.Convert("PAYPALISHIRING",3));  //"PAHNAPLSIIGYIR"
+            //    Console.WriteLine(no0006.Convert("PAYPALISHIRING",4));  //PINALSIGYAHRPI
+            //    Console.WriteLine(no0006.Convert("A", 1));              //A
+            //}
+            #endregion
+
             #region No0011
             //No0011 no0011 = new No0011();
             //Console.WriteLine(no0011.MaxArea(new int[] { 1, 8, 6, 2, 5, 4, 8, 3, 7 }) == 49);
