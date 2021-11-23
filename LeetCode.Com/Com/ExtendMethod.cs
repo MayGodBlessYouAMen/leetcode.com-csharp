@@ -100,32 +100,32 @@ namespace LeetCode.Com.Com
             return s;
         }
 
-        /// <summary>
-        /// Array数组文字打印
-        /// </summary>
-        /// <param name="arr"></param>
-        /// <returns></returns>
-        public static string ToConsoleString(this Array arr)
-        {
-            if (arr == null || arr.Length == 0)
-            {
-                return "[]";
-            }
+        ///// <summary>
+        ///// Array数组文字打印
+        ///// </summary>
+        ///// <param name="arr"></param>
+        ///// <returns></returns>
+        //public static string ToConsoleString(this Array arr)
+        //{
+        //    if (arr == null || arr.Length == 0)
+        //    {
+        //        return "[]";
+        //    }
 
-            StringBuilder sb = new StringBuilder();
-            sb.Append("[");
-            for (int i = 0; i < arr.Length; i++)
-            {
-                if (i > 0)
-                {
-                    sb.Append(",");
-                }
-                sb.Append(arr.GetValue(i).ToString());
-            }
-            sb.Append("]");
+        //    StringBuilder sb = new StringBuilder();
+        //    sb.Append("[");
+        //    for (int i = 0; i < arr.Length; i++)
+        //    {
+        //        if (i > 0)
+        //        {
+        //            sb.Append(",");
+        //        }
+        //        sb.Append(arr.GetValue(i).ToString());
+        //    }
+        //    sb.Append("]");
 
-            return sb.ToString();
-        }
+        //    return sb.ToString();
+        //}
 
         /// <summary>
         /// IList<T>打印

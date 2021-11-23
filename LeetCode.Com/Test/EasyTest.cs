@@ -935,6 +935,24 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0500.FindWords(new string[] { "adsdf", "sfd" }).ToConsoleString<string>());
             #endregion
 
+            #region No0501
+            //No0501 no0501 = new No0501();
+            {
+                //todo：编写创建BST方法
+
+                //{
+                //    TreeNode root = Utils.CreateTreeNode(new List<int?>() { 1, null, 2, 2 });
+                //    Console.WriteLine(no0501.FindMode(root).ToConsoleString());
+                //}
+
+                //{
+                //    TreeNode root = Utils.CreateTreeNode(new List<int>() { 0 });
+                //    Console.WriteLine(no0501.FindMode(root).ToConsoleString());
+                //}
+            }
+
+            #endregion
+
             #region No0504
             //No0504 no0504 = new No0504();
             //Console.WriteLine(no0504.ConvertToBase7(100));
