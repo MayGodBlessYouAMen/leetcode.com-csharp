@@ -1032,6 +1032,10 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0557.ReverseWords("Let's take LeetCode contest") == "s'teL ekat edoCteeL tsetnoc");
             #endregion
 
+            #region No0559
+            //node太难写。先不写测试
+            #endregion
+
             #region No0561
             //No0561 no0561 = new No0561();
             //Console.WriteLine(no0561.ArrayPairSum(new int[] { 1, 4, 3, 2 }));
