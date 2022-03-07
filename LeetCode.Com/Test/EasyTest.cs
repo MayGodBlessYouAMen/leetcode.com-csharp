@@ -997,6 +997,18 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0530
+            //No0530 no0530 = new No0530();
+            //{
+            //    TreeNode treeNode = Utils.CreateTreeNode(new List<int>() { 4, 2, 6, 1, 3 });
+            //    Console.WriteLine(no0530.GetMinimumDifference(treeNode));
+            //}
+            //{
+            //    TreeNode treeNode = Utils.CreateTreeNode(new List<int?>() { 1, 0, 48, null, null, 12, 49 });
+            //    Console.WriteLine(no0530.GetMinimumDifference(treeNode));
+            //}
+            #endregion
+
             #region No0541
             //No0541 no0541 = new No0541();
             //Console.WriteLine(no0541.ReverseStr("abcdefg", 2));
