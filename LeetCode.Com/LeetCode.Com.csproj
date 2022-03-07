@@ -43,8 +43,10 @@
   <ItemGroup>
     <Compile Include="Com\ExtendMethod.cs" />
     <Compile Include="Com\ListNode.cs" />
+    <Compile Include="Com\Node.cs" />
     <Compile Include="Com\TreeNode.cs" />
     <Compile Include="Com\Utils.cs" />
+    <Compile Include="Easy\No0566.cs" />
     <Compile Include="Easy\No0001.cs" />
     <Compile Include="Easy\No0007.cs" />
     <Compile Include="Easy\No0009.cs" />
@@ -99,7 +101,9 @@
     <Compile Include="Easy\No0530.cs" />
     <Compile Include="Easy\No0541.cs" />
     <Compile Include="Easy\No0551.cs" />
+    <Compile Include="Easy\No0559.cs" />
     <Compile Include="Easy\No0561.cs" />
+    <Compile Include="Easy\No0563.cs" />
     <Compile Include="Easy\No0575.cs" />
     <None Include="Easy\No0195.sh" />
     <None Include="Easy\No0193.sh" />

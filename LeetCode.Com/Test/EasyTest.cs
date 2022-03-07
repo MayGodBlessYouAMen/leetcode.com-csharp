@@ -1046,6 +1046,16 @@ namespace LeetCode.Com.Test
 
             #endregion
 
+            #region No0566
+            //No0566 no0566 = new No0566();
+            //{
+            //    //合法时重塑
+            //    no0566.MatrixReshape(new int[][] { new int[] { 1, 2 }, new int[] { 3, 4 } }, 1, 4);
+            //    //不合法时输出原矩阵
+            //    no0566.MatrixReshape(new int[][] { new int[] { 1, 2 }, new int[] { 3, 4 } }, 2, 4);
+            //}
+            #endregion
+
             #region No0575
             //No0575 no0575 = new No0575();
             //Console.WriteLine(no0575.DistributeCandies(new int[] { 1, 1, 2, 2, 3, 3 }));
