@@ -987,6 +987,16 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0520.DetectCapitalUse("FlaG"));
             #endregion
 
+            #region No0521
+            //No0521 no0521 = new No0521();
+            //{
+            //    Console.WriteLine(no0521.FindLUSlength("aba", "cdc"));  //3
+            //    Console.WriteLine(no0521.FindLUSlength("aaa", "bbb"));  //3
+            //    Console.WriteLine(no0521.FindLUSlength("aaa", "aaa"));  //-1
+            //    Console.WriteLine(no0521.FindLUSlength("abcd", "abc")); //4
+            //}
+            #endregion
+
             #region No0541
             //No0541 no0541 = new No0541();
             //Console.WriteLine(no0541.ReverseStr("abcdefg", 2));
