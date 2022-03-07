@@ -1015,6 +1015,14 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0541.ReverseStr("abcd", 2));
             #endregion
 
+            #region No0551
+            //No0551 no0551 = new No0551();
+            //{
+            //    Console.WriteLine(no0551.CheckRecord("PPALLP"));  //true
+            //    Console.WriteLine(no0551.CheckRecord("PPALLL"));  //false
+            //}
+            #endregion
+
             #region No0557
             //No0557 no0557 = new No0557();
             //Console.WriteLine(no0557.ReverseWords("")=="");
