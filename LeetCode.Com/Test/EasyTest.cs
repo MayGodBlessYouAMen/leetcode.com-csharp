@@ -1121,6 +1121,15 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(No0599.FindRestaurant(new string[] { "aa", "bb", "cc", "dd", "ee", "ff", "gg" }, new string[] { "gg", "ff", "ee", "dd", "cc", "bb", "aa" }).ToConsoleString());
             #endregion
 
+            #region No0605
+            //No0605 no0605 = new No0605();
+            //{
+            //    Console.WriteLine(no0605.CanPlaceFlowers(new int[] { 1, 0, 0, 0, 1 }, 1));  //true
+            //    Console.WriteLine(no0605.CanPlaceFlowers(new int[] { 1, 0, 0, 0, 1 }, 2));  //false
+            //    Console.WriteLine(no0605.CanPlaceFlowers(new int[] { 1, 0, 1, 0, 1, 0, 1 }, 1));  //false
+            //}
+            #endregion
+
             #region No0617
             //No0617 no0617 = new No0617();
 
