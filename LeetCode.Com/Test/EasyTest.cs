@@ -1082,6 +1082,10 @@ namespace LeetCode.Com.Test
             //略
             #endregion
 
+            #region No0590
+            //略
+            #endregion
+
             #region No0598
             //No0598 no0598 = new No0598();
             //{
