@@ -117,6 +117,9 @@
     <Content Include="Easy\No0181.sql" />
     <Content Include="Easy\No0627.sql" />
     <Content Include="Easy\No0595.sql" />
+    <Compile Include="Easy\No0589.cs" />
+    <Compile Include="Easy\No0590.cs" />
+    <Compile Include="Easy\No0594.cs" />
     <Compile Include="Easy\No0598.cs" />
     <Compile Include="Easy\No0617.cs" />
     <Compile Include="Easy\No0628.cs" />

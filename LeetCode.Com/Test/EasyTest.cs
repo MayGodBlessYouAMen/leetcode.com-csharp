@@ -1086,6 +1086,22 @@ namespace LeetCode.Com.Test
             //略
             #endregion
 
+            #region No0594
+            //No0594 no0594 = new No0594();
+            //{
+            //    int[] array = new int[] { 1, 3, 2, 2, 5, 2, 3, 7 };
+            //    Console.WriteLine(no0594.FindLHS(array));
+            //}
+            //{
+            //    int[] array = new int[] { 1, 2, 3, 4 };
+            //    Console.WriteLine(no0594.FindLHS(array));
+            //}
+            //{
+            //    int[] array = new int[] { 1, 1, 1, 1 };
+            //    Console.WriteLine(no0594.FindLHS(array));
+            //}
+            #endregion
+
             #region No0598
             //No0598 no0598 = new No0598();
             //{
