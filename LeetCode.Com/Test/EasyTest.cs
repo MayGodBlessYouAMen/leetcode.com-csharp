@@ -1078,6 +1078,10 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0575.DistributeCandies(new int[] { 6, 6, 6, 6 }));
             #endregion
 
+            #region No0589
+            //略
+            #endregion
+
             #region No0598
             //No0598 no0598 = new No0598();
             //{
