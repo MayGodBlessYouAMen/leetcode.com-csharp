@@ -1056,6 +1056,21 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0572
+            //No0572 no0572 = new No0572();
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int>() { 3, 4, 5, 1, 2 });
+            //    var subRoot = Utils.CreateTreeNode(new List<int>() { 4, 1, 2 });
+            //    Console.WriteLine(no0572.IsSubtree(root, subRoot));
+            //}
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int?>() { 3, 4, 5, 1, 2, null, null, null, null, 0 });
+            //    var subRoot = Utils.CreateTreeNode(new List<int>() { 4, 1, 2 });
+            //    Console.WriteLine(no0572.IsSubtree(root, subRoot));
+            //}
+
+            #endregion
+
             #region No0575
             //No0575 no0575 = new No0575();
             //Console.WriteLine(no0575.DistributeCandies(new int[] { 1, 1, 2, 2, 3, 3 }));

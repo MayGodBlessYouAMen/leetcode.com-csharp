@@ -104,6 +104,7 @@
     <Compile Include="Easy\No0559.cs" />
     <Compile Include="Easy\No0561.cs" />
     <Compile Include="Easy\No0563.cs" />
+    <Compile Include="Easy\No0572.cs" />
     <Compile Include="Easy\No0575.cs" />
     <None Include="Easy\No0195.sh" />
     <None Include="Easy\No0193.sh" />
