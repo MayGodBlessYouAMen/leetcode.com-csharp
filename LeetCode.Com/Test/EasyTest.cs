@@ -1130,6 +1130,18 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0606
+            //No0606 no0606 = new No0606();
+            //{
+            //    var node = Utils.CreateTreeNode(new List<int>() { 1, 2, 3, 4 });
+            //    Console.WriteLine(no0606.Tree2str(node));
+            //}
+            //{
+            //    var node = Utils.CreateTreeNode(new List<int?>() { 1, 2, 3, null, 4 });
+            //    Console.WriteLine(no0606.Tree2str(node));
+            //}
+            #endregion
+
             #region No0617
             //No0617 no0617 = new No0617();
 
