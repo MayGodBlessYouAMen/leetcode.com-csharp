@@ -1189,6 +1189,20 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0645.FindErrorNums(new int[] { 3, 2, 3, 4 }).ToConsoleString());
             #endregion
 
+            #region No0653
+            //No0653 no0653 = new No0653();
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int?>() { 5, 3, 6, 2, 4, null, 7 });
+            //    int k = 9;
+            //    Console.WriteLine(no0653.FindTarget(root,k));  //true
+            //}
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int?>() { 5, 3, 6, 2, 4, null, 7 });
+            //    int k = 28;
+            //    Console.WriteLine(no0653.FindTarget(root, k)); //false
+            //}
+            #endregion
+
             #region No0657
             //No0657 no0657 = new No0657();
             //Console.WriteLine(no0657.JudgeCircle("UD"));
