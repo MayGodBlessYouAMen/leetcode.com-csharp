@@ -226,5 +226,23 @@ namespace LeetCode.Com.Com
                 }
             }
         }
+
+        /// <summary>
+        /// 矩阵转string输出
+        /// </summary>
+        /// <param name="matrix"></param>
+        /// <returns></returns>
+        public static string ToConsoleString(this int[][] matrix)
+        {
+            List<string> list = new List<string>();
+            for (int i = 0; i < matrix.Length; i++)
+            {
+                var array = matrix[i];
+                var str = $"[{string.Join(",", array)}]";
+                list.Add(str);
+            }
+
+            return $"[{string.Join(",", list.ToArray())}]";
+        }
     }
 }
