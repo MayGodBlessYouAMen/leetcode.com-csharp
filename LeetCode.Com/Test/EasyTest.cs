@@ -1161,6 +1161,25 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0628.MaximumProduct(new int[] { -1, -2, -3 }));
             #endregion
 
+            #region No0643
+            //No0643 no0643 = new No0643();
+            //{
+            //    int[] nums = new int[] { 1, 12, -5, -6, 50, 3 };
+            //    int k = 4;
+            //    Console.WriteLine(no0643.FindMaxAverage(nums, k));  //12.75
+            //}
+            //{
+            //    int[] nums = new int[] { 5 };
+            //    int k = 1;
+            //    Console.WriteLine(no0643.FindMaxAverage(nums, k));  //5
+            //}
+            //{
+            //    int[] nums = new int[] { 0, 4, 0, 3, 2 };
+            //    int k = 1;
+            //    Console.WriteLine(no0643.FindMaxAverage(nums, k));  //4
+            //}
+            #endregion
+
             #region No0645
             //No0645 no0645 = new No0645();
             //Console.WriteLine(no0645.FindErrorNums(new int[] { 1, 2, 2, 4 }).ToConsoleString());
