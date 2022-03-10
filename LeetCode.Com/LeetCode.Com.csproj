@@ -46,7 +46,7 @@
     <Compile Include="Com\Node.cs" />
     <Compile Include="Com\TreeNode.cs" />
     <Compile Include="Com\Utils.cs" />
-    <Compile Include="Easy\No.0661.cs" />
+    <Compile Include="Easy\No0661.cs" />
     <Compile Include="Easy\No0566.cs" />
     <Compile Include="Easy\No0001.cs" />
     <Compile Include="Easy\No0007.cs" />
@@ -131,6 +131,7 @@
     <Compile Include="Easy\No0653.cs" />
     <Compile Include="Easy\No0657.cs" />
     <Compile Include="Easy\No0671.cs" />
+    <Compile Include="Easy\No0674.cs" />
     <Compile Include="Easy\No0704.cs" />
     <Compile Include="Easy\No0709.cs" />
     <Compile Include="Easy\No0728.cs" />

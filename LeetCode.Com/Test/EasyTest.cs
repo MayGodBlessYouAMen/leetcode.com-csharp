@@ -1235,6 +1235,18 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0674
+            //No0674 no0674 = new No0674();
+            //{
+            //    int[] nums = new int[] { 1, 3, 5, 4, 7 };
+            //    Console.WriteLine(no0674.FindLengthOfLCIS(nums));   //3
+            //}
+            //{
+            //    int[] nums = new int[] { 2, 2, 2, 2, 2 };
+            //    Console.WriteLine(no0674.FindLengthOfLCIS(nums));   //1
+            //}
+            #endregion
+
             #region No0704
             //No0704 no0704 = new No0704();
             //{
