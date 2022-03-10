@@ -1212,15 +1212,15 @@ namespace LeetCode.Com.Test
             #endregion
 
             #region No0661
-            No0661 no0661 = new No0661();
-            {
-                var img = new int[][] { new int[]{ 1, 1, 1 }, new int[] { 1, 0, 1 }, new int[] { 1, 1, 1 } };
-                Console.WriteLine(no0661.ImageSmoother(img).ToConsoleString());
-            }
-            {
-                var img = new int[][] { new int[] { 100, 200, 100 }, new int[] { 200, 50, 200 }, new int[] { 100, 200, 100 } };
-                Console.WriteLine(no0661.ImageSmoother(img).ToConsoleString());
-            }
+            //No0661 no0661 = new No0661();
+            //{
+            //    var img = new int[][] { new int[]{ 1, 1, 1 }, new int[] { 1, 0, 1 }, new int[] { 1, 1, 1 } };
+            //    Console.WriteLine(no0661.ImageSmoother(img).ToConsoleString());
+            //}
+            //{
+            //    var img = new int[][] { new int[] { 100, 200, 100 }, new int[] { 200, 50, 200 }, new int[] { 100, 200, 100 } };
+            //    Console.WriteLine(no0661.ImageSmoother(img).ToConsoleString());
+            //}
             #endregion
 
             #region No0704
