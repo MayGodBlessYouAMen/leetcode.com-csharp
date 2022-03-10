@@ -1247,6 +1247,22 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0682
+            //No0682 no0682 = new No0682();
+            //{
+            //    string[] ops = new string[] { "5", "2", "C", "D", "+" };
+            //    Console.WriteLine(no0682.CalPoints(ops));   //30
+            //}
+            //{
+            //    string[] ops = new string[] { "5", "-2", "4", "C", "D", "9", "+", "+" };
+            //    Console.WriteLine(no0682.CalPoints(ops));   //27
+            //}
+            //{
+            //    string[] ops = new string[] { "1" };
+            //    Console.WriteLine(no0682.CalPoints(ops));   //1
+            //}
+            #endregion
+
             #region No0704
             //No0704 no0704 = new No0704();
             //{
