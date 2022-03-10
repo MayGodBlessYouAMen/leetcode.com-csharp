@@ -1223,6 +1223,18 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0671
+            No0671 no0671 = new No0671();
+            {
+                var root = Utils.CreateTreeNode(new List<int?>() { 2, 2, 5, null, null, 5, 7 });
+                Console.WriteLine(no0671.FindSecondMinimumValue(root));
+            }
+            {
+                var root = Utils.CreateTreeNode(new List<int?>() { 2, 2, 2 });
+                Console.WriteLine(no0671.FindSecondMinimumValue(root));
+            }
+            #endregion
+
             #region No0704
             //No0704 no0704 = new No0704();
             //{
