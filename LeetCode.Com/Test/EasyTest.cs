@@ -1263,6 +1263,20 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0700
+            //No0700 no0700 = new No0700();
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int>() { 4, 2, 7, 1, 3 });
+            //    int val = 2;
+            //    Console.WriteLine(no0700.SearchBST(root,val).ToConsoleString());   //[2,1,3]
+            //}
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int>() { 4, 2, 7, 1, 3 });
+            //    int val = 5;
+            //    Console.WriteLine(no0700.SearchBST(root, val).ToConsoleString());  //[]
+            //}
+            #endregion
+
             #region No0704
             //No0704 no0704 = new No0704();
             //{
