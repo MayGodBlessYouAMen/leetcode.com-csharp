@@ -1277,6 +1277,17 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0703
+            //{
+            //    No0703 no0703 = new No0703(3, new int[] { 4, 5, 8, 2 });
+            //    Console.WriteLine(no0703.Add(3));   // return 4
+            //    Console.WriteLine(no0703.Add(5));   // return 5
+            //    Console.WriteLine(no0703.Add(10));  // return 5
+            //    Console.WriteLine(no0703.Add(9));   // return 8
+            //    Console.WriteLine(no0703.Add(4));   // return 8
+            //} 
+            #endregion
+
             #region No0704
             //No0704 no0704 = new No0704();
             //{
