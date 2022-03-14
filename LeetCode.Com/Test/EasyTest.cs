@@ -1311,6 +1311,15 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0709.ToLowerCase("LOVELY"));
             #endregion
 
+            #region No0724
+            //No0724 no0724 = new No0724();
+            //{
+            //    Console.WriteLine(no0724.PivotIndex(new int[] { 1, 7, 3, 6, 5, 6 }));     //3
+            //    Console.WriteLine(no0724.PivotIndex(new int[] { 1, 2, 3 }));              //-1
+            //    Console.WriteLine(no0724.PivotIndex(new int[] { 2, 1, -1 }));             //0
+            //}
+            #endregion
+
             #region No0728
             //No0728 no0728 = new No0728();
             //Console.WriteLine(no0728.SelfDividingNumbers(1, 22).ToConsoleString());
