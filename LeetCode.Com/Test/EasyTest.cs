@@ -1325,6 +1325,31 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0728.SelfDividingNumbers(1, 22).ToConsoleString());
             #endregion
 
+            #region No0733
+            //No0733 no0733 = new No0733();
+            //{
+            //    var image = new int[][] { new int[] { 1, 1, 1 }, new int[] { 1, 1, 0 }, new int[] { 1, 0, 1 } };
+            //    int sr = 1;
+            //    int sc = 1;
+            //    int newColor = 2;
+            //    Console.WriteLine(no0733.FloodFill(image, sr, sc, newColor).ToConsoleString());  // [[2,2,2],[2,2,0],[2,0,1]]
+            //}
+            //{
+            //    var image = new int[][] { new int[] { 0, 0, 0 }, new int[] { 0, 0, 0 } };
+            //    int sr = 0;
+            //    int sc = 0;
+            //    int newColor = 2;
+            //    Console.WriteLine(no0733.FloodFill(image, sr, sc, newColor).ToConsoleString());  //[[2,2,2],[2,2,2]]
+            //}
+            //{
+            //    var image = new int[][] { new int[] { 1, 1, 1 }, new int[] { 1, 1, 0 }, new int[] { 1, 0, 1 } };
+            //    int sr = 1;
+            //    int sc = 1;
+            //    int newColor = 1;
+            //    Console.WriteLine(no0733.FloodFill(image, sr, sc, newColor).ToConsoleString());  //[[1,1,1],[1,1,0],[1,0,1]]
+            //}
+            #endregion
+
             #region No0771
             //No0771 no0771 = new No0771();
             //Console.WriteLine(no0771.NumJewelsInStones("aA", "aAAbbbb"));
