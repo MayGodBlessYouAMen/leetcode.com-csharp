@@ -1364,6 +1364,18 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0766
+            //No0766 no0766 = new No0766();
+            //{
+            //    int[][] matrix = new int[][] { new int[] { 1, 2, 3, 4 }, new int[] { 5, 1, 2, 3 }, new int[] { 9, 5, 1, 2 } };
+            //    Console.WriteLine(no0766.IsToeplitzMatrix(matrix));  //true
+            //}
+            //{
+            //    int[][] matrix = new int[][] { new int[] { 1, 2 }, new int[] { 2, 2 } };
+            //    Console.WriteLine(no0766.IsToeplitzMatrix(matrix));  //false
+            //}
+            #endregion
+
             #region No0771
             //No0771 no0771 = new No0771();
             //Console.WriteLine(no0771.NumJewelsInStones("aA", "aAAbbbb"));
