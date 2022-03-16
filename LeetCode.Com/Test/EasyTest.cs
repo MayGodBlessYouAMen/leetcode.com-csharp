@@ -1382,6 +1382,18 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0771.NumJewelsInStones("z", "ZZ"));
             #endregion
 
+            #region No0783
+            //No0783 no0783 = new No0783();
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int>() { 4, 2, 6, 1, 3 });
+            //    Console.WriteLine(no0783.MinDiffInBST(root));  //1
+            //}
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int?>() { 1, 0, 48, null, null, 12, 49 });
+            //    Console.WriteLine(no0783.MinDiffInBST(root));  //1
+            //}
+            #endregion
+
             #region No0796
             //No0796 no0796 = new No0796();
             //Console.WriteLine(no0796.RotateString("", "") == true);
