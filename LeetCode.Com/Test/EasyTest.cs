@@ -1350,6 +1350,20 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0748
+            //No0748 no0748 = new No0748();
+            //{
+            //    string licensePlate = "1s3 PSt";
+            //    string[] words = new string[] { "step", "steps", "stripe", "stepple" };
+            //    Console.WriteLine(no0748.ShortestCompletingWord(licensePlate, words));   //steps
+            //}
+            //{
+            //    string licensePlate = "1s3 456";
+            //    string[] words = new string[] { "looks", "pest", "stew", "show" };
+            //    Console.WriteLine(no0748.ShortestCompletingWord(licensePlate, words));   //pest
+            //}
+            #endregion
+
             #region No0771
             //No0771 no0771 = new No0771();
             //Console.WriteLine(no0771.NumJewelsInStones("aA", "aAAbbbb"));
