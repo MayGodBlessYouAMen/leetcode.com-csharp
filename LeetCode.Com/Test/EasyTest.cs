@@ -1418,6 +1418,20 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0811.SubdomainVisits(new string[] { "900 google.mail.com", "50 yahoo.com", "1 intel.mail.com", "5 wiki.org" }).ToConsoleString());
             #endregion
 
+            #region No0819
+            //No0819 no0819 = new No0819();
+            //{
+            //    string paragraph = "Bob hit a ball, the hit BALL flew far after it was hit.";
+            //    string[] banned = new string[] { "hit" };
+            //    Console.WriteLine(no0819.MostCommonWord(paragraph, banned));
+            //}
+            //{
+            //    string paragraph = "a.";
+            //    string[] banned = new string[] { };
+            //    Console.WriteLine(no0819.MostCommonWord(paragraph, banned));
+            //}
+            #endregion
+
             #region No0832
             //No0832 no0832 = new No0832();
             //Console.WriteLine(no0832.FlipAndInvertImage(new int[][] { new int[] { 1, 1, 0 }, new int[] { 1, 1, 0 }, new int[] { 0, 0, 0 } }).ToConsoleString<IList<int>>());
