@@ -1432,6 +1432,14 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0821
+            //No0821 no0821 = new No0821();
+            //{
+            //    Console.WriteLine(no0821.ShortestToChar("loveleetcode", 'e').ToConsoleString());  //[3,2,1,0,1,0,0,1,2,2,1,0]
+            //    Console.WriteLine(no0821.ShortestToChar("aaab", 'b').ToConsoleString());  //[3,2,1,0]
+            //}
+            #endregion
+
             #region No0832
             //No0832 no0832 = new No0832();
             //Console.WriteLine(no0832.FlipAndInvertImage(new int[][] { new int[] { 1, 1, 0 }, new int[] { 1, 1, 0 }, new int[] { 0, 0, 0 } }).ToConsoleString<IList<int>>());
