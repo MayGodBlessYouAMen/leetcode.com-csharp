@@ -1440,6 +1440,17 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0824
+            //No0824 no0824 = new No0824();
+            //{
+            //    Console.WriteLine(no0824.ToGoatLatin("I speak Goat Latin"));  
+            //    //"Imaa peaksmaaa oatGmaaaa atinLmaaaaa"
+
+            //    Console.WriteLine(no0824.ToGoatLatin("The quick brown fox jumped over the lazy dog"));
+            //    //"heTmaa uickqmaaa rownbmaaaa oxfmaaaaa umpedjmaaaaaa overmaaaaaaa hetmaaaaaaaa azylmaaaaaaaaa ogdmaaaaaaaaaa"
+            //}
+            #endregion
+
             #region No0832
             //No0832 no0832 = new No0832();
             //Console.WriteLine(no0832.FlipAndInvertImage(new int[][] { new int[] { 1, 1, 0 }, new int[] { 1, 1, 0 }, new int[] { 0, 0, 0 } }).ToConsoleString<IList<int>>());
