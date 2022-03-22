@@ -1451,6 +1451,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0830
+            //No0830 no0830 = new No0830();
+            //{
+            //    Console.WriteLine(no0830.LargeGroupPositions("abbxxxxzzy").ToConsoleString());         //[[3,6]]
+            //    Console.WriteLine(no0830.LargeGroupPositions("abc").ToConsoleString());                //[]
+            //    Console.WriteLine(no0830.LargeGroupPositions("abcdddeeeeaabbbcd").ToConsoleString());  //[[3,5],[6,9],[12,14]]
+            //}
+            #endregion
+
             #region No0832
             //No0832 no0832 = new No0832();
             //Console.WriteLine(no0832.FlipAndInvertImage(new int[][] { new int[] { 1, 1, 0 }, new int[] { 1, 1, 0 }, new int[] { 0, 0, 0 } }).ToConsoleString<IList<int>>());
