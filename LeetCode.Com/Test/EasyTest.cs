@@ -1485,6 +1485,17 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0844
+            //No0844 no0844 = new No0844();
+            //{
+            //    Console.WriteLine(no0844.BackspaceCompare("ab#c", "ad#c"));     //true
+            //    Console.WriteLine(no0844.BackspaceCompare("ab##", "c#d#"));     //true
+            //    Console.WriteLine(no0844.BackspaceCompare("a#c", "b"));         //false
+            //    Console.WriteLine(no0844.BackspaceCompare("ab####", "#"));       //true
+            //    Console.WriteLine(no0844.BackspaceCompare("####", "#"));       //true
+            //}
+            #endregion
+
             #region No0852
             //No0852 no0852 = new No0852();
             //Console.WriteLine(no0852.PeakIndexInMountainArray(new int[] { 0, 1, 0 }));
