@@ -1466,6 +1466,25 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0832.FlipAndInvertImage(new int[][] { new int[] { 1, 1, 0, 0 }, new int[] { 1, 0, 0, 1 }, new int[] { 0, 1, 1, 1 }, new int[] { 1, 0, 1, 0 } }).ToConsoleString<IList<int>>());
             #endregion
 
+            #region No0836
+            //No0836 no0836 = new No0836();
+            //{
+            //    var rec1 = new int[] { 0, 0, 2, 2 };
+            //    var rec2 = new int[] { 1, 1, 3, 3 };
+            //    Console.WriteLine(no0836.IsRectangleOverlap(rec1, rec2));  //true
+            //}
+            //{
+            //    var rec1 = new int[] { 0, 0, 1, 1 };
+            //    var rec2 = new int[] { 1, 0, 2, 1 };
+            //    Console.WriteLine(no0836.IsRectangleOverlap(rec1, rec2));  //false
+            //}
+            //{
+            //    var rec1 = new int[] { 0, 0, 1, 1 };
+            //    var rec2 = new int[] { 2, 2, 3, 3 };
+            //    Console.WriteLine(no0836.IsRectangleOverlap(rec1, rec2));  //false
+            //}
+            #endregion
+
             #region No0852
             //No0852 no0852 = new No0852();
             //Console.WriteLine(no0852.PeakIndexInMountainArray(new int[] { 0, 1, 0 }));
