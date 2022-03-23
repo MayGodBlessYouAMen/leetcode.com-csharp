@@ -1549,15 +1549,15 @@ namespace LeetCode.Com.Test
             #endregion
 
             #region No0876
-            No0876 no0876 = new No0876();
-            {
-                ListNode head = Utils.CreateListNode(new List<int>() { 1, 2, 3, 4, 5 });
-                Console.WriteLine(no0876.MiddleNode(head).ToConsoleString());  //[3,4,5]
-            }
-            {
-                ListNode head = Utils.CreateListNode(new List<int>() { 1, 2, 3, 4, 5, 6 });
-                Console.WriteLine(no0876.MiddleNode(head).ToConsoleString());  //[4,5,6]
-            }
+            //No0876 no0876 = new No0876();
+            //{
+            //    ListNode head = Utils.CreateListNode(new List<int>() { 1, 2, 3, 4, 5 });
+            //    Console.WriteLine(no0876.MiddleNode(head).ToConsoleString());  //[3,4,5]
+            //}
+            //{
+            //    ListNode head = Utils.CreateListNode(new List<int>() { 1, 2, 3, 4, 5, 6 });
+            //    Console.WriteLine(no0876.MiddleNode(head).ToConsoleString());  //[4,5,6]
+            //}
             #endregion
 
             #region No0905
