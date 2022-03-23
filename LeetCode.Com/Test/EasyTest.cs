@@ -1557,6 +1557,20 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0884
+            //No0884 no0884 = new No0884();
+            //{
+            //    string s1 = "this apple is sweet";
+            //    string s2 = "this apple is sour";
+            //    Console.WriteLine(no0884.UncommonFromSentences(s1, s2).ToConsoleString());  //["sweet","sour"]
+            //}
+            //{
+            //    string s1 = "apple apple";
+            //    string s2 = "banana";
+            //    Console.WriteLine(no0884.UncommonFromSentences(s1, s2).ToConsoleString());  //["banana"]
+            //}
+            #endregion
+
             #region No0876
             //No0876 no0876 = new No0876();
             //{
