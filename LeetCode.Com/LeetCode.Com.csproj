@@ -155,6 +155,7 @@
     <Compile Include="Easy\No0844.cs" />
     <Compile Include="Easy\No0852.cs" />
     <Compile Include="Easy\No0860.cs" />
+    <Compile Include="Easy\No0867.cs" />
     <Compile Include="Easy\No0905.cs" />
     <Compile Include="Easy\No0917.cs" />
     <Compile Include="Easy\No0929.cs" />

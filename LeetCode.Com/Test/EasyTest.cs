@@ -1513,6 +1513,18 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0867
+            //No0867 no0867 = new No0867();
+            //{
+            //    int[][] matrix = new int[][] { new int[] { 1, 2, 3 }, new int[] { 4, 5, 6 }, new int[] { 7,8,9} };
+            //    Console.WriteLine(no0867.Transpose(matrix).ToConsoleString()); //[[1,4,7],[2,5,8],[3,6,9]]
+            //}
+            //{
+            //    int[][] matrix = new int[][] { new int[] { 1, 2, 3 }, new int[] { 4, 5, 6 } };
+            //    Console.WriteLine(no0867.Transpose(matrix).ToConsoleString());  //[[1,4],[2,5],[3,6]]
+            //}
+            #endregion
+
             #region No0905
             //No0905 no0905 = new No0905();
             //Console.WriteLine(no0905.SortArrayByParity(new int[] { 3, 1, 2, 4 }).ToConsoleString<int>());
