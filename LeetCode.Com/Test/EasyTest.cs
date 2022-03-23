@@ -1505,6 +1505,14 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0852.PeakIndexInMountainArray(new int[] { 24, 69, 100, 99, 79, 78, 67, 36, 26, 19 }));
             #endregion
 
+            #region No0860
+            //No0860 no0860 = new No0860();
+            //{
+            //    Console.WriteLine(no0860.LemonadeChange(new int[] { 5, 5, 5, 10, 20 }));   //true
+            //    Console.WriteLine(no0860.LemonadeChange(new int[] { 5, 5, 10, 10, 20 }));  //false
+            //}
+            #endregion
+
             #region No0905
             //No0905 no0905 = new No0905();
             //Console.WriteLine(no0905.SortArrayByParity(new int[] { 3, 1, 2, 4 }).ToConsoleString<int>());
