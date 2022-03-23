@@ -1534,6 +1534,20 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0872
+            //No0872 no0872 = new No0872();
+            //{
+            //    var root1 = Utils.CreateTreeNode(new List<int?>() { 3, 5, 1, 6, 2, 9, 8, null, null, 7, 4 });
+            //    var root2 = Utils.CreateTreeNode(new List<int?>() { 3, 5, 1, 6, 7, 4, 2, null, null, null, null, null, null, 9, 8 });
+            //    Console.WriteLine(no0872.LeafSimilar(root1, root2)); //true
+            //}
+            //{
+            //    var root1 = Utils.CreateTreeNode(new List<int?>() { 1, 2, 3 });
+            //    var root2 = Utils.CreateTreeNode(new List<int?>() { 1, 3, 2 });
+            //    Console.WriteLine(no0872.LeafSimilar(root1, root2)); //false
+            //}
+            #endregion
+
             #region No0905
             //No0905 no0905 = new No0905();
             //Console.WriteLine(no0905.SortArrayByParity(new int[] { 3, 1, 2, 4 }).ToConsoleString<int>());
