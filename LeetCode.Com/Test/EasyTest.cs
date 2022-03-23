@@ -1525,6 +1525,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0868
+            //No0868 no0868 = new No0868();
+            //{
+            //    Console.WriteLine(no0868.BinaryGap(22));    //"10110" -->2
+            //    Console.WriteLine(no0868.BinaryGap(8));     //"1000"  -->0
+            //    Console.WriteLine(no0868.BinaryGap(5));     //"101" -->2
+            //}
+            #endregion
+
             #region No0905
             //No0905 no0905 = new No0905();
             //Console.WriteLine(no0905.SortArrayByParity(new int[] { 3, 1, 2, 4 }).ToConsoleString<int>());
