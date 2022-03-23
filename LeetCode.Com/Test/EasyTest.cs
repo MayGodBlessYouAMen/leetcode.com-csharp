@@ -1548,6 +1548,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0883
+            //No0883 no0883 = new No0883();
+            //{
+            //    Console.WriteLine(no0883.ProjectionArea(new int[][] { new int[] { 1, 2 }, new int[] { 3, 4 } }));  //17
+            //    Console.WriteLine(no0883.ProjectionArea(new int[][] { new int[] { 2 } }));  //5
+            //    Console.WriteLine(no0883.ProjectionArea(new int[][] { new int[] { 1, 0 }, new int[] { 0, 2 } })); //8
+            //}
+            #endregion
+
             #region No0876
             //No0876 no0876 = new No0876();
             //{
