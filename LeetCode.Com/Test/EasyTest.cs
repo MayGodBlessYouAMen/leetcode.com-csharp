@@ -1620,6 +1620,21 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0897
+            //No0897 no0897 = new No0897();
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int?>() { 5, 3, 6, 2, 4, null, 8, 1, null, null, null, 7, 9 });
+            //    //Console.WriteLine(root.ToConsoleString());
+            //    Console.WriteLine(no0897.IncreasingBST(root).ToConsoleString());
+            //    //[1,null,2,null,3,null,4,null,5,null,6,null,7,null,8,null,9]
+            //}
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int?>() { 5, 1, 7 });
+            //    Console.WriteLine(no0897.IncreasingBST(root).ToConsoleString());
+            //    //[1,null,5,null,7]
+            //}
+            #endregion
+
             #region No0905
             //No0905 no0905 = new No0905();
             //Console.WriteLine(no0905.SortArrayByParity(new int[] { 3, 1, 2, 4 }).ToConsoleString<int>());
