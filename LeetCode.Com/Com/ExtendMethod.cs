@@ -217,7 +217,7 @@ namespace LeetCode.Com.Com
                     if (treeNode.right == null)
                     {
                         //右子树为null时不用打印
-                        //list.Add("null");
+                        list.Add("null");
                     }
                     else
                     {

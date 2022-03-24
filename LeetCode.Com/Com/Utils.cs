@@ -115,7 +115,9 @@ namespace LeetCode.Com.Com
         public static TreeNode CreateTreeNode(List<int> numberlist)
         {
             TreeNode root = null;
+
             root = CreateTreeNode(root, numberlist, 0);
+
             return root;
         }
 
@@ -136,31 +138,67 @@ namespace LeetCode.Com.Com
 
         #region int?
         public static TreeNode CreateTreeNode(List<int?> numberlist)
-        {
+        { 
+            Queue<TreeNode> queue = new Queue<TreeNode>();
+
             TreeNode root = null;
-            root = CreateTreeNode(root, numberlist, 0);
+            {
+                int? val = numberlist[0];
+                numberlist.RemoveAt(0);
+                root = new TreeNode((int)val); //根节点不会为空
+                queue.Enqueue(root);
+            }
+
+            while (queue.Count > 0)
+            {
+                var node = queue.Dequeue();
+
+                //左
+                if (numberlist.Count > 0)
+                {
+                    int? val = numberlist[0];
+                    numberlist.RemoveAt(0);
+
+                    if (val != null)
+                    {
+                        Console.WriteLine(val);
+
+                        node.left = new TreeNode((int)val);
+
+                        queue.Enqueue(node.left);
+                    }
+                    else
+                    {
+                        Console.WriteLine("null");
+                        node.left = null;
+                    }
+                }
+
+                //右
+                if (numberlist.Count > 0)
+                {
+                    int? val = numberlist[0];
+                    numberlist.RemoveAt(0);
+
+                    if (val != null)
+                    {
+                        Console.WriteLine(val);
+
+                        node.right = new TreeNode((int)val);
+
+                        queue.Enqueue(node.right);
+                    }
+                    else
+                    {
+                        Console.WriteLine("null");
+                        node.right = null;
+                    }
+                }
+            }
+
             return root;
         }
-
-        private static TreeNode CreateTreeNode(TreeNode node, List<int?> numberlist, int index)
-        {
-            if (index >= numberlist.Count)
-            {
-                return null;
-            }
-
-            if (numberlist[index] == null)
-            {
-                node = null;
-                return null;
-            }
-
-            node = new TreeNode((int)numberlist[index]);
-            node.left = CreateTreeNode(node.left, numberlist, 2 * index + 1);
-            node.right = CreateTreeNode(node.right, numberlist, 2 * index + 2);
-
-            return node;
-        }
+         
         #endregion
 
         #endregion
