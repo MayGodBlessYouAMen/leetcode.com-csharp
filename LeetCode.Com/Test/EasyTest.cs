@@ -1583,6 +1583,25 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0888
+            //No0888 no0888 = new No0888();
+            //{
+            //    var aliceSizes = new int[] { 1, 1 };
+            //    var bobSizes = new int[] { 2, 2 };
+            //    Console.WriteLine(no0888.FairCandySwap(aliceSizes, bobSizes).ToConsoleString());  //[1,2]
+            //}
+            //{
+            //    var aliceSizes = new int[] { 1, 2 };
+            //    var bobSizes = new int[] { 2, 3 };
+            //    Console.WriteLine(no0888.FairCandySwap(aliceSizes, bobSizes).ToConsoleString());  //[1,2]
+            //}
+            //{
+            //    var aliceSizes = new int[] { 2 };
+            //    var bobSizes = new int[] { 1, 3 };
+            //    Console.WriteLine(no0888.FairCandySwap(aliceSizes, bobSizes).ToConsoleString());  //[2,3]
+            //}
+            #endregion
+
             #region No0905
             //No0905 no0905 = new No0905();
             //Console.WriteLine(no0905.SortArrayByParity(new int[] { 3, 1, 2, 4 }).ToConsoleString<int>());
