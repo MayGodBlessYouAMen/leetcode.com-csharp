@@ -1611,6 +1611,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0896
+            //No0896 no0896 = new No0896();
+            //{
+            //    Console.WriteLine(no0896.IsMonotonic(new int[] { 1, 2, 2, 3 }));      //true
+            //    Console.WriteLine(no0896.IsMonotonic(new int[] { 6, 5, 4, 4 }));      //true
+            //    Console.WriteLine(no0896.IsMonotonic(new int[] { 1, 3, 2 }));         //false
+            //}
+            #endregion
+
             #region No0905
             //No0905 no0905 = new No0905();
             //Console.WriteLine(no0905.SortArrayByParity(new int[] { 3, 1, 2, 4 }).ToConsoleString<int>());
