@@ -1602,6 +1602,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0892
+            //No0892 no0892 = new No0892();
+            //{
+            //    Console.WriteLine(no0892.SurfaceArea(new int[][] { new int[] { 1, 2 }, new int[] { 3, 4 } }));   //34
+            //    Console.WriteLine(no0892.SurfaceArea(new int[][] { new int[] { 1, 1, 1 }, new int[] { 1, 0, 1 }, new int[] { 1, 1, 1 } }));  //32
+            //    Console.WriteLine(no0892.SurfaceArea(new int[][] { new int[] { 2, 2, 2 }, new int[] { 2, 1, 2 }, new int[] { 2, 2, 2 } }));  //46
+            //}
+            #endregion
+
             #region No0905
             //No0905 no0905 = new No0905();
             //Console.WriteLine(no0905.SortArrayByParity(new int[] { 3, 1, 2, 4 }).ToConsoleString<int>());
