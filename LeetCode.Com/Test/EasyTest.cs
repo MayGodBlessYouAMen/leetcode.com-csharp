@@ -1640,6 +1640,15 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0905.SortArrayByParity(new int[] { 3, 1, 2, 4 }).ToConsoleString<int>());
             #endregion
 
+            #region No0908
+            //No0908 no0908 = new No0908();
+            //{
+            //    Console.WriteLine(no0908.SmallestRangeI(new int[] { 1 }, 0));       //0
+            //    Console.WriteLine(no0908.SmallestRangeI(new int[] { 0, 10 }, 2));   //6
+            //    Console.WriteLine(no0908.SmallestRangeI(new int[] { 1, 3, 6 }, 3)); //0 
+            //}
+            #endregion
+
             #region No0917
             //No0917 no0917 = new No0917();
             //Console.WriteLine(no0917.ReverseOnlyLetters("ab-cd"));
