@@ -1664,6 +1664,16 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0925
+            //No0925 no0925 = new No0925();
+            //{
+            //    Console.WriteLine(no0925.IsLongPressedName("a", "aa"));            //true
+            //    Console.WriteLine(no0925.IsLongPressedName("alex", "aaleex"));      //true
+            //    Console.WriteLine(no0925.IsLongPressedName("saeed", "ssaaeeeddd")); //true
+            //    Console.WriteLine(no0925.IsLongPressedName("saeed", "ssaaedd"));    //false
+            //}
+            #endregion
+
             #region No0929
             //No0929 no0929 = new No0929();
             //Console.WriteLine(no0929.NumUniqueEmails(new string[] { "test.email+alex@leetcode.com", "test.e.mail+bob.cathy@leetcode.com", "testemail+david@lee.tcode.com" }));
