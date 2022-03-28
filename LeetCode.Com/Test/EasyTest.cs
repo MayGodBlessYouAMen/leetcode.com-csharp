@@ -1698,6 +1698,15 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0938.RangeSumBST(treeNode2, 6, 10));
             #endregion
 
+            #region No0942
+            //No0942 no0942 = new No0942();
+            //{
+            //    Console.WriteLine(no0942.DiStringMatch("IDID").ToConsoleString()); //[0,4,1,3,2]
+            //    Console.WriteLine(no0942.DiStringMatch("III").ToConsoleString()); //[0,1,2,3]
+            //    Console.WriteLine(no0942.DiStringMatch("DDI").ToConsoleString()); //[3,2,0,1]
+            //}
+            #endregion
+
             #region No0944
             //No0944 no0944 = new No0944();
             //Console.WriteLine(no0944.MinDeletionSize(new string[] { "cba", "daf", "ghi" }));
