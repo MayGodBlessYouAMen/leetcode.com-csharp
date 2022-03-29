@@ -1714,6 +1714,25 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0944.MinDeletionSize(new string[] { "zyx", "wvu", "tsr" }));
             #endregion
 
+            #region No0953
+            //No0953 no0953 = new No0953();
+            //{
+            //    var words = new string[] { "hello", "leetcode" };
+            //    var order = "hlabcdefgijkmnopqrstuvwxyz";
+            //    Console.WriteLine(no0953.IsAlienSorted(words, order));  //true
+            //}
+            //{
+            //    var words = new string[] { "word", "world", "row" };
+            //    var order = "worldabcefghijkmnpqstuvxyz";
+            //    Console.WriteLine(no0953.IsAlienSorted(words, order));  //false
+            //}
+            //{
+            //    var words = new string[] { "apple", "app" };
+            //    var order = "abcdefghijklmnopqrstuvwxyz";
+            //    Console.WriteLine(no0953.IsAlienSorted(words, order));  //false
+            //}
+            #endregion
+
             #region No0961
             //No0961 no0961 = new No0961();
             //Console.WriteLine(no0961.RepeatedNTimes(new int[] { 1, 2, 3, 3 }));
