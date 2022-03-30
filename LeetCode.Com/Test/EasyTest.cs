@@ -1740,6 +1740,18 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0961.RepeatedNTimes(new int[] { 5, 1, 5, 2, 5, 3, 5, 4 }));
             #endregion
 
+            #region No0965
+            //No0965 no0965 = new No0965();
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int?>() { 1, 1, 1, 1, 1, null, 1 });
+            //    Console.WriteLine(no0965.IsUnivalTree(root));   //true
+            //}
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int?>() { 2, 2, 2, 5, 2 });
+            //    Console.WriteLine(no0965.IsUnivalTree(root));   //false
+            //}
+            #endregion
+
             #region No0977
             //No0977 no0977 = new No0977();
             //Console.WriteLine(no0977.SortedSquares(new int[] { -4, -1, 0, 3, 10 }).ToConsoleString<int>());

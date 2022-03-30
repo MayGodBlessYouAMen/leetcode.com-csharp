@@ -161,7 +161,7 @@ namespace LeetCode.Com.Com
 
                     if (val != null)
                     {
-                        Console.WriteLine(val);
+                        //Console.WriteLine(val);
 
                         node.left = new TreeNode((int)val);
 
@@ -169,7 +169,7 @@ namespace LeetCode.Com.Com
                     }
                     else
                     {
-                        Console.WriteLine("null");
+                        //Console.WriteLine("null");
                         node.left = null;
                     }
                 }
@@ -182,7 +182,7 @@ namespace LeetCode.Com.Com
 
                     if (val != null)
                     {
-                        Console.WriteLine(val);
+                        //Console.WriteLine(val);
 
                         node.right = new TreeNode((int)val);
 
