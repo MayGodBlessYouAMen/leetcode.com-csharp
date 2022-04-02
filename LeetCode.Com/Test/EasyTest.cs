@@ -1762,6 +1762,15 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0977.SortedSquares(new int[] { 1, 2, 3, 4, 5 }).ToConsoleString<int>());
             #endregion
 
+            #region No0989
+            //No0989 no0989 = new No0989();
+            //{
+            //    Console.WriteLine(no0989.AddToArrayForm(new int[] { 1, 2, 0, 0 }, 34).ToConsoleString());  // [1,2,3,4]
+            //    Console.WriteLine(no0989.AddToArrayForm(new int[] { 2, 7, 4 }, 181).ToConsoleString());    // [4,5,5]
+            //    Console.WriteLine(no0989.AddToArrayForm(new int[] { 2, 1, 5 }, 806).ToConsoleString());    //[1,0,2,1]
+            //}
+            #endregion
+
             #region No0997
             //No0997 no0997 = new No0997();
             //Console.WriteLine(no0997.FindJudge(2, new int[][] { new int[] { 1, 2 } }));
