@@ -180,6 +180,7 @@
     <Compile Include="Easy\No0989.cs" />
     <Compile Include="Easy\No0997.cs" />
     <Compile Include="Easy\No0908.cs" />
+    <Compile Include="Easy\No0999.cs" />
     <Compile Include="Easy\No1002.cs" />
     <Compile Include="Easy\No1005.cs" />
     <Compile Include="Easy\No1009.cs" />

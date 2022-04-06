@@ -1780,6 +1780,49 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0997.FindJudge(4, new int[][] { new int[] { 1, 3 }, new int[] { 1, 4 }, new int[] { 2, 3 }, new int[] { 2, 4 }, new int[] { 4, 3 } }));
             #endregion
 
+            #region No0999
+            //No0999 no0999 = new No0999();
+            //{
+            //    char[][] board = new char[][] { 
+            //         new char[] {'.','.','.','.','.','.','.','.'}
+            //        ,new char[] {'.','.','.','p','.','.','.','.'}
+            //        ,new char[] {'.','.','.','R','.','.','.','p'}
+            //        ,new char[] {'.','.','.','.','.','.','.','.'}
+            //        ,new char[] {'.','.','.','.','.','.','.','.'}
+            //        ,new char[] {'.','.','.','p','.','.','.','.'}
+            //        ,new char[] {'.','.','.','.','.','.','.','.'}
+            //        ,new char[] {'.','.','.','.','.','.','.','.'}
+            //    };
+            //    Console.WriteLine(no0999.NumRookCaptures(board));
+            //}
+            //{
+            //    char[][] board = new char[][] {
+            //        new char[] {'.','.','.','.','.','.','.','.'}
+            //        ,new char[] {'.','p','p','p','p','p','.','.'}
+            //        ,new char[] {'.','p','p','B','p','p','.','.'}
+            //        ,new char[] {'.','p','B','R','B','p','.','.'}
+            //        ,new char[] {'.','p','p','B','p','p','.','.'}
+            //        ,new char[] {'.','p','p','p','p','p','.','.'}
+            //        ,new char[] {'.','.','.','.','.','.','.','.'}
+            //        ,new char[] {'.','.','.','.','.','.','.','.'}
+            //    };
+            //    Console.WriteLine(no0999.NumRookCaptures(board));
+            //}
+            //{
+            //    char[][] board = new char[][] {
+            //        new char[] {'.','.','.','.','.','.','.','.'}
+            //        ,new char[] {'.','.','.','p','.','.','.','.'}
+            //        ,new char[] {'.','.','.','p','.','.','.','.'}
+            //        ,new char[] {'p','p','.','R','.','p','B','.'}
+            //        ,new char[] {'.','.','.','.','.','.','.','.'}
+            //        ,new char[] {'.','.','.','B','.','.','.','.'}
+            //        ,new char[] {'.','.','.','p','.','.','.','.'}
+            //        ,new char[] {'.','.','.','.','.','.','.','.'}
+            //    };
+            //    Console.WriteLine(no0999.NumRookCaptures(board));
+            //}
+            #endregion
+
             #region No1002
             //No1002 no1002 = new No1002();
             //Console.WriteLine(no1002.CommonChars(new string[] { "bella", "label", "roller" }).ToConsoleString());
