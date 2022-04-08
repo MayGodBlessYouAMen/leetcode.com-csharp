@@ -1859,6 +1859,19 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1018
+            //No1018 no1018 = new No1018();
+            //{
+            //    Console.WriteLine(no1018.PrefixesDivBy5(new int[] { 0, 1, 1 }).ToConsoleString());  //[true,false,false]
+            //}
+            //{
+            //    Console.WriteLine(no1018.PrefixesDivBy5(new int[] { 1, 1, 1 }).ToConsoleString());  //[false,false,false]
+            //}
+            //{
+            //    Console.WriteLine(no1018.PrefixesDivBy5(new int[] { 1, 1, 0, 0, 0, 1, 0, 0, 1 }).ToConsoleString());  //[false,false,false,false,false,false,false,false,false]
+            //}
+            #endregion
+
             #region No1021
             //No1021 no1021 = new No1021();
             //Console.WriteLine(no1021.RemoveOuterParentheses("(()())(())"));
