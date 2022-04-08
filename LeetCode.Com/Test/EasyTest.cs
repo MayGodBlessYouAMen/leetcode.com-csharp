@@ -1843,6 +1843,22 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no1009.BitwiseComplement(10));
             #endregion
 
+            #region No1013
+            //No1013 no1013 = new No1013();
+            //{
+            //    var arr = new int[] { 0, 2, 1, -6, 6, -7, 9, 1, 2, 0, 1 };
+            //    Console.WriteLine(no1013.CanThreePartsEqualSum(arr)); //true
+            //}
+            //{
+            //    var arr = new int[] { 0, 2, 1, -6, 6, 7, 9, -1, 2, 0, 1 };
+            //    Console.WriteLine(no1013.CanThreePartsEqualSum(arr)); //false
+            //}
+            //{
+            //    var arr = new int[] { 3, 3, 6, 5, -2, 2, 5, 1, -9, 4 };
+            //    Console.WriteLine(no1013.CanThreePartsEqualSum(arr)); //true
+            //}
+            #endregion
+
             #region No1021
             //No1021 no1021 = new No1021();
             //Console.WriteLine(no1021.RemoveOuterParentheses("(()())(())"));
