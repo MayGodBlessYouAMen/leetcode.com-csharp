@@ -1911,6 +1911,14 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no1141.BuildArray(new int[] { 2, 3, 4 }, 4).ToConsoleString());
             #endregion
 
+            #region No1154
+            //No1154 no1154 = new No1154();
+            //{
+            //    Console.WriteLine(no1154.DayOfYear("2019-01-09"));  //9
+            //    Console.WriteLine(no1154.DayOfYear("2019-02-10"));  //41
+            //}
+            #endregion
+
             #region No1160
             //No1160 no1160 = new No1160();
             //Console.WriteLine(no1160.CountCharacters(new string[] { "cat", "bt", "hat", "tree" }, "atach"));
