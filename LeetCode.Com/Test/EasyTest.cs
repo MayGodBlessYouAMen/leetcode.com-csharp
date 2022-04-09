@@ -1771,6 +1771,24 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0993 
+            //{
+            //    No0993 no0993 = new No0993();
+            //    var root = Utils.CreateTreeNode(new List<int?>() { 1, 2, 3, 4 });
+            //    Console.WriteLine(no0993.IsCousins(root, 4, 3));   //false
+            //}
+            //{
+            //    No0993 no0993 = new No0993();
+            //    var root = Utils.CreateTreeNode(new List<int?>() { 1, 2, 3, null, 4, null, 5 });
+            //    Console.WriteLine(no0993.IsCousins(root, 5, 4));   //true
+            //}
+            //{
+            //    No0993 no0993 = new No0993();
+            //    var root = Utils.CreateTreeNode(new List<int?>() { 1, 2, 3, null, 4 });
+            //    Console.WriteLine(no0993.IsCousins(root, 2, 3));   //false
+            //}
+            #endregion
+
             #region No0997
             //No0997 no0997 = new No0997();
             //Console.WriteLine(no0997.FindJudge(2, new int[][] { new int[] { 1, 2 } }));
