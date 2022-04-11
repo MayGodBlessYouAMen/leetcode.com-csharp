@@ -1926,6 +1926,13 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1037
+            //No1037 no1037 = new No1037();
+            //Console.WriteLine(no1037.IsBoomerang(new int[][] { new int[] { 1, 1 }, new int[] { 2, 3 }, new int[] { 3, 2 } }));   //true
+            //Console.WriteLine(no1037.IsBoomerang(new int[][] { new int[] { 1, 1 }, new int[] { 2, 2 }, new int[] { 3, 3 } }));   //false
+            //Console.WriteLine(no1037.IsBoomerang(new int[][] { new int[] { 0, 1 }, new int[] { 2, 2 }, new int[] { 2, 0 } }));   //true
+            #endregion
+
             #region No1108
             //No1108 no1108 = new No1108();
             //Console.WriteLine(no1108.DefangIPaddr("1.1.1.1"));
