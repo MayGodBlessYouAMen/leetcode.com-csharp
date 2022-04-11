@@ -1909,6 +1909,14 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no1022.SumRootToLeaf(treeNode4));
             #endregion
 
+            #region No1025
+            //No1025 no1025 = new No1025();
+            //{
+            //    Console.WriteLine(no1025.DivisorGame(2));     //true
+            //    Console.WriteLine(no1025.DivisorGame(3));     //false
+            //}
+            #endregion
+
             #region No1108
             //No1108 no1108 = new No1108();
             //Console.WriteLine(no1108.DefangIPaddr("1.1.1.1"));
