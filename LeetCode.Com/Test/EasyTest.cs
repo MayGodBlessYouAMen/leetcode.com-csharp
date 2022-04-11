@@ -1917,6 +1917,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1030
+            //No1030 no1030 = new No1030();
+            //{
+            //    Console.WriteLine(no1030.AllCellsDistOrder(1, 2, 0, 0).ToConsoleString());  //[[0,0],[0,1]]
+            //    Console.WriteLine(no1030.AllCellsDistOrder(2, 2, 0, 1).ToConsoleString());  //[[0,1],[0,0],[1,1],[1,0]]
+            //    Console.WriteLine(no1030.AllCellsDistOrder(2, 3, 1, 2).ToConsoleString());  //[[1,2],[1,1],[0,2],[1,0],[0,1],[0,0]]
+            //}
+            #endregion
+
             #region No1108
             //No1108 no1108 = new No1108();
             //Console.WriteLine(no1108.DefangIPaddr("1.1.1.1"));
