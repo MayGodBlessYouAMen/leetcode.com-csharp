@@ -1933,6 +1933,15 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no1037.IsBoomerang(new int[][] { new int[] { 0, 1 }, new int[] { 2, 2 }, new int[] { 2, 0 } }));   //true
             #endregion
 
+            #region No1046
+            //No1046 no1046 = new No1046();
+            //{
+            //    Console.WriteLine(no1046.LastStoneWeight(new int[] { 2, 7, 4, 1, 8, 1 })); //1  
+            //    Console.WriteLine(no1046.LastStoneWeight(new int[] { 1 })); //1
+            //    Console.WriteLine(no1046.LastStoneWeight(new int[] { 3, 2, 1, 3, 2, 1 })); //0
+            //}
+            #endregion
+
             #region No1108
             //No1108 no1108 = new No1108();
             //Console.WriteLine(no1108.DefangIPaddr("1.1.1.1"));
