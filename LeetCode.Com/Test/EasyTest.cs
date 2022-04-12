@@ -1942,6 +1942,14 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1047
+            //No1047 no1047 = new No1047();
+            //{
+            //    Console.WriteLine(no1047.RemoveDuplicates("abbaca"));  //ca
+            //    Console.WriteLine(no1047.RemoveDuplicates("azxxzy"));  //ay
+            //}
+            #endregion
+
             #region No1108
             //No1108 no1108 = new No1108();
             //Console.WriteLine(no1108.DefangIPaddr("1.1.1.1"));
