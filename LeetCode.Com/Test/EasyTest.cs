@@ -1993,6 +1993,15 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no1160.CountCharacters(new string[] { "hello", "world", "leetcode" }, "welldonehoneyr"));
             #endregion
 
+            #region No1185
+            //No1185 no1185 = new No1185();
+            //{
+            //    Console.WriteLine(no1185.DayOfTheWeek(31, 8, 2019));  //Saturday
+            //    Console.WriteLine(no1185.DayOfTheWeek(18, 7, 1999));  //Sunday
+            //    Console.WriteLine(no1185.DayOfTheWeek(15, 8, 1993));  //Sunday
+            //}
+            #endregion
+
             #region No1417
             //No1417 no1417 = new No1417();
             //Console.WriteLine(no1417.Reformat("a0b1c2"));
