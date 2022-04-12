@@ -1950,6 +1950,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1051
+            //No1051 no1051 = new No1051();
+            //{
+            //    Console.WriteLine(no1051.HeightChecker(new int[] { 1, 1, 4, 2, 1, 3 }));  //3
+            //    Console.WriteLine(no1051.HeightChecker(new int[] { 5, 1, 2, 3, 4 }));     //5
+            //    Console.WriteLine(no1051.HeightChecker(new int[] { 1, 2, 3, 4, 5 }));     //0
+            //}
+            #endregion
+
             #region No1108
             //No1108 no1108 = new No1108();
             //Console.WriteLine(no1108.DefangIPaddr("1.1.1.1"));
