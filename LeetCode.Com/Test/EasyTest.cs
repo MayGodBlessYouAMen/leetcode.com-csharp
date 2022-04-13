@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace LeetCode.Com.Test
 {
@@ -1988,6 +1989,44 @@ namespace LeetCode.Com.Test
             //No1108 no1108 = new No1108();
             //Console.WriteLine(no1108.DefangIPaddr("1.1.1.1"));
             //Console.WriteLine(no1108.DefangIPaddr("255.100.50.0"));
+            #endregion
+
+            #region No1114
+            //{
+            //    Action printFirst = new Action(() => { Console.Write("first"); });
+            //    Action printSecond = new Action(() => { Console.Write("second"); });
+            //    Action printThird = new Action(() => { Console.Write("third"); });
+
+            //    No1114 no1114 = new No1114();
+            //    Action first = new Action(() => { no1114.First(printFirst); });
+            //    Action second = new Action(() => { no1114.Second(printSecond); });
+            //    Action third = new Action(() => { no1114.Third(printThird); });
+
+            //    {
+            //        //Input: nums = [1,2,3]
+            //        no1114.Init();
+            //        var task1 = Task.Factory.StartNew(first);
+            //        var task2 = Task.Factory.StartNew(second);
+            //        var task3 = Task.Factory.StartNew(third);
+            //        var list = new List<Task>() { task1, task2, task3 };
+            //        Task.WaitAll(list.ToArray());
+
+            //        Console.WriteLine("");
+            //    }
+
+            //    {
+            //        //Input: nums = [1,3,2]
+            //        no1114.Init();
+            //        var task1 = Task.Factory.StartNew(first);
+            //        var task2 = Task.Factory.StartNew(third);
+            //        var task3 = Task.Factory.StartNew(second);
+
+            //        var list = new List<Task>() { task1, task2, task3 };
+            //        Task.WaitAll(list.ToArray());
+
+            //        Console.WriteLine("");
+            //    }
+            //}
             #endregion
 
             #region No1137
