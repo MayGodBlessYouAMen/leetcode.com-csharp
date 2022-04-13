@@ -1968,6 +1968,22 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1078
+            //No1078 no1078 = new No1078();
+            //{
+            //    string text = "alice is a good girl she is a good student";
+            //    string first = "a";
+            //    string second = "good";
+            //    Console.WriteLine(no1078.FindOcurrences(text, first, second).ToConsoleString()); //["girl","student"]
+            //}
+            //{
+            //    string text = "we will we will rock you";
+            //    string first = "we";
+            //    string second = "will";
+            //    Console.WriteLine(no1078.FindOcurrences(text, first, second).ToConsoleString()); //["we","rock"]
+            //}
+            #endregion
+
             #region No1108
             //No1108 no1108 = new No1108();
             //Console.WriteLine(no1108.DefangIPaddr("1.1.1.1"));
