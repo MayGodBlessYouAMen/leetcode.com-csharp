@@ -1959,6 +1959,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1071
+            //No1071 no1071 = new No1071();
+            //{
+            //    Console.WriteLine(no1071.GcdOfStrings("ABCABC", "ABC"));    //ABC
+            //    Console.WriteLine(no1071.GcdOfStrings("ABABAB", "AB"));     //AB
+            //    Console.WriteLine(no1071.GcdOfStrings("LEET", "CODE"));     //""
+            //}
+            #endregion
+
             #region No1108
             //No1108 no1108 = new No1108();
             //Console.WriteLine(no1108.DefangIPaddr("1.1.1.1"));
