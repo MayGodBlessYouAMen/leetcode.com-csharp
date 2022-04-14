@@ -2043,6 +2043,22 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1128
+            //No1128 no1128 = new No1128();
+            //{
+            //    var dominoes = new int[][] { new int[] { 1, 2 }, new int[] { 2, 1 }, new int[] { 3, 4 }, new int[] { 5, 6 } };
+            //    Console.WriteLine(no1128.NumEquivDominoPairs(dominoes)); //1
+            //}
+            //{
+            //    var dominoes = new int[][] { new int[] { 1, 2 }, new int[] { 1, 2 }, new int[] { 1, 1 }, new int[] { 1, 2 }, new int[] { 2, 2 } };
+            //    Console.WriteLine(no1128.NumEquivDominoPairs(dominoes)); //3
+            //}
+            //{
+            //    var dominoes = new int[][] { new int[] { 1, 2 }, new int[] { 2, 1 }, new int[] { 1, 2 }, new int[] { 2, 1 }, new int[] { 1, 2 } };
+            //    Console.WriteLine(no1128.NumEquivDominoPairs(dominoes));
+            //}
+            #endregion
+
             #region No1137
             //No1137 no1137 = new No1137();
             //Console.WriteLine(no1137.Tribonacci(4));
