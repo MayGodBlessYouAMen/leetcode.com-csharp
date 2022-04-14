@@ -1985,6 +1985,20 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1089
+            //No1089 no1089 = new No1089();
+            //{
+            //    int[] arr = new int[] { 1, 0, 2, 3, 0, 4, 5, 0 };
+            //    no1089.DuplicateZeros(arr);
+            //    Console.WriteLine(arr.ToConsoleString());   //[1,0,0,2,3,0,0,4]
+            //}
+            //{
+            //    int[] arr = new int[] { 1, 2, 3 };
+            //    no1089.DuplicateZeros(arr);
+            //    Console.WriteLine(arr.ToConsoleString());  //[1,2,3]
+            //}
+            #endregion
+
             #region No1108
             //No1108 no1108 = new No1108();
             //Console.WriteLine(no1108.DefangIPaddr("1.1.1.1"));
