@@ -2029,6 +2029,20 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1122
+            //No1122 no1122 = new No1122();
+            //{
+            //    int[] arr1 = new int[] { 2, 3, 1, 3, 2, 4, 6, 7, 9, 2, 19 };
+            //    int[] arr2 = new int[] { 2, 1, 4, 3, 9, 6 };
+            //    Console.WriteLine(no1122.RelativeSortArray(arr1, arr2).ToConsoleString());   //[2,2,2,1,4,3,3,9,6,7,19]
+            //}
+            //{
+            //    int[] arr1 = new int[] { 28, 6, 22, 8, 44, 17 };
+            //    int[] arr2 = new int[] { 22, 28, 8, 6 };
+            //    Console.WriteLine(no1122.RelativeSortArray(arr1, arr2).ToConsoleString());   //[22,28,8,6,17,44]
+            //}
+            #endregion
+
             #region No1137
             //No1137 no1137 = new No1137();
             //Console.WriteLine(no1137.Tribonacci(4));
