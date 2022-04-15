@@ -312,6 +312,7 @@
     <Content Include="Easy\No1084.sql" />
     <Content Include="Easy\No1141.sql" />
     <Content Include="Easy\No1148.sql" />
+    <Content Include="Easy\No1179.sql" />
     <Content Include="leetcodelist.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
