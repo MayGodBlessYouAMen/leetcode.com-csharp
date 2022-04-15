@@ -2109,6 +2109,14 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no1160.CountCharacters(new string[] { "hello", "world", "leetcode" }, "welldonehoneyr"));
             #endregion
 
+            #region No1175
+            //No1175 no1175 = new No1175();
+            //{
+            //    Console.WriteLine(no1175.NumPrimeArrangements(5));   //12
+            //    Console.WriteLine(no1175.NumPrimeArrangements(100)); //682289015
+            //}
+            #endregion
+
             #region No1185
             //No1185 no1185 = new No1185();
             //{
