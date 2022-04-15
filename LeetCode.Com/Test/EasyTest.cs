@@ -1999,6 +1999,14 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1103
+            //No1103 no1103 = new No1103();
+            //{
+            //    Console.WriteLine(no1103.DistributeCandies(7, 4).ToConsoleString());  //[1,2,3,1]
+            //    Console.WriteLine(no1103.DistributeCandies(10, 3).ToConsoleString()); //[5,2,3]
+            //}
+            #endregion
+
             #region No1108
             //No1108 no1108 = new No1108();
             //Console.WriteLine(no1108.DefangIPaddr("1.1.1.1"));
