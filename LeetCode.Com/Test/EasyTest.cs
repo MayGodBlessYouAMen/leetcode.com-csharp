@@ -2153,6 +2153,14 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no1417.Reformat("covid2019"));
             //Console.WriteLine(no1417.Reformat("ab123"));
             #endregion
+
+            #region No2243
+            //No2243 no2243 = new No2243();
+            //{
+            //    Console.WriteLine(no2243.DigitSum("11111222223", 3));      //"135"
+            //    Console.WriteLine(no2243.DigitSum("00000000", 3));         //"000"
+            //}
+            #endregion
         }
     }
 }
