@@ -2136,6 +2136,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1189
+            //No1189 no1189 = new No1189();
+            //{
+            //    Console.WriteLine(no1189.MaxNumberOfBalloons("nlaebolko"));            //1
+            //    Console.WriteLine(no1189.MaxNumberOfBalloons("loonbalxballpoon"));     //2
+            //    Console.WriteLine(no1189.MaxNumberOfBalloons("leetcode"));             //0
+            //}
+            #endregion
+
             #region No1417
             //No1417 no1417 = new No1417();
             //Console.WriteLine(no1417.Reformat("a0b1c2"));
