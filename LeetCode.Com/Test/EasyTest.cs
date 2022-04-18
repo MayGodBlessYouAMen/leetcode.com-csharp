@@ -2154,6 +2154,18 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no1417.Reformat("ab123"));
             #endregion
 
+            #region No2236
+            //No2236 no2236 = new No2236();
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int>() { 10, 4, 6 });
+            //    Console.WriteLine(no2236.CheckTree(root));  //true
+            //}
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int>() { 5, 3, 1 });
+            //    Console.WriteLine(no2236.CheckTree(root));  //false
+            //}
+            #endregion
+
             #region No2243
             //No2243 no2243 = new No2243();
             //{
