@@ -2117,6 +2117,16 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1184
+            //No1184 no1184 = new No1184();
+            //{
+            //    Console.WriteLine(no1184.DistanceBetweenBusStops(new int[] { 1, 2, 3, 4 }, 0, 1));
+            //    Console.WriteLine(no1184.DistanceBetweenBusStops(new int[] { 1, 2, 3, 4 }, 0, 2));
+            //    Console.WriteLine(no1184.DistanceBetweenBusStops(new int[] { 1, 2, 3, 4 }, 0, 3));
+            //    Console.WriteLine(no1184.DistanceBetweenBusStops(new int[] { 1, 2, 3, 4 }, 3, 0));
+            //}
+            #endregion
+
             #region No1185
             //No1185 no1185 = new No1185();
             //{
