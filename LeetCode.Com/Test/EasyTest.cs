@@ -2160,6 +2160,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1207
+            //No1207 no1207 = new No1207();
+            //{
+            //    Console.WriteLine(no1207.UniqueOccurrences(new int[] { 1, 2, 2, 1, 1, 3 }));                      //true
+            //    Console.WriteLine(no1207.UniqueOccurrences(new int[] { 1, 2 }));                                  //false
+            //    Console.WriteLine(no1207.UniqueOccurrences(new int[] { -3, 0, 1, -3, 1, 1, 1, -3, 10, 0 }));      //true
+            //}
+            #endregion
+
             #region No1417
             //No1417 no1417 = new No1417();
             //Console.WriteLine(no1417.Reformat("a0b1c2"));
