@@ -2154,6 +2154,13 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no1417.Reformat("ab123"));
             #endregion
 
+            #region No2235
+            //No2235 no2235 = new No2235();
+            //{
+            //    Console.WriteLine(no2235.Sum(12, 5));
+            //}
+            #endregion
+
             #region No2236
             //No2236 no2236 = new No2236();
             //{
