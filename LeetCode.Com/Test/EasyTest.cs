@@ -2178,6 +2178,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1221
+            //No1221 no1221 = new No1221();
+            //{
+            //    Console.WriteLine(no1221.BalancedStringSplit("RLRRLLRLRL"));  //4
+            //    Console.WriteLine(no1221.BalancedStringSplit("RLLLLRRRLR"));  //3
+            //    Console.WriteLine(no1221.BalancedStringSplit("LLLLRRRR"));    //1
+            //}
+            #endregion
+
             #region No1417
             //No1417 no1417 = new No1417();
             //Console.WriteLine(no1417.Reformat("a0b1c2"));
