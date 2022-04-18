@@ -2187,6 +2187,17 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1232
+            //No1232 no1232 = new No1232();
+            //{
+            //    Console.WriteLine(no1232.CheckStraightLine(new int[][] { new int[] { 1, 2 }, new int[] { 2, 3 }, new int[] { 3, 4 }, new int[] { 4, 5 }, new int[] { 5, 6 }, new int[] { 6, 7 } }));
+            //    //true
+                
+            //    Console.WriteLine(no1232.CheckStraightLine(new int[][] { new int[] { 1, 1 }, new int[] { 2, 2 }, new int[] { 3, 4 }, new int[] { 4, 5 }, new int[] { 5, 6 }, new int[] { 7, 7 } }));
+            //    //false            
+            //}
+            #endregion
+
             #region No1417
             //No1417 no1417 = new No1417();
             //Console.WriteLine(no1417.Reformat("a0b1c2"));
