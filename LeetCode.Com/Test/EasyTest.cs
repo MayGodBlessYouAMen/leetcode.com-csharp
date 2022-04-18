@@ -2169,6 +2169,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1217
+            //No1217 no1217 = new No1217();
+            //{
+            //    Console.WriteLine(no1217.MinCostToMoveChips(new int[] { 1, 2, 3 }));          //1
+            //    Console.WriteLine(no1217.MinCostToMoveChips(new int[] { 2, 2, 2, 3, 3 }));    //2
+            //    Console.WriteLine(no1217.MinCostToMoveChips(new int[] { 1, 1000000000 }));    //1
+            //}
+            #endregion
+
             #region No1417
             //No1417 no1417 = new No1417();
             //Console.WriteLine(no1417.Reformat("a0b1c2"));
