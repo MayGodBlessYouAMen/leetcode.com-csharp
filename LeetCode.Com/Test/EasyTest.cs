@@ -2145,6 +2145,21 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1200
+            //No1200 no1200 = new No1200();
+            //{
+            //    Console.WriteLine(no1200.MinimumAbsDifference(new int[] { 4, 2, 1, 3 }).ToConsoleString());
+            //    //[[1,2],[2,3],[3,4]]
+
+            //    Console.WriteLine(no1200.MinimumAbsDifference(new int[] { 1, 3, 6, 10, 15 }).ToConsoleString());
+            //    //[[1,3]]
+
+            //    Console.WriteLine(no1200.MinimumAbsDifference(new int[] { 3, 8, -10, 23, 19, -4, -14, 27 }).ToConsoleString());
+            //    //[[-14,-10],[19,23],[23,27]]
+
+            //}
+            #endregion
+
             #region No1417
             //No1417 no1417 = new No1417();
             //Console.WriteLine(no1417.Reformat("a0b1c2"));
