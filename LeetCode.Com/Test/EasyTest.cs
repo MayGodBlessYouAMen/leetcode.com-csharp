@@ -2239,6 +2239,15 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no1417.Reformat("ab123"));
             #endregion
 
+            #region No1470
+            //No1470 no1470 = new No1470();
+            //{
+            //    Console.WriteLine(no1470.Shuffle(new int[] { 2, 5, 1, 3, 4, 7 }, 3).ToConsoleString());           //[2,3,5,4,1,7]
+            //    Console.WriteLine(no1470.Shuffle(new int[] { 1, 2, 3, 4, 4, 3, 2, 1 }, 4).ToConsoleString());     //[1,4,2,3,3,2,4,1]
+            //    Console.WriteLine(no1470.Shuffle(new int[] { 1, 1, 2, 2 }, 2).ToConsoleString());                 //[1,2,1,2]
+            //}
+            #endregion
+
             #region No1480
             //水题，略
             #endregion

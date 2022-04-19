@@ -221,6 +221,7 @@
     <Content Include="Easy\No1587.sql" />
     <Content Include="Easy\No1693.sql" />
     <Content Include="Easy\No1741.sql" />
+    <Compile Include="Easy\No1470.cs" />
     <Compile Include="Easy\No1480.cs" />
     <Compile Include="Easy\No1672.cs" />
     <Compile Include="Easy\No1920.cs" />
