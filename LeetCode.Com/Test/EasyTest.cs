@@ -2238,6 +2238,14 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1313
+            //No1313 no1313 = new No1313();
+            //{
+            //    Console.WriteLine(no1313.DecompressRLElist(new int[] { 1, 2, 3, 4 }).ToConsoleString()); //[2,4,4,4]
+            //    Console.WriteLine(no1313.DecompressRLElist(new int[] { 1, 1, 2, 3 }).ToConsoleString()); //[1,3,3]
+            //}
+            #endregion
+
             #region No1365
             //No1365 no1365 = new No1365();
             //{
