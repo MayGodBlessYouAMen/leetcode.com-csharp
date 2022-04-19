@@ -2239,6 +2239,14 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no1417.Reformat("ab123"));
             #endregion
 
+            #region No19203
+            //No1920 no1920 = new No1920();
+            //{
+            //    Console.WriteLine(no1920.BuildArray(new int[] { 0, 2, 1, 5, 3, 4 }).ToConsoleString());   //[0,1,2,4,5,3]
+            //    Console.WriteLine(no1920.BuildArray(new int[] { 5, 0, 1, 2, 3, 4 }).ToConsoleString());   //[4,5,0,1,2,3]
+            //}
+            #endregion
+
             #region No1929
             //No1929 no1929 = new No1929();
             //{
