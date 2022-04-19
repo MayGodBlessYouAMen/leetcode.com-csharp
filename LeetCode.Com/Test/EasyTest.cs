@@ -2284,6 +2284,10 @@ namespace LeetCode.Com.Test
             //水题，略
             #endregion
 
+            #region No2160
+            //水题，略
+            #endregion
+
             #region No2235
             //No2235 no2235 = new No2235();
             //{
