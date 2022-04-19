@@ -2230,6 +2230,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1365
+            //No1365 no1365 = new No1365();
+            //{
+            //    Console.WriteLine(no1365.SmallerNumbersThanCurrent(new int[] { 8, 1, 2, 2, 3 }).ToConsoleString());    //[4,0,1,1,3]
+            //    Console.WriteLine(no1365.SmallerNumbersThanCurrent(new int[] { 6, 5, 4, 8 }).ToConsoleString());       //[2,1,0,3]
+            //    Console.WriteLine(no1365.SmallerNumbersThanCurrent(new int[] { 7, 7, 7, 7 }).ToConsoleString());       //[0,0,0,0]
+            //}
+            #endregion
+
             #region No1417
             //No1417 no1417 = new No1417();
             //Console.WriteLine(no1417.Reformat("a0b1c2"));
