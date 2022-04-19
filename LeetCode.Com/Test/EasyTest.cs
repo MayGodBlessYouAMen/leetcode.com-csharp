@@ -2243,6 +2243,14 @@ namespace LeetCode.Com.Test
             //水题，略
             #endregion
 
+            #region No1672
+            //No1672 no1672 = new No1672();
+            //{
+            //    Console.WriteLine(no1672.MaximumWealth(new int[][] { new int[] { 1, 2, 3 }, new int[] { 3, 2, 1 } }));                //6
+            //    Console.WriteLine(no1672.MaximumWealth(new int[][] { new int[] { 1, 5 }, new int[] { 7, 3 }, new int[] { 3, 5 } }));  //10
+            //}
+            #endregion
+
             #region No1920
             //No1920 no1920 = new No1920();
             //{

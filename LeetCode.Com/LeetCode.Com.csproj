@@ -217,6 +217,12 @@
     <Compile Include="Easy\No1232.cs" />
     <Compile Include="Easy\No1252.cs" />
     <Compile Include="Easy\No1260.cs" />
+    <Content Include="Easy\No1581.sql" />
+    <Content Include="Easy\No1587.sql" />
+    <Content Include="Easy\No1693.sql" />
+    <Content Include="Easy\No1741.sql" />
+    <Compile Include="Easy\No1480.cs" />
+    <Compile Include="Easy\No1672.cs" />
     <Compile Include="Easy\No1920.cs" />
     <Compile Include="Easy\No1929.cs" />
     <Compile Include="Easy\No2235.cs" />
@@ -328,6 +334,8 @@
     <Content Include="Easy\No1148.sql" />
     <Content Include="Easy\No1179.sql" />
     <Content Include="Easy\No1757.sql" />
+    <Content Include="Easy\No1795.sql" />
+    <Content Include="Easy\No1873.sql" />
     <Content Include="leetcodelist.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
