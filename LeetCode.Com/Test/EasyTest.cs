@@ -2239,6 +2239,14 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no1417.Reformat("ab123"));
             #endregion
 
+            #region No1929
+            //No1929 no1929 = new No1929();
+            //{
+            //    Console.WriteLine(no1929.GetConcatenation(new int[] { 1, 2, 1 }).ToConsoleString());    //[1,2,1,1,2,1]
+            //    Console.WriteLine(no1929.GetConcatenation(new int[] { 1, 3, 2, 1 }).ToConsoleString()); //[1,3,2,1,1,3,2,1]
+            //}
+            #endregion
+
             #region No2235
             //No2235 no2235 = new No2235();
             //{
