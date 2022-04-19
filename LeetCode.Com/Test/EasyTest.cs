@@ -2289,6 +2289,14 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1720
+            //No1720 no1720 = new No1720();
+            //{
+            //    Console.WriteLine(no1720.Decode(new int[] { 1, 2, 3 }, 1).ToConsoleString());      //[1,0,2,1]
+            //    Console.WriteLine(no1720.Decode(new int[] { 6, 2, 7, 3 }, 4).ToConsoleString());   //[4,2,0,7,4]
+            //}
+            #endregion
+
             #region No1920
             //No1920 no1920 = new No1920();
             //{
