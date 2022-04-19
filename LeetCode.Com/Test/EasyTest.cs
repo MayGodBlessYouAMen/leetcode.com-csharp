@@ -2252,6 +2252,10 @@ namespace LeetCode.Com.Test
             //水题，略
             #endregion
 
+            #region No1512
+            //水题，略
+            #endregion
+
             #region No1672
             //No1672 no1672 = new No1672();
             //{
