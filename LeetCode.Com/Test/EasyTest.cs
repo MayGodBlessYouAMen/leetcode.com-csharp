@@ -2206,6 +2206,30 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1260
+            //No1260 no1260 = new No1260();
+            //{
+            //    int[][] gird = new int[][] { new int[] { 1, 2, 3 }, new int[] { 4, 5, 6 }, new int[] { 7, 8, 9 } };
+            //    int k = 1;
+            //    Console.WriteLine(no1260.ShiftGrid(gird, k).ToConsoleString());  //[[9,1,2],[3,4,5],[6,7,8]]
+            //}
+            //{
+            //    int[][] gird = new int[][] { new int[] { 3, 8, 1, 9 }, new int[] { 19, 7, 2, 5 }, new int[] { 4, 6, 11, 10 }, new int[] { 12, 0, 21, 13 } };
+            //    int k = 4;
+            //    Console.WriteLine(no1260.ShiftGrid(gird, k).ToConsoleString());  //[[12,0,21,13],[3,8,1,9],[19,7,2,5],[4,6,11,10]]
+            //}
+            //{
+            //    int[][] gird = new int[][] { new int[] { 1, 2, 3 }, new int[] { 4, 5, 6 }, new int[] { 7, 8, 9 } };
+            //    int k = 9;
+            //    Console.WriteLine(no1260.ShiftGrid(gird, k).ToConsoleString());  //[[1,2,3],[4,5,6],[7,8,9]]
+            //}
+            //{
+            //    int[][] gird = new int[][] { new int[] { 1 }, new int[] { 2 }, new int[] { 3 }, new int[] { 4 }, new int[] { 6 }, new int[] { 7 }, new int[] { 5 } };
+            //    int k = 23;
+            //    Console.WriteLine(no1260.ShiftGrid(gird, k).ToConsoleString());  //[[1,2,3],[4,5,6],[7,8,9]]
+            //}
+            #endregion
+
             #region No1417
             //No1417 no1417 = new No1417();
             //Console.WriteLine(no1417.Reformat("a0b1c2"));
