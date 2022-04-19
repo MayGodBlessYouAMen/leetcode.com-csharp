@@ -2192,9 +2192,17 @@ namespace LeetCode.Com.Test
             //{
             //    Console.WriteLine(no1232.CheckStraightLine(new int[][] { new int[] { 1, 2 }, new int[] { 2, 3 }, new int[] { 3, 4 }, new int[] { 4, 5 }, new int[] { 5, 6 }, new int[] { 6, 7 } }));
             //    //true
-                
+
             //    Console.WriteLine(no1232.CheckStraightLine(new int[][] { new int[] { 1, 1 }, new int[] { 2, 2 }, new int[] { 3, 4 }, new int[] { 4, 5 }, new int[] { 5, 6 }, new int[] { 7, 7 } }));
             //    //false            
+            //}
+            #endregion
+
+            #region No1252
+            //No1252 no1252 = new No1252();
+            //{
+            //    Console.WriteLine(no1252.OddCells(2, 3, new int[][] { new int[] { 0, 1 }, new int[] { 1, 1 } }));        //6
+            //    Console.WriteLine(no1252.OddCells(2, 2, new int[][] { new int[] { 1, 1 }, new int[] { 0, 0 } }));        //0
             //}
             #endregion
 
