@@ -2239,6 +2239,10 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no1417.Reformat("ab123"));
             #endregion
 
+            #region No1480
+            //水题，略
+            #endregion
+
             #region No1920
             //No1920 no1920 = new No1920();
             //{
