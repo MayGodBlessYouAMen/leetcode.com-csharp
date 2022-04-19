@@ -2230,6 +2230,14 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1281
+            //No1281 no1281 = new No1281();
+            //{
+            //    Console.WriteLine(no1281.SubtractProductAndSum(234));   //15
+            //    Console.WriteLine(no1281.SubtractProductAndSum(4421));  //21
+            //}
+            #endregion
+
             #region No1365
             //No1365 no1365 = new No1365();
             //{
