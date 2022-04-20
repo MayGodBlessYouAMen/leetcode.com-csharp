@@ -2299,6 +2299,14 @@ namespace LeetCode.Com.Test
             //水题，略
             #endregion
 
+            #region No1486
+            //No1486 no1486 = new No1486();
+            //{
+            //    Console.WriteLine(no1486.XorOperation(5, 0));     //8
+            //    Console.WriteLine(no1486.XorOperation(4, 3));     //8
+            //}
+            #endregion
+
             #region No1512
             //水题，略
             #endregion
