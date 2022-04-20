@@ -2305,6 +2305,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1678
+            //No1678 no1678 = new No1678();
+            //{
+            //    Console.WriteLine(no1678.Interpret("G()(al)"));          //Goal
+            //    Console.WriteLine(no1678.Interpret("G()()()()(al)"));    //Gooooal
+            //    Console.WriteLine(no1678.Interpret("(al)G(al)()()G"));   //alGalooG
+            //}
+            #endregion
+
             #region No1720
             //No1720 no1720 = new No1720();
             //{
