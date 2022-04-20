@@ -2285,6 +2285,14 @@ namespace LeetCode.Com.Test
             //水题，略
             #endregion
 
+            #region No1528
+            //No1528 no1528 = new No1528();
+            //{
+            //    Console.WriteLine(no1528.RestoreString("codeleet", new int[] { 4, 5, 6, 7, 0, 2, 1, 3 }));     //leetcode
+            //    Console.WriteLine(no1528.RestoreString("abc", new int[] { 0, 1, 2 }));                         //abc
+            //}
+            #endregion
+
             #region No1603
             //水题，略
             #endregion
