@@ -2340,6 +2340,18 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1773
+            //No1773 no1773 = new No1773();
+            //{
+            //    var items = new string[][] { new string[] { "phone", "blue", "pixel" }, new string[] { "computer", "silver", "lenovo" }, new string[] { "phone", "gold", "iphone" } };
+            //    Console.WriteLine(no1773.CountMatches(items, "color", "silver"));
+            //}
+            //{
+            //    var items = new string[][] { new string[] { "phone", "blue", "pixel" }, new string[] { "computer", "silver", "phone" }, new string[] { "phone", "gold", "iphone" } };
+            //    Console.WriteLine(no1773.CountMatches(items, "type", "phone"));
+            //}
+            #endregion
+
             #region No1859
             //No1859 no1859 = new No1859();
             //{
