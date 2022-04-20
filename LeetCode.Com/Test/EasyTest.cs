@@ -2340,6 +2340,14 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1859
+            //No1859 no1859 = new No1859();
+            //{
+            //    Console.WriteLine(no1859.SortSentence("is2 sentence4 This1 a3"));   //"This is a sentence"
+            //    Console.WriteLine(no1859.SortSentence("Myself2 Me1 I4 and3"));      //"Me Myself and I"
+            //}
+            #endregion
+
             #region No1920
             //No1920 no1920 = new No1920();
             //{

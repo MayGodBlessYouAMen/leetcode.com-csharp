@@ -217,6 +217,7 @@
     <Compile Include="Easy\No1232.cs" />
     <Compile Include="Easy\No1252.cs" />
     <Compile Include="Easy\No1260.cs" />
+    <Content Include="Easy\No1484.sql" />
     <Content Include="Easy\No1581.sql" />
     <Content Include="Easy\No1587.sql" />
     <Content Include="Easy\No1693.sql" />
@@ -235,6 +236,7 @@
     <Compile Include="Easy\No1672.cs" />
     <Compile Include="Easy\No1678.cs" />
     <Compile Include="Easy\No1720.cs" />
+    <Compile Include="Easy\No1859.cs" />
     <Compile Include="Easy\No1920.cs" />
     <Compile Include="Easy\No1929.cs" />
     <Compile Include="Easy\No2011.cs" />
