@@ -2350,6 +2350,14 @@ namespace LeetCode.Com.Test
             //水题，略
             #endregion
 
+            #region No2194
+            //No2194 no2194 = new No2194();
+            //{
+            //    Console.WriteLine(no2194.CellsInRange("K1:L2").ToConsoleString());   //["K1","K2","L1","L2"]
+            //    Console.WriteLine(no2194.CellsInRange("A1:F1").ToConsoleString());   //["A1","B1","C1","D1","E1","F1"]
+            //}
+            #endregion
+
             #region No2235
             //No2235 no2235 = new No2235();
             //{
