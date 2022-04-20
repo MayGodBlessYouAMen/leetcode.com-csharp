@@ -2246,6 +2246,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1342
+            //No1342 no1342 = new No1342();
+            //{
+            //    Console.WriteLine(no1342.NumberOfSteps(14));      //6
+            //    Console.WriteLine(no1342.NumberOfSteps(8));       //4
+            //    Console.WriteLine(no1342.NumberOfSteps(123));     //12
+            //}
+            #endregion
+
             #region No1365
             //No1365 no1365 = new No1365();
             //{
