@@ -2242,6 +2242,26 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1275
+            //No1275 no1275 = new No1275();
+            //{
+            //    var moves = new int[][] { new int[] { 0, 0 }, new int[] { 2, 0 }, new int[] { 1, 1 }, new int[] { 2, 1 }, new int[] { 2, 2 } };
+            //    Console.WriteLine(no1275.Tictactoe(moves));   //A
+            //}
+            //{
+            //    var moves = new int[][] { new int[] { 0, 0 }, new int[] { 1, 1 }, new int[] { 0, 1 }, new int[] { 0, 2 }, new int[] { 1, 0 }, new int[] { 2, 0 } };
+            //    Console.WriteLine(no1275.Tictactoe(moves));   //B
+            //}
+            //{
+            //    var moves = new int[][] { new int[] { 0, 0 }, new int[] { 1, 1 }, new int[] { 2, 0 }, new int[] { 1, 0 }, new int[] { 1, 2 }, new int[] { 2, 1 }, new int[] { 0, 1 }, new int[] { 0, 2 }, new int[] { 2, 2 } };
+            //    Console.WriteLine(no1275.Tictactoe(moves));   //Draw
+            //}
+            //{
+            //    var moves = new int[][] { new int[] { 0, 0 }, new int[] { 1, 1 }};
+            //    Console.WriteLine(no1275.Tictactoe(moves));   //Pending
+            //}
+            #endregion
+
             #region No1281
             //No1281 no1281 = new No1281();
             //{
