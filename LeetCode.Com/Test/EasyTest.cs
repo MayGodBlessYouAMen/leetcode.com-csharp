@@ -2187,6 +2187,18 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1226
+            //No1226 no1226 = new No1226();
+            //{
+            //    var points = new int[][] { new int[] { 1, 1 }, new int[] { 3, 4 }, new int[] { -1, 0 } };
+            //    Console.WriteLine(no1226.MinTimeToVisitAllPoints(points));                      //7 
+            //}
+            //{
+            //    var points = new int[][] { new int[] { 3, 2 }, new int[] { -2, 2 } };
+            //    Console.WriteLine(no1226.MinTimeToVisitAllPoints(points));                      //5
+            //}
+            #endregion
+
             #region No1232
             //No1232 no1232 = new No1232();
             //{
