@@ -2280,6 +2280,18 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1290
+            //No1290 no1290 = new No1290();
+            //{
+            //    var head = Utils.CreateListNode(new List<int>() { 1, 0, 1 });
+            //    Console.WriteLine(no1290.GetDecimalValue(head)); //5
+            //}
+            //{
+            //    var head = Utils.CreateListNode(new List<int>() { 0 });
+            //    Console.WriteLine(no1290.GetDecimalValue(head)); //0
+            //}
+            #endregion
+
             #region No1313
             //No1313 no1313 = new No1313();
             //{
