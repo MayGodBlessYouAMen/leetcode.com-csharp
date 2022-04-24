@@ -2270,6 +2270,16 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1287
+            //No1287 no1287 = new No1287();
+            //{
+            //    Console.WriteLine(no1287.FindSpecialInteger(new int[] { 1, 2, 2, 6, 6, 6, 6, 7, 10 }));   //6
+            //    Console.WriteLine(no1287.FindSpecialInteger(new int[] { 1, 1 }));                         //1
+            //    Console.WriteLine(no1287.FindSpecialInteger(new int[] { 1 }));                            //1
+            //    Console.WriteLine(no1287.FindSpecialInteger(new int[] { 1, 2, 3, 3 }));                   //3
+            //}
+            #endregion
+
             #region No1313
             //No1313 no1313 = new No1313();
             //{
