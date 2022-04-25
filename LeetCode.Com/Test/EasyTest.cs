@@ -2491,6 +2491,15 @@ namespace LeetCode.Com.Test
             //水题，略
             #endregion
 
+            #region No2037
+            //No2037 no2037 = new No2037();
+            //{
+            //    Console.WriteLine(no2037.MinMovesToSeat(new int[] { 3, 1, 5 }, new int[] { 2, 7, 4 }));        //4
+            //    Console.WriteLine(no2037.MinMovesToSeat(new int[] { 4, 1, 5, 9 }, new int[] { 1, 3, 2, 6 }));  //7
+            //    Console.WriteLine(no2037.MinMovesToSeat(new int[] { 2, 2, 6, 6 }, new int[] { 1, 3, 2, 6 }));  //4
+            //}
+            #endregion
+
             #region No2114
             //水题，略
             #endregion
