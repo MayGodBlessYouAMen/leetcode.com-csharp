@@ -2434,6 +2434,18 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1791
+            //No1791 no1791 = new No1791();
+            //{
+            //    var edges = new int[][] { new int[] { 1, 2 }, new int[] { 2, 3 }, new int[] { 4, 2 } };  //2
+            //    Console.WriteLine(no1791.FindCenter(edges));
+            //}
+            //{
+            //    var edges = new int[][] { new int[] { 1, 2 }, new int[] { 5, 1 }, new int[] { 1, 3 }, new int[] { 1, 4 } };  //1
+            //    Console.WriteLine(no1791.FindCenter(edges));
+            //}
+            #endregion
+
             #region No1859
             //No1859 no1859 = new No1859();
             //{
