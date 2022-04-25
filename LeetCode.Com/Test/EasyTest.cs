@@ -2402,6 +2402,14 @@ namespace LeetCode.Com.Test
             //水题，略
             #endregion
 
+            #region No1614
+            //No1614 no1614 = new No1614();
+            //{
+            //    Console.WriteLine(no1614.MaxDepth("(1+(2*3)+((8)/4))+1"));    //3
+            //    Console.WriteLine(no1614.MaxDepth("(1)+((2))+(((3)))"));      //3
+            //}
+            #endregion
+
             #region No1656
             //略
             #endregion
