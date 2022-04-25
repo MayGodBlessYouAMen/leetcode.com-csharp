@@ -2300,6 +2300,14 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1299
+            //No1299 no1299 = new No1299();
+            //{
+            //    Console.WriteLine(no1299.ReplaceElements(new int[] { 17, 18, 5, 4, 6, 1 }).ToConsoleString());   //[18,6,6,6,1,-1]
+            //    Console.WriteLine(no1299.ReplaceElements(new int[] { 400 }).ToConsoleString());                  //[-1]
+            //}
+            #endregion
+
             #region No1313
             //No1313 no1313 = new No1313();
             //{
