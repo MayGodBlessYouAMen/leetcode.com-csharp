@@ -2389,6 +2389,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1588
+            //No1588 no1588 = new No1588();
+            //{
+            //    Console.WriteLine(no1588.SumOddLengthSubarrays(new int[] { 1, 4, 2, 5, 3 }));     //58
+            //    Console.WriteLine(no1588.SumOddLengthSubarrays(new int[] { 1, 2 }));              //3
+            //    Console.WriteLine(no1588.SumOddLengthSubarrays(new int[] { 10, 11, 12 }));        //66
+            //}
+            #endregion
+
             #region No1603
             //水题，略
             #endregion
