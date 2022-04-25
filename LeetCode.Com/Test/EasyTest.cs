@@ -2292,6 +2292,14 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1295
+            //No1295 no1295 = new No1295();
+            //{
+            //    Console.WriteLine(no1295.FindNumbers(new int[] { 12, 345, 2, 6, 7896 }));     //2
+            //    Console.WriteLine(no1295.FindNumbers(new int[] { 555, 901, 482, 1771 }));     //1
+            //}
+            #endregion
+
             #region No1313
             //No1313 no1313 = new No1313();
             //{
