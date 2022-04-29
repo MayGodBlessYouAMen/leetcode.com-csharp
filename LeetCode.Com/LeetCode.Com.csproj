@@ -245,6 +245,7 @@
     <Compile Include="Easy\No1603.cs" />
     <Compile Include="Easy\No1614.cs" />
     <Compile Include="Easy\No1656.cs" />
+    <Compile Include="Easy\No1662.cs" />
     <Compile Include="Easy\No1672.cs" />
     <Compile Include="Easy\No1678.cs" />
     <Compile Include="Easy\No1688.cs" />

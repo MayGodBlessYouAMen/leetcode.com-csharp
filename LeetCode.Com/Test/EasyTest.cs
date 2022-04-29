@@ -2414,6 +2414,15 @@ namespace LeetCode.Com.Test
             //略
             #endregion
 
+            #region No1662
+            //No1662 no1662 = new No1662();
+            //{
+            //    Console.WriteLine(no1662.ArrayStringsAreEqual(new string[] { "ab", "c" }, new string[] { "a", "bc" }));           //true
+            //    Console.WriteLine(no1662.ArrayStringsAreEqual(new string[] { "a", "cb" }, new string[] { "ab", "c" }));           //false
+            //    Console.WriteLine(no1662.ArrayStringsAreEqual(new string[] { "abc", "d", "defg" }, new string[] { "abcddefg" })); //true
+            //}
+            #endregion
+
             #region No1672
             //No1672 no1672 = new No1672();
             //{
