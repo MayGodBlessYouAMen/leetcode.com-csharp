@@ -2431,6 +2431,16 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1688
+            //No1688 no1688 = new No1688();
+            //{
+            //    Console.WriteLine(no1688.NumberOfMatches(1));     //0
+            //    Console.WriteLine(no1688.NumberOfMatches(2));     //1
+            //    Console.WriteLine(no1688.NumberOfMatches(7));     //6
+            //    Console.WriteLine(no1688.NumberOfMatches(14));    //13
+            //}
+            #endregion
+
             #region No1720
             //No1720 no1720 = new No1720();
             //{
