@@ -2440,6 +2440,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1684
+            //No1684 no1684 = new No1684();
+            //{
+            //    Console.WriteLine(no1684.CountConsistentStrings("ab", new string[] { "ad", "bd", "aaab", "baa", "badab" }));                //2
+            //    Console.WriteLine(no1684.CountConsistentStrings("abc", new string[] { "a", "b", "c", "ab", "ac", "bc", "abc" }));           //7
+            //    Console.WriteLine(no1684.CountConsistentStrings("cad", new string[] { "cc", "acd", "b", "ba", "bac", "bad", "ac", "d" }));  //4
+            //}
+            #endregion
+
             #region No1688
             //No1688 no1688 = new No1688();
             //{
