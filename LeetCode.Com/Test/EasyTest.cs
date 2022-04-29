@@ -2487,6 +2487,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No2006
+            //No2006 no2006 = new No2006();
+            //{
+            //    Console.WriteLine(no2006.CountKDifference(new int[] { 1, 2, 2, 1 }, 1));        //4
+            //    Console.WriteLine(no2006.CountKDifference(new int[] { 1, 3 }, 3));              //0
+            //    Console.WriteLine(no2006.CountKDifference(new int[] { 3, 2, 1, 5, 4 }, 2));     //3
+            //}
+            #endregion
+
             #region No2011
             //水题，略
             #endregion
