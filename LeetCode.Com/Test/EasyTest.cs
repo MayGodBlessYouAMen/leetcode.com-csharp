@@ -2537,6 +2537,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No2103
+            //No2103 no2103 = new No2103();
+            //{
+            //    Console.WriteLine(no2103.CountPoints("B0B6G0R6R0R6G9"));  //1
+            //    Console.WriteLine(no2103.CountPoints("B0R0G0R9R0B0G0"));  //1
+            //    Console.WriteLine(no2103.CountPoints("G4"));              //0
+            //}
+            #endregion
+
             #region No2114
             //水题，略
             #endregion
