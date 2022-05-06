@@ -2491,6 +2491,23 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1816
+            //No1816 no1816 = new No1816();
+            //{
+            //    Console.WriteLine(no1816.TruncateSentence("Hello how are you Contestant", 4));
+            //    Console.WriteLine(no1816.TruncateSentence("What is the solution to this problem", 4));
+            //    Console.WriteLine(no1816.TruncateSentence("chopper is not a tanuki", 5));
+            //}
+            #endregion
+
+            #region No1832
+            //No1832 no1832 = new No1832();
+            //{
+            //    Console.WriteLine(no1832.CheckIfPangram("thequickbrownfoxjumpsoverthelazydog")); //true
+            //    Console.WriteLine(no1832.CheckIfPangram("leetcode"));                            //false
+            //}
+            #endregion
+
             #region No1859
             //No1859 no1859 = new No1859();
             //{
