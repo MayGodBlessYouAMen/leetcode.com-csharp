@@ -2587,6 +2587,14 @@ namespace LeetCode.Com.Test
             //水题，略
             #endregion
 
+            #region No2176
+            //No2176 no2176 = new No2176();
+            //{
+            //    Console.WriteLine(no2176.CountPairs(new int[] { 3, 1, 2, 2, 2, 1, 3 }, 2));     //4
+            //    Console.WriteLine(no2176.CountPairs(new int[] { 1, 2, 3, 4 }, 1));              //0
+            //}
+            #endregion
+
             #region No2194
             //No2194 no2194 = new No2194();
             //{
