@@ -107,6 +107,7 @@
     <Compile Include="Easy\No0563.cs" />
     <Compile Include="Easy\No0572.cs" />
     <Compile Include="Easy\No0575.cs" />
+    <Content Include="Easy\No0551.sql" />
     <Content Include="Easy\No1965.sql" />
     <Content Include="Medium\No1393.sql" />
     <None Include="Easy\No0195.sh" />
