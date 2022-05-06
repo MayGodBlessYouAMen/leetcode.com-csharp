@@ -2516,6 +2516,14 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1913
+            //No1913 no1913 = new No1913();
+            //{
+            //    Console.WriteLine(no1913.MaxProductDifference(new int[] { 5, 6, 2, 7, 4 }));        //34
+            //    Console.WriteLine(no1913.MaxProductDifference(new int[] { 4, 2, 5, 9, 7, 4, 8 }));  //64
+            //}
+            #endregion
+
             #region No1920
             //No1920 no1920 = new No1920();
             //{
