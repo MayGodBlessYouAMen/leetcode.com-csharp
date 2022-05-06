@@ -2587,6 +2587,14 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No2220
+            //No2220 no2220 = new No2220();
+            //{
+            //    Console.WriteLine(no2220.MinBitFlips(10, 7));  //3
+            //    Console.WriteLine(no2220.MinBitFlips(3, 4));   //3
+            //}
+            #endregion
+
             #region No2235
             //No2235 no2235 = new No2235();
             //{
