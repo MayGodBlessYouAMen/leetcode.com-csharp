@@ -2389,6 +2389,14 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1534
+            //No1534 no1534 = new No1534();
+            //{
+            //    Console.WriteLine(no1534.CountGoodTriplets(new int[] { 3, 0, 1, 1, 9, 7 }, 7, 2, 3)); //4
+            //    Console.WriteLine(no1534.CountGoodTriplets(new int[] { 1, 1, 2, 2, 3 }, 0, 0, 1));    //0
+            //}
+            #endregion
+
             #region No1588
             //No1588 no1588 = new No1588();
             //{
