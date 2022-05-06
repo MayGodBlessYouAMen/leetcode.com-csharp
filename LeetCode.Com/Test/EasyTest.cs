@@ -2516,6 +2516,14 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1844
+            //No1844 no1844 = new No1844();
+            //{
+            //    Console.WriteLine(no1844.ReplaceDigits("a1c1e1"));      //abcdef
+            //    Console.WriteLine(no1844.ReplaceDigits("a1b2c3d4e"));   //abbdcfdhe
+            //}
+            #endregion
+
             #region No1859
             //No1859 no1859 = new No1859();
             //{
