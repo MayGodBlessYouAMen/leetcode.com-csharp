@@ -2556,6 +2556,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1967
+            //No1967 no1967 = new No1967();
+            //{
+            //    Console.WriteLine(no1967.NumOfStrings(new string[] { "a", "abc", "bc", "d" }, "abc"));   //3
+            //    Console.WriteLine(no1967.NumOfStrings(new string[] { "a", "b", "c" }, "aaaaabbbbb"));    //2
+            //    Console.WriteLine(no1967.NumOfStrings(new string[] { "a", "a", "a" }, "ab"));            //3
+            //}
+            #endregion
+
             #region No2006
             //No2006 no2006 = new No2006();
             //{
