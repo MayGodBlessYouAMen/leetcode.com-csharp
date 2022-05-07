@@ -2308,6 +2308,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1309
+            //No1309 no1309 = new No1309();
+            //{
+            //    Console.WriteLine(no1309.FreqAlphabets("10#11#12"));  //jkab
+            //    Console.WriteLine(no1309.FreqAlphabets("1326#"));     //acz
+            //    Console.WriteLine(no1309.FreqAlphabets("12345678910#11#12#13#14#15#16#17#18#19#20#21#22#23#24#25#26#"));     //abcdefghijklmnopqrstuvwxyz
+            //}
+            #endregion
+
             #region No1313
             //No1313 no1313 = new No1313();
             //{
