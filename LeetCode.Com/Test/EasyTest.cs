@@ -2316,6 +2316,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1323
+            //No1323 no1323 = new No1323();
+            //{
+            //    Console.WriteLine(no1323.Maximum69Number(9669));   //9969
+            //    Console.WriteLine(no1323.Maximum69Number(9996));   //9999
+            //    Console.WriteLine(no1323.Maximum69Number(9999));   //9999
+            //}
+            #endregion
+
             #region No1342
             //No1342 no1342 = new No1342();
             //{
