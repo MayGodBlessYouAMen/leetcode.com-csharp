@@ -2493,6 +2493,14 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1725
+            //No1725 no1725 = new No1725();
+            //{
+            //    Console.WriteLine(no1725.CountGoodRectangles(new int[][] { new int[] { 5, 8 }, new int[] { 3, 9 }, new int[] { 5, 12 }, new int[] { 16, 5 } }));   //3
+            //    Console.WriteLine(no1725.CountGoodRectangles(new int[][] { new int[] { 2, 3 }, new int[] { 3, 7 }, new int[] { 4, 3 }, new int[] { 3, 7 } }));     //3
+            //}
+            #endregion
+
             #region No1732
             //No1732 no1732 = new No1732();
             //{
