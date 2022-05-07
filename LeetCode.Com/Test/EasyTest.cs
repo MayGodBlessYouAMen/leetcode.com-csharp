@@ -2397,6 +2397,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1572
+            //No1572 no1572 = new No1572();
+            //{
+            //    Console.WriteLine(no1572.DiagonalSum(new int[][] { new int[] { 1, 2, 3 }, new int[] { 4, 5, 6 }, new int[] { 7, 8, 9 } }));  //25
+            //    Console.WriteLine(no1572.DiagonalSum(new int[][] { new int[] { 1, 1, 1, 1 }, new int[] { 1, 1, 1, 1 }, new int[] { 1, 1, 1, 1 }, new int[] { 1, 1, 1, 1 } }));  //8
+            //    Console.WriteLine(no1572.DiagonalSum(new int[][] { new int[] { 5 } }));  //5
+            //}
+            #endregion
+
             #region No1588
             //No1588 no1588 = new No1588();
             //{
