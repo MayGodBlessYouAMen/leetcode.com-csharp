@@ -2484,6 +2484,14 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1732
+            //No1732 no1732 = new No1732();
+            //{
+            //    Console.WriteLine(no1732.LargestAltitude(new int[] { -5, 1, 5, 0, -7 })); //1
+            //    Console.WriteLine(no1732.LargestAltitude(new int[] { -4, -3, -2, -1, 4, 3, 2 })); //0
+            //}
+            #endregion
+
             #region No1773
             //No1773 no1773 = new No1773();
             //{
