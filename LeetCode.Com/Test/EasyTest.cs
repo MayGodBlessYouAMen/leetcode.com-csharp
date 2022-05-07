@@ -2596,6 +2596,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No2108
+            //No2108 no2108 = new No2108();
+            //{
+            //    Console.WriteLine(no2108.FirstPalindrome(new string[] { "abc", "car", "ada", "racecar", "cool" }));    //ada
+            //    Console.WriteLine(no2108.FirstPalindrome(new string[] { "notapalindrome", "racecar" }));               //racecar
+            //    Console.WriteLine(no2108.FirstPalindrome(new string[] { "def", "ghi" }));                              //""
+            //}
+            #endregion
+
             #region No2114
             //水题，略
             #endregion
