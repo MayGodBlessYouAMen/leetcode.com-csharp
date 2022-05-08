@@ -2584,6 +2584,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1863
+            //No1863 no1863 = new No1863();
+            //{
+            //    Console.WriteLine(no1863.SubsetXORSum(new int[] { 1, 3 }));               //6
+            //    Console.WriteLine(no1863.SubsetXORSum(new int[] { 5, 1, 6 }));            //28
+            //    Console.WriteLine(no1863.SubsetXORSum(new int[] { 3, 4, 5, 6, 7, 8 }));   //480
+            //}
+            #endregion
+
             #region No1913
             //No1913 no1913 = new No1913();
             //{
