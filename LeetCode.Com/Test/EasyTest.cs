@@ -2560,6 +2560,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1827
+            //No1827 no1827 = new No1827();
+            //{
+            //    Console.WriteLine(no1827.MinOperations(new int[] { 1, 1, 1 }));          // 3
+            //    Console.WriteLine(no1827.MinOperations(new int[] { 1, 5, 2, 4, 1 }));    // 14
+            //    Console.WriteLine(no1827.MinOperations(new int[] { 8 }));                // 0
+            //}
+            #endregion
+
             #region No1832
             //No1832 no1832 = new No1832();
             //{
