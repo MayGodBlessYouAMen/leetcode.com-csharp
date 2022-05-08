@@ -2630,6 +2630,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No2089
+            //No2089 no2089 = new No2089();
+            //{
+            //    Console.WriteLine(no2089.TargetIndices(new int[] { 1, 2, 5, 2, 3 }, 2).ToConsoleString());     //[1,2]
+            //    Console.WriteLine(no2089.TargetIndices(new int[] { 1, 2, 5, 2, 3 }, 3).ToConsoleString());     //[3]
+            //    Console.WriteLine(no2089.TargetIndices(new int[] { 1, 2, 5, 2, 3 }, 5).ToConsoleString());     //[4]
+            //}
+            #endregion
+
             #region No2103
             //No2103 no2103 = new No2103();
             //{
