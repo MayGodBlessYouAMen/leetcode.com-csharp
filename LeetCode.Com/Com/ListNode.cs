@@ -10,7 +10,17 @@ namespace LeetCode.Com.Com
     {
         public int val;
         public ListNode next;
-        public ListNode(int x) { val = x; }
+
+        public ListNode(int val)
+        {
+            this.val = val;
+        }
+
+        public ListNode(int val, ListNode next = null)
+        {
+            this.val = val;
+            this.next = next;
+        }
 
         /// <summary>
         /// 重写方法。打印链表所有元素(用->连接)。无法处理为null时的情况
