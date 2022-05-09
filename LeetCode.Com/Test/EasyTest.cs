@@ -2352,6 +2352,14 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1370
+            //No1370 no1370 = new No1370();
+            //{
+            //    Console.WriteLine(no1370.SortString("aaaabbbbcccc"));    // abccbaabccba
+            //    Console.WriteLine(no1370.SortString("rat"));             // art
+            //}
+            #endregion
+
             #region No1389
             //No1389 no1389 = new No1389();
             //{
