@@ -2643,6 +2643,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No2000
+            //No2000 no2000 = new No2000();
+            //{
+            //    Console.WriteLine(no2000.ReversePrefix("abcdefd", 'd'));   //dcbaefd
+            //    Console.WriteLine(no2000.ReversePrefix("xyxzxe", 'z'));    //zxyxxe
+            //    Console.WriteLine(no2000.ReversePrefix("abcd", 'z'));      //abcd
+            //}
+            #endregion
+
             #region No2006
             //No2006 no2006 = new No2006();
             //{
