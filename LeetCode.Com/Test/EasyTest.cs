@@ -2382,6 +2382,14 @@ namespace LeetCode.Com.Test
             //水题，略
             #endregion
 
+            #region No1436
+            //No1436 no1436 = new No1436();
+            //{
+            //    Console.WriteLine(no1436.DestCity(new string[][] { new string[] { "London", "New York" }, new string[] { "New York", "Lima" }, new string[] { "Lima", "Sao Paulo" } }));     // "Sao Paulo" 
+            //    Console.WriteLine(no1436.DestCity(new string[][] { new string[] { "B", "C" }, new string[] { "D", "B" }, new string[] { "C", "A" } }));                                      // "A"
+            //}
+            #endregion
+
             #region No1464
             //No1464 no1464 = new No1464();
             //{
