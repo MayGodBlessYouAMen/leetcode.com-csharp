@@ -375,6 +375,7 @@
     <Compile Include="Medium\No0015.cs" />
     <Compile Include="Medium\No0018.cs" />
     <Compile Include="Medium\No0049.cs" />
+    <Compile Include="Medium\No1689.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Test\EasyTest.cs" />

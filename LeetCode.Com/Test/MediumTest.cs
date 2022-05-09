@@ -158,6 +158,16 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0443.Compress(new char[] { 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b' }));
             //Console.WriteLine(no0443.Compress(new char[] { 'a', 'a', 'a', 'b', 'b', 'a', 'a' }));
             #endregion
+
+            #region No1689
+            //No1689 no1689 = new No1689();
+            //{
+            //    Console.WriteLine(no1689.MinPartitions("32"));                   // 3
+            //    Console.WriteLine(no1689.MinPartitions("82734"));                // 8
+            //    Console.WriteLine(no1689.MinPartitions("27346209830709182346")); // 9
+            //    Console.WriteLine(no1689.MinPartitions("10000000"));             // 1
+            //}
+            #endregion
         }
     }
 }
