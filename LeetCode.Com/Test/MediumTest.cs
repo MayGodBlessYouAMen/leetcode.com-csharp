@@ -168,6 +168,18 @@ namespace LeetCode.Com.Test
             //    Console.WriteLine(no1689.MinPartitions("10000000"));             // 1
             //}
             #endregion
+
+            #region No2181
+            //No2181 no2181 = new No2181();
+            //{
+            //    var head = Utils.CreateListNode(new List<int>() { 0, 3, 1, 0, 4, 5, 2, 0 });
+            //    Console.WriteLine(no2181.MergeNodes(head).ToConsoleString());                      //[4,11]
+            //}
+            //{
+            //    var head = Utils.CreateListNode(new List<int>() { 0, 1, 0, 3, 0, 2, 2, 0 });
+            //    Console.WriteLine(no2181.MergeNodes(head).ToConsoleString());                      //[1,3,4]
+            //}
+            #endregion
         }
     }
 }
