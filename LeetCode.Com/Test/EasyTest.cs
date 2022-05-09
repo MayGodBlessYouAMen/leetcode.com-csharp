@@ -2503,6 +2503,14 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1704
+            //No1704 no1704 = new No1704();
+            //{
+            //    Console.WriteLine(no1704.HalvesAreAlike("book"));         // true
+            //    Console.WriteLine(no1704.HalvesAreAlike("textbook"));     // false
+            //}
+            #endregion
+
             #region No1720
             //No1720 no1720 = new No1720();
             //{
