@@ -2651,6 +2651,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1979
+            //No1979 no1979 = new No1979();
+            //{
+            //    Console.WriteLine(no1979.FindGCD(new int[] { 2, 5, 6, 9, 10 }));  //2
+            //    Console.WriteLine(no1979.FindGCD(new int[] { 7, 5, 6, 8, 3 }));   //1
+            //    Console.WriteLine(no1979.FindGCD(new int[] { 3, 3 }));            //3
+            //}
+            #endregion
+
             #region No2000
             //No2000 no2000 = new No2000();
             //{
