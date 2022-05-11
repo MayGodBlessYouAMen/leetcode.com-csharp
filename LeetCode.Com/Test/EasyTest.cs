@@ -2828,6 +2828,14 @@ namespace LeetCode.Com.Test
             //    Console.WriteLine(no2243.DigitSum("00000000", 3));         //"000"
             //}
             #endregion
+
+            #region No2206
+            //No2206 no2206 = new No2206();
+            //{
+            //    Console.WriteLine(no2206.DivideArray(new int[] { 3, 2, 3, 2, 2, 2 }));  // true
+            //    Console.WriteLine(no2206.DivideArray(new int[] { 1, 2, 3, 4 }));        // false
+            //}
+            #endregion
         }
     }
 }
