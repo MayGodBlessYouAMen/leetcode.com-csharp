@@ -2669,6 +2669,14 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1941
+            //No1941 no1941 = new No1941();
+            //{
+            //    Console.WriteLine(no1941.AreOccurrencesEqual("abacbc"));    // true
+            //    Console.WriteLine(no1941.AreOccurrencesEqual("aaabb"));     // false
+            //}
+            #endregion
+
             #region No1967
             //No1967 no1967 = new No1967();
             //{
