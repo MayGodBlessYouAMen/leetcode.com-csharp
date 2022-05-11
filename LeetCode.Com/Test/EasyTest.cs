@@ -2766,6 +2766,15 @@ namespace LeetCode.Com.Test
             //水题，略
             #endregion
 
+            #region No2119
+            //No2119 no2119 = new No2119();
+            //{
+            //    Console.WriteLine(no2119.IsSameAfterReversals(526));
+            //    Console.WriteLine(no2119.IsSameAfterReversals(1800));
+            //    Console.WriteLine(no2119.IsSameAfterReversals(0));
+            //}
+            #endregion
+
             #region No2160
             //水题，略
             #endregion
