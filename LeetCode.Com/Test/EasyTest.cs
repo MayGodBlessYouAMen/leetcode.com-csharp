@@ -2308,6 +2308,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1304
+            //No1304 no1304 = new No1304();
+            //{
+            //    Console.WriteLine(no1304.SumZero(5).ToConsoleString());   //
+            //    Console.WriteLine(no1304.SumZero(3).ToConsoleString());   //
+            //    Console.WriteLine(no1304.SumZero(1).ToConsoleString());   //
+            //}
+            #endregion
+
             #region No1309
             //No1309 no1309 = new No1309();
             //{
