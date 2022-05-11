@@ -2751,6 +2751,14 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No2185
+            //No2185 no2185 = new No2185();
+            //{
+            //    Console.WriteLine(no2185.PrefixCount(new string[] { "pay", "attention", "practice", "attend" }, "at")); //2
+            //    Console.WriteLine(no2185.PrefixCount(new string[] { "leetcode", "win", "loops", "success" }, "code"));  //0
+            //}
+            #endregion
+
             #region No2194
             //No2194 no2194 = new No2194();
             //{
