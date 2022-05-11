@@ -2343,6 +2343,16 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1374
+            //No1374 no1374 = new No1374();
+            //{
+            //    Console.WriteLine(no1374.GenerateTheString(1));
+            //    Console.WriteLine(no1374.GenerateTheString(4));
+            //    Console.WriteLine(no1374.GenerateTheString(2));
+            //    Console.WriteLine(no1374.GenerateTheString(7));
+            //}
+            #endregion
+
             #region No1365
             //No1365 no1365 = new No1365();
             //{
