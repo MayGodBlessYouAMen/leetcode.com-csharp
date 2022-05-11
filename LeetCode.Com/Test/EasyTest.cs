@@ -2575,6 +2575,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1812
+            //No1812 no1812 = new No1812();
+            //{
+            //    Console.WriteLine(no1812.SquareIsWhite("a1"));    //false
+            //    Console.WriteLine(no1812.SquareIsWhite("h3"));    //true
+            //    Console.WriteLine(no1812.SquareIsWhite("c7"));    //false
+            //}
+            #endregion
+
             #region No1816
             //No1816 no1816 = new No1816();
             //{
