@@ -6,7 +6,7 @@ using System.Text;
 namespace LeetCode.Com.Easy
 {
     /// <summary>
-    /// 
+    /// Merge Strings Alternately
     /// </summary>
     public class No1768
     {
