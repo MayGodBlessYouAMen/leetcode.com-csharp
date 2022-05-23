@@ -2578,6 +2578,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1768
+            //No1768 no1768 = new No1768();
+            //{
+            //    Console.WriteLine(no1768.MergeAlternately("abc", "pqr"));   // apbqcr
+            //    Console.WriteLine(no1768.MergeAlternately("ab", "pqrs"));   // apbqrs
+            //    Console.WriteLine(no1768.MergeAlternately("abcd", "pq"));   // apbqcd
+            //}
+            #endregion
+
             #region No1773
             //No1773 no1773 = new No1773();
             //{
