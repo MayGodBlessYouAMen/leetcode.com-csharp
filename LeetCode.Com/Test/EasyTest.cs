@@ -2637,6 +2637,14 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1837
+            //No1837 no1837 = new No1837();
+            //{
+            //    Console.WriteLine(no1837.SumBase(34, 6));     // 9
+            //    Console.WriteLine(no1837.SumBase(10, 10));    // 1
+            //}
+            #endregion
+
             #region No1844
             //No1844 no1844 = new No1844();
             //{
