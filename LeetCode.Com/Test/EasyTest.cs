@@ -2409,6 +2409,14 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1450
+            //No1450 no1450 = new No1450();
+            //{
+            //    Console.WriteLine(no1450.BusyStudent(new int[] { 1, 2, 3 }, new int[] { 3, 2, 7 }, 4));   // 1
+            //    Console.WriteLine(no1450.BusyStudent(new int[] { 4 }, new int[] { 4 }, 4));               // 1
+            //}
+            #endregion
+
             #region No1464
             //No1464 no1464 = new No1464();
             //{
