@@ -2578,6 +2578,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1748
+            //No1748 no1748 = new No1748();
+            //{
+            //    Console.WriteLine(no1748.SumOfUnique(new int[] { 1, 2, 3, 2 }));        //4
+            //    Console.WriteLine(no1748.SumOfUnique(new int[] { 1, 1, 1, 1, 1 }));     //0
+            //    Console.WriteLine(no1748.SumOfUnique(new int[] { 1, 2, 3, 4, 5 }));     //15
+            //}
+            #endregion
+
             #region No1768
             //No1768 no1768 = new No1768();
             //{
