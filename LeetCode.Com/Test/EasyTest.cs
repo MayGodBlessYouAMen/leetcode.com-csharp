@@ -1305,6 +1305,20 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No0705
+            //No0705 no0705 = new No0705();
+            //{ 
+            //    no0705.Add(1);      // set = [1]
+            //    no0705.Add(2);      // set = [1, 2]
+            //    Console.WriteLine(no0705.Contains(1)); // return True
+            //    Console.WriteLine(no0705.Contains(3)); // return False, (not found)
+            //    no0705.Add(2);      // set = [1, 2]
+            //    Console.WriteLine(no0705.Contains(2)); // return True
+            //    no0705.Remove(2);   // set = [1]
+            //    Console.WriteLine(no0705.Contains(2)); // return False, (already removed)
+            //}
+            #endregion
+
             #region No0709
             //No0709 no0709 = new No0709();
             //Console.WriteLine(no0709.ToLowerCase("Hello"));
