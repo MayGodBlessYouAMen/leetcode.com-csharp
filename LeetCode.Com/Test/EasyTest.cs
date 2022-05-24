@@ -2435,6 +2435,15 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1475
+            //No1475 no1475 = new No1475();
+            //{
+            //    Console.WriteLine(no1475.FinalPrices(new int[] { 8, 4, 6, 2, 3 }).ToConsoleString());      // [4,2,4,2,3]
+            //    Console.WriteLine(no1475.FinalPrices(new int[] { 1, 2, 3, 4, 5 }).ToConsoleString());      // [1,2,3,4,5]
+            //    Console.WriteLine(no1475.FinalPrices(new int[] { 10, 1, 1, 6 }).ToConsoleString());        // [9,0,1,6]
+            //}
+            #endregion
+
             #region No1480
             //水题，略
             #endregion
