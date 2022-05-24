@@ -2822,6 +2822,14 @@ namespace LeetCode.Com.Test
             //水题，略
             #endregion
 
+            #region No2169
+            //No2169 no2169 = new No2169();
+            //{
+            //    Console.WriteLine(no2169.CountOperations(2, 3));      // 3
+            //    Console.WriteLine(no2169.CountOperations(10, 10));    // 1
+            //}
+            #endregion
+
             #region No2176
             //No2176 no2176 = new No2176();
             //{
