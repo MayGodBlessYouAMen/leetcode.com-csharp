@@ -2352,6 +2352,14 @@ namespace LeetCode.Com.Test
             //}
             #endregion
 
+            #region No1351
+            //No1351 no1351 = new No1351();
+            //{
+            //    Console.WriteLine(no1351.CountNegatives(new int[][] { new int[] { 4, 3, 2, -1 }, new int[] { 3, 2, 1, -1 }, new int[] { 1, 1, -1, -2 }, new int[] { -1, -1, -2, -3 } }));  //8
+            //    Console.WriteLine(no1351.CountNegatives(new int[][] { new int[] { 3, 2 }, new int[] { 1, 0 } })); //0
+            //}
+            #endregion
+
             #region No1374
             //No1374 no1374 = new No1374();
             //{
