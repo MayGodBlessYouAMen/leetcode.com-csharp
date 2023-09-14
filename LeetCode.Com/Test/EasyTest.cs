@@ -2,9 +2,6 @@
 using LeetCode.Com.Easy;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LeetCode.Com.Test
 {
@@ -528,6 +525,22 @@ namespace LeetCode.Com.Test
                 //Console.WriteLine(no0219.ContainsNearbyDuplicate(new int[] { 1, 0, 1, 1 }, 1));
                 //Console.WriteLine(no0219.ContainsNearbyDuplicate(new int[] { 1, 2, 3, 1, 2, 3 }, 2));
             }
+            #endregion
+
+            #region No0222
+            No0222 no0222 = new No0222();
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int>() { });
+            //    Console.WriteLine(no0222.CountNodes(root));   //0
+            //}
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int>() { 1 });
+            //    Console.WriteLine(no0222.CountNodes(root));   //1
+            //}
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int>() { 1, 2, 3, 4, 5, 6 });
+            //    Console.WriteLine(no0222.CountNodes(root));   //6
+            //}
             #endregion
 
             #region No0225

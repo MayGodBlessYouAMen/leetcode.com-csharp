@@ -49,6 +49,7 @@
     <Compile Include="Com\Node.cs" />
     <Compile Include="Com\TreeNode.cs" />
     <Compile Include="Com\Utils.cs" />
+    <Compile Include="Easy\No0222.cs" />
     <Compile Include="Easy\No0661.cs" />
     <Compile Include="Easy\No0566.cs" />
     <Compile Include="Easy\No0001.cs" />
