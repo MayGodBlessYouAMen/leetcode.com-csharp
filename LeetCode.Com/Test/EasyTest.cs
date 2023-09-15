@@ -1,4 +1,7 @@
-﻿using LeetCode.Com.Easy;
+﻿using LeetCode.Com.Com;
+using LeetCode.Com.Easy;
+using System;
+using System.Collections.Generic;
 
 namespace LeetCode.Com.Test
 {
@@ -1024,6 +1027,18 @@ namespace LeetCode.Com.Test
             //No0541 no0541 = new No0541();
             //Console.WriteLine(no0541.ReverseStr("abcdefg", 2));
             //Console.WriteLine(no0541.ReverseStr("abcd", 2));
+            #endregion
+
+            #region No0543
+            No0543 no0543 = new No0543();
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int>() { 1, 2, 3, 4, 5 });
+            //    Console.WriteLine(no0543.DiameterOfBinaryTree(root));  //3
+            //}
+            //{
+            //    var root = Utils.CreateTreeNode(new List<int>() { 1, 2 });
+            //    Console.WriteLine(no0543.DiameterOfBinaryTree(root));   //1
+            //}
             #endregion
 
             #region No0551
