@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace LeetCode.Com.Easy
+﻿namespace LeetCode.Com.Easy
 {
 
     /// <summary>
@@ -30,11 +25,11 @@ namespace LeetCode.Com.Easy
                 {
                     //数字变化时，计算前一个数字所占比例
                     /*if (currentNumCount / n > 25 / 100)*/   //注意此处除法，会变成int计算。需要数字改成double，或者改成乘法
-                    if (currentNumCount * 100  > 25 * n)
+                    if (currentNumCount * 100 > 25 * n)
                     {
                         return currentNum;
                     }
-                     
+
                     //改变计数的数字
                     currentNum = arr[i];
                     currentNumCount = 1;

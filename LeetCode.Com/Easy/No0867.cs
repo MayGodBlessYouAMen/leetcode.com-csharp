@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace LeetCode.Com.Easy
+﻿namespace LeetCode.Com.Easy
 {
     /// <summary>
     /// Transpose Matrix
@@ -40,7 +35,7 @@ namespace LeetCode.Com.Easy
                 }
             }
 
-            return newMatrix; 
+            return newMatrix;
         }
     }
 }

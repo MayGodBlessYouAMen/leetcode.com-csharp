@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace LeetCode.Com.Easy
+﻿namespace LeetCode.Com.Easy
 {
     /// <summary>
     /// Build Array from Permutation
@@ -17,7 +12,7 @@ namespace LeetCode.Com.Easy
         {
             int[] ans = new int[nums.Length];
             for (int i = 0; i < nums.Length; i++)
-            { 
+            {
                 ans[i] = nums[nums[i]];
             }
             return ans;

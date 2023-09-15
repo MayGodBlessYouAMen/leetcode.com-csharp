@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace LeetCode.Com.Easy
 {
@@ -19,7 +16,7 @@ namespace LeetCode.Com.Easy
             string[] newWords = new string[words.Length];
             foreach (var word in words)
             {
-                int index = int.Parse(word.Substring(word.Length - 1)) -1;
+                int index = int.Parse(word.Substring(word.Length - 1)) - 1;
                 newWords[index] = word.Substring(0, word.Length - 1);
             }
 

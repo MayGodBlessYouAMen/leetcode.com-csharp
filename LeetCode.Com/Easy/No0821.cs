@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace LeetCode.Com.Easy
 {
@@ -60,9 +57,9 @@ namespace LeetCode.Com.Easy
                 }
 
                 //searchedIndexList里必然至少有两个元素走到第二个元素，移除第一个元素
-                if (i== searchedIndexList[1])
+                if (i == searchedIndexList[1])
                 {
-                    searchedIndexList.RemoveAt(0);  
+                    searchedIndexList.RemoveAt(0);
                 }
             }
 

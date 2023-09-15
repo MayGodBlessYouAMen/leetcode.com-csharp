@@ -1,8 +1,5 @@
 ﻿using LeetCode.Com.Com;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace LeetCode.Com.Easy
 {
@@ -38,7 +35,7 @@ namespace LeetCode.Com.Easy
                 }
 
                 list.Add(root.val);
-                 
+
                 if (root.right != null)
                 {
                     JustDoIt(root.right, list);

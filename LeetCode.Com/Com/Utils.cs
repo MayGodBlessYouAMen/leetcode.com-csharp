@@ -138,7 +138,7 @@ namespace LeetCode.Com.Com
 
         #region int?
         public static TreeNode CreateTreeNode(List<int?> numberlist)
-        { 
+        {
             Queue<TreeNode> queue = new Queue<TreeNode>();
 
             TreeNode root = null;
@@ -198,7 +198,7 @@ namespace LeetCode.Com.Com
 
             return root;
         }
-         
+
         #endregion
 
         #endregion

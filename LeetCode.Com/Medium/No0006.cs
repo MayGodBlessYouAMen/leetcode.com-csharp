@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Text;
 
 namespace LeetCode.Com.Medium
 {
@@ -33,8 +30,8 @@ namespace LeetCode.Com.Medium
             //重复部分为竖着的nRows和斜向上的nRows-2 
 
             //计算最大列数
-            int maxCellNum = (length % (nRows + nRows - 2) == 0) ? 
-                            (length / (nRows + nRows - 2)) * (nRows - 1) : 
+            int maxCellNum = (length % (nRows + nRows - 2) == 0) ?
+                            (length / (nRows + nRows - 2)) * (nRows - 1) :
                             (length / (nRows + nRows - 2) + 1) * (nRows - 1);
 
             //定义一个nRows行 * maxCellNum列的空数组
@@ -49,7 +46,7 @@ namespace LeetCode.Com.Medium
                 cell++;
                 for (int i = 0; i <= nRows - 1; i++)
                 {
-                    if (n >= length) break; 
+                    if (n >= length) break;
 
                     grid[i, cell] = arr[n];
                     n++;

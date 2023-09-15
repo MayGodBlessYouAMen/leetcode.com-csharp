@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace LeetCode.Com.Easy
 {
@@ -21,7 +18,7 @@ namespace LeetCode.Com.Easy
             {
                 int len = rectangle[0] > rectangle[1] ? rectangle[1] : rectangle[0];
                 if (len > maxLen)
-                { 
+                {
                     maxLen = len;
                 }
                 if (squareDic.ContainsKey(len))

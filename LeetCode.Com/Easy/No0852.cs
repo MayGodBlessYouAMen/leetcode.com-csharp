@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace LeetCode.Com.Easy
+﻿namespace LeetCode.Com.Easy
 {
     /// <summary>
     /// [852]  Peak Index in a Mountain Array

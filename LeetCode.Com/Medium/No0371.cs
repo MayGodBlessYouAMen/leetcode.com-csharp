@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace LeetCode.Com.Medium
+﻿namespace LeetCode.Com.Medium
 {
     /// <summary>
     /// [371] Sum of Two Integers

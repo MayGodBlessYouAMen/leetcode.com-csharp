@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace LeetCode.Com.Easy
+﻿namespace LeetCode.Com.Easy
 {
     /// <summary>
     /// Sum of All Odd Length Subarrays
@@ -29,7 +24,7 @@ namespace LeetCode.Com.Easy
                     subSum += arr[j];
 
                     //判断子数组长度是否为奇数
-                    if ((j - i + 1) %2 !=0)
+                    if ((j - i + 1) % 2 != 0)
                     {
                         sum += subSum;
                     }

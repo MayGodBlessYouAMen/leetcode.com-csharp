@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace LeetCode.Com.Easy
+﻿namespace LeetCode.Com.Easy
 {
     /// <summary>
     /// Design HashSet
     /// </summary>
     public class No0705
-    { 
+    {
         /*
             解题思路：直接申请容量为10^6+1的数组。如果有数字，则标记为1
 

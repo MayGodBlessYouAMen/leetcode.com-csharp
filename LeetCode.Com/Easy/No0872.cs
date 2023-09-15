@@ -1,8 +1,6 @@
 ﻿using LeetCode.Com.Com;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace LeetCode.Com.Easy
 {
@@ -37,7 +35,7 @@ namespace LeetCode.Com.Easy
             //左遍历
             if (root.left != null)
             {
-                GetLeaves(root.left,ref list);
+                GetLeaves(root.left, ref list);
             }
 
             //中--叶子判断

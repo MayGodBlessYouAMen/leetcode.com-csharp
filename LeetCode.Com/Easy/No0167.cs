@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace LeetCode.Com.Easy
+﻿namespace LeetCode.Com.Easy
 {
     /// <summary>
     /// Two Sum II - Input array is sorted
@@ -20,7 +15,7 @@ namespace LeetCode.Com.Easy
                 {
                     break;
                 }
-                
+
                 if (numbers[left] + numbers[right] > target)
                 {
                     right--;

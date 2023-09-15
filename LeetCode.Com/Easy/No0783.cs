@@ -1,8 +1,5 @@
 ﻿using LeetCode.Com.Com;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace LeetCode.Com.Easy
 {
@@ -52,7 +49,7 @@ namespace LeetCode.Com.Easy
             }
 
             //左
-            InOrderTraversal(root.left,ref list);
+            InOrderTraversal(root.left, ref list);
 
             //根
             list.Add(root.val);

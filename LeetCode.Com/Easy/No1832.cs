@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace LeetCode.Com.Easy
 {
@@ -24,7 +21,7 @@ namespace LeetCode.Com.Easy
                 return false;
             }
 
-            Dictionary<char,int> charDic = new Dictionary<char,int>();
+            Dictionary<char, int> charDic = new Dictionary<char, int>();
 
             foreach (var item in sentence)
             {

@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace LeetCode.Com.Easy
+﻿namespace LeetCode.Com.Easy
 {
     /// <summary>
     /// Find Numbers with Even Number of Digits
@@ -24,13 +19,13 @@ namespace LeetCode.Com.Easy
             {
                 if (IsEvenNumber(num)) count++;
             }
-            
+
             return count;
         }
 
         private bool IsEvenNumber(int num)
         {
-            if (num /100000 > 0 )
+            if (num / 100000 > 0)
             {
                 return true;
             }

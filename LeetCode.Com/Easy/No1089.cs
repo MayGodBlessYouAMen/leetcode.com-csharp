@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace LeetCode.Com.Easy
 {
@@ -18,7 +15,7 @@ namespace LeetCode.Com.Easy
             List<int> list = new List<int>();
             foreach (var item in arr)
             {
-                if (list.Count >= arr.Length) break; 
+                if (list.Count >= arr.Length) break;
 
                 list.Add(item);
 

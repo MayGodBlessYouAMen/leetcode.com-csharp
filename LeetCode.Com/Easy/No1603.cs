@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace LeetCode.Com.Easy
+﻿namespace LeetCode.Com.Easy
 {
     /// <summary>
     /// Design Parking System
@@ -21,7 +16,7 @@ namespace LeetCode.Com.Easy
         private int big = 0;
         private int medium = 0;
         private int small = 0;
- 
+
         public No1603(int big, int medium, int small)
         //public ParkingSystem(int big, int medium, int small)
         {

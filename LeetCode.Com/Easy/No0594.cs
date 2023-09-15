@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace LeetCode.Com.Easy
 {
@@ -51,7 +50,7 @@ namespace LeetCode.Com.Easy
                 }
 
                 //相差为1的两个数字出现次数相加，与之前的做比较
-                if (dic[list[i]] + dic[list[i-1]] > count)
+                if (dic[list[i]] + dic[list[i - 1]] > count)
                 {
                     count = dic[list[i]] + dic[list[i - 1]];
                 }

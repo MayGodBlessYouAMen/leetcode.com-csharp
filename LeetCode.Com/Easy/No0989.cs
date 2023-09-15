@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace LeetCode.Com.Easy
 {
@@ -31,7 +28,7 @@ namespace LeetCode.Com.Easy
 
             int maxLength = num.Length > listK.Count ? num.Length : listK.Count;
             List<int> resList = new List<int>();
-             
+
             int carry = 0;
 
             //按位相加
@@ -52,7 +49,7 @@ namespace LeetCode.Com.Easy
             }
 
             //最后的进位
-            if (carry > 0 )
+            if (carry > 0)
             {
                 resList.Insert(0, carry);
             }

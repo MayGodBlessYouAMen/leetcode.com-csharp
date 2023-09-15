@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace LeetCode.Com.Easy
 {
@@ -27,11 +24,11 @@ namespace LeetCode.Com.Easy
             List<string> thirdList = new List<string>();
             for (int i = 0; i < words.Length; i++)
             {
-                if (words[i] == first 
+                if (words[i] == first
                     && (i + 1 < words.Length && words[i + 1] == second)
                     && (i + 2 < words.Length))
                 {
-                    thirdList.Add(words[i+2]);
+                    thirdList.Add(words[i + 2]);
                 }
             }
 

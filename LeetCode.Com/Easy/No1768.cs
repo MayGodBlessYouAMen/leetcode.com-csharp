@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Text;
 
 namespace LeetCode.Com.Easy
 {
@@ -43,7 +40,7 @@ namespace LeetCode.Com.Easy
                 {
                     isFirst = true;
                     continue;
-                } 
+                }
             }
 
             return sb.ToString();

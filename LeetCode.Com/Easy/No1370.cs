@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 using System.Text;
 
 namespace LeetCode.Com.Easy
@@ -20,7 +18,7 @@ namespace LeetCode.Com.Easy
         public string SortString(string s)
         {
             //将s所有字符存入字典
-            Dictionary<char,int> dic = new Dictionary<char,int>();
+            Dictionary<char, int> dic = new Dictionary<char, int>();
             foreach (var item in s)
             {
                 if (!dic.ContainsKey(item))
@@ -34,7 +32,7 @@ namespace LeetCode.Com.Easy
             }
 
             //定义返回字符串
-            StringBuilder sb = new StringBuilder(); 
+            StringBuilder sb = new StringBuilder();
 
             //按题目算法遍历
             while (dic.Keys.Count > 0)
@@ -46,7 +44,7 @@ namespace LeetCode.Com.Easy
                     {
                         //添加
                         sb.Append(key);
-                        
+
                         //计数-1
                         dic[key]--;
 

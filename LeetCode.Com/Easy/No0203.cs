@@ -1,8 +1,4 @@
 ﻿using LeetCode.Com.Com;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace LeetCode.Com.Easy
 {
@@ -40,9 +36,9 @@ namespace LeetCode.Com.Easy
                     //错误写法
                     //node = node.next;
                     //node = new ListNode(head.val);
-                   
+
                     //正确写法
-                    node.next = new ListNode(head.val); 
+                    node.next = new ListNode(head.val);
                     node = node.next;
                 }
             }

@@ -1,8 +1,4 @@
 ﻿using LeetCode.Com.Com;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace LeetCode.Com.Easy
 {
@@ -24,7 +20,7 @@ namespace LeetCode.Com.Easy
             //val比根节点大，那么去左子树找
             if (root.val > val && root.left != null)
             {
-                return SearchBST(root.left,val);
+                return SearchBST(root.left, val);
             }
 
             //val比根节点小，那么去右子树找

@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace LeetCode.Com.Medium
 {
@@ -18,7 +15,7 @@ namespace LeetCode.Com.Medium
             int area = 0;
             while (left < right)
             {
-                int h = Math.Min(height[left],height[right]);
+                int h = Math.Min(height[left], height[right]);
                 int len = right - left;
                 area = Math.Max(area, h * len);
                 if (height[left] < height[right])

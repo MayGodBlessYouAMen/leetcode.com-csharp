@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Text;
 
 namespace LeetCode.Com.Easy
 {
@@ -33,7 +30,7 @@ namespace LeetCode.Com.Easy
             {
                 int len = s.Length - index > 3 ? 3 : s.Length - index;
                 string sub = s.Substring(index, len);
-                
+
                 if (sub.Length < 3)
                 {
                     for (int i = 0; i < sub.Length; i++)

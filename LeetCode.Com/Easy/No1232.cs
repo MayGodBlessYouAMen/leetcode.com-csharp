@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace LeetCode.Com.Easy
+﻿namespace LeetCode.Com.Easy
 {
     /// <summary>
     /// Check If It Is a Straight Line
@@ -36,7 +31,7 @@ namespace LeetCode.Com.Easy
                 ////2,1
                 //var slopte1 = (coordinates[1][1] - coordinates[0][1]) / (coordinates[1][0] - coordinates[0][0]);
 
-                if ((coordinates[i][1] - coordinates[i - 1][1]) * (coordinates[1][0] - coordinates[0][0]) 
+                if ((coordinates[i][1] - coordinates[i - 1][1]) * (coordinates[1][0] - coordinates[0][0])
                     != (coordinates[1][1] - coordinates[0][1]) * (coordinates[i][0] - coordinates[i - 1][0]))
                 {
                     return false;

@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace LeetCode.Com.Easy
 {
@@ -65,7 +62,7 @@ namespace LeetCode.Com.Easy
         /// <param name="modNum"></param>
         /// <returns></returns>
         private long Factorial(int num, int modNum)
-        { 
+        {
             long res = 1;
             for (int i = 2; i <= num; i++)
             {

@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace LeetCode.Com.Easy
 {
@@ -98,7 +95,7 @@ namespace LeetCode.Com.Easy
         public int Peek()
         {
             //如果out栈为空，则将in栈所有数据拿过来
-            if (_outStack.Count <=0)
+            if (_outStack.Count <= 0)
             {
                 while (_inStack.Count > 0)
                 {

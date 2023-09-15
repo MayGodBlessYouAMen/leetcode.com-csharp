@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Text;
 
 namespace LeetCode.Com.Easy
 {
@@ -19,7 +16,7 @@ namespace LeetCode.Com.Easy
          */
         public string Interpret(string command)
         {
-            StringBuilder sb = new StringBuilder(); 
+            StringBuilder sb = new StringBuilder();
             int index = 0;
             while (index < command.Length)
             {
@@ -33,7 +30,7 @@ namespace LeetCode.Com.Easy
                 if (command.Substring(index, 2) == "()")
                 {
                     sb.Append("o");
-                    index+=2;
+                    index += 2;
                     continue;
                 }
                 if (command.Substring(index, 4) == "(al)")

@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace LeetCode.Com.Easy
+﻿namespace LeetCode.Com.Easy
 {
     /// <summary>
     /// Sqrt(x)
@@ -39,11 +34,11 @@ namespace LeetCode.Com.Easy
                 }
                 else if (x / mid < mid)
                 {
-                    right = mid ;
+                    right = mid;
                 }
                 else
                 {
-                    left = mid ;
+                    left = mid;
                 }
             }
             return 0;

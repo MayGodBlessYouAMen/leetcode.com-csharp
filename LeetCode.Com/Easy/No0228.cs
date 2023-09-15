@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace LeetCode.Com.Easy
 {
@@ -23,7 +20,7 @@ namespace LeetCode.Com.Easy
             {
                 string start = nums[i].ToString();
                 string end = "";
-                while ((i + 1 < nums.Length) && 
+                while ((i + 1 < nums.Length) &&
                        (nums[i] + 1 == nums[i + 1]))
                 {
                     i++;

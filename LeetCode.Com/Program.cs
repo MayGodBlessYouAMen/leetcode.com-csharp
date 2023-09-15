@@ -1,7 +1,5 @@
-﻿using LeetCode.Com.Com;
-using LeetCode.Com.Test;
+﻿using LeetCode.Com.Test;
 using System;
-using System.Collections.Generic;
 
 namespace LeetCode.Com
 {
@@ -26,7 +24,7 @@ namespace LeetCode.Com
 
             //}
             #endregion
-            
+
             EasyTest.Start();
             MediumTest.Start();
             HardTest.Start();

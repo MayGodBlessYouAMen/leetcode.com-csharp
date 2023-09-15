@@ -1,7 +1,4 @@
-﻿using LeetCode.Com.Com;
-using LeetCode.Com.Easy;
-using System;
-using System.Collections.Generic;
+﻿using LeetCode.Com.Easy;
 
 namespace LeetCode.Com.Test
 {

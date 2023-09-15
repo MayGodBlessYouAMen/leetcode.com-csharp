@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace LeetCode.Com.Easy
 {
@@ -17,7 +14,7 @@ namespace LeetCode.Com.Easy
         {
 
             //统计所有起点
-            Dictionary<string,int> startDic = new Dictionary<string, int>();
+            Dictionary<string, int> startDic = new Dictionary<string, int>();
             foreach (var path in paths)
             {
                 if (!startDic.ContainsKey(path[0]))

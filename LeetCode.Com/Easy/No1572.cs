@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace LeetCode.Com.Easy
+﻿namespace LeetCode.Com.Easy
 {
     /// <summary>
     /// Matrix Diagonal Sum
@@ -32,7 +27,7 @@ namespace LeetCode.Com.Easy
             //奇数时，减去正中心点
             if (m % 2 != 0)
             {
-                sum -= mat[m/2][m / 2];
+                sum -= mat[m / 2][m / 2];
             }
 
             return sum;

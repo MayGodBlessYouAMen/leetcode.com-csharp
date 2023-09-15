@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace LeetCode.Com.Easy
+﻿namespace LeetCode.Com.Easy
 {
     /// <summary>
     /// Number of Steps to Reduce a Number to Zero
@@ -29,7 +24,7 @@ namespace LeetCode.Com.Easy
 
                 step++;
             }
-            
+
             return step;
         }
     }

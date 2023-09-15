@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace LeetCode.Com.Easy
+﻿namespace LeetCode.Com.Easy
 {
     /// <summary>
     /// Flood Fill
@@ -59,7 +54,7 @@ namespace LeetCode.Com.Easy
             image[sr][sc] = newColor;
 
             //修改填充状态
-            fillFlag[sr][sc] = 1; 
+            fillFlag[sr][sc] = 1;
 
             //左
             FloodFill(image, sr, sc - 1, newColor, fillVal, ref fillFlag);

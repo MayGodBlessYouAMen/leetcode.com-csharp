@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace LeetCode.Com.Easy
 {
@@ -34,7 +31,7 @@ namespace LeetCode.Com.Easy
             }
 
             //统计次数的频率
-            Dictionary<int,int> countDic = new Dictionary<int,int>();
+            Dictionary<int, int> countDic = new Dictionary<int, int>();
             foreach (var item in numDic.Values)
             {
                 if (countDic.ContainsKey(item))
@@ -53,7 +50,7 @@ namespace LeetCode.Com.Easy
             {
                 if (item > 1)
                 {
-                    unique = false; 
+                    unique = false;
                     break;
                 }
             }

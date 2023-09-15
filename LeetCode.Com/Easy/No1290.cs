@@ -1,8 +1,4 @@
 ﻿using LeetCode.Com.Com;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace LeetCode.Com.Easy
 {
@@ -15,7 +11,7 @@ namespace LeetCode.Com.Easy
             解题思路：A(1) = head.val;  S(n+1) = S(n) * 2 + A(n) 
          */
         public int GetDecimalValue(ListNode head)
-        { 
+        {
             //第一个节点
             int sum = head.val;
 

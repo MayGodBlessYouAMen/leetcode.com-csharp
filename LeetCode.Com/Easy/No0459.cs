@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace LeetCode.Com.Easy
+﻿namespace LeetCode.Com.Easy
 {
     /// <summary>
     /// Repeated Substring Pattern
@@ -35,7 +30,7 @@ namespace LeetCode.Com.Easy
                     {
                         if (s[j] != s[i * subLenth + j])
                         {
-                            isMatch = false; 
+                            isMatch = false;
                         }
                     }
                 }

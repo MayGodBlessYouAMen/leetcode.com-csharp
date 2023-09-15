@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace LeetCode.Com.Easy
 {
@@ -27,7 +25,7 @@ namespace LeetCode.Com.Easy
                 Array.Sort(stones);
 
                 int len = stones.Length;
-                int x = 0, y = 0; 
+                int x = 0, y = 0;
                 if (stones[len - 1] <= stones[len - 2])
                 {
                     x = stones[len - 1];
@@ -62,7 +60,7 @@ namespace LeetCode.Com.Easy
             }
 
             return 0;
-           
+
         }
     }
 }

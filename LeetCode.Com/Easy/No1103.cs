@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace LeetCode.Com.Easy
+﻿namespace LeetCode.Com.Easy
 {
     /// <summary>
     /// Distribute Candies to People
@@ -20,7 +15,7 @@ namespace LeetCode.Com.Easy
             //计数器
             int count = 0;
             while (candies > 0)
-            {  
+            {
                 //计算发糖人index
                 int index = count % num_people;
 

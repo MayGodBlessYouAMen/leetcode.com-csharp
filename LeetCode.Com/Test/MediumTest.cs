@@ -1,11 +1,4 @@
-﻿using LeetCode.Com.Com;
-using LeetCode.Com.Medium;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace LeetCode.Com.Test
+﻿namespace LeetCode.Com.Test
 {
     public class MediumTest
     {

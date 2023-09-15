@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace LeetCode.Com.Easy
 {
@@ -23,7 +20,7 @@ namespace LeetCode.Com.Easy
             for (int i = 3; i >= 0; i--)
             {
                 //判断最高位是否为6
-                if (num/(int)Math.Pow(10,i) == 6)
+                if (num / (int)Math.Pow(10, i) == 6)
                 {
                     res += 3 * (int)Math.Pow(10, i);
                     break;

@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace LeetCode.Com.Easy
 {
@@ -26,7 +23,7 @@ namespace LeetCode.Com.Easy
             }
 
             //统计初始每个位置上的筹码个数
-            Dictionary<int,int> chipDic = new Dictionary<int, int>();
+            Dictionary<int, int> chipDic = new Dictionary<int, int>();
             foreach (var item in position)
             {
                 if (chipDic.ContainsKey(item))

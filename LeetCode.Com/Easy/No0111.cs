@@ -1,8 +1,5 @@
 ﻿using LeetCode.Com.Com;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace LeetCode.Com.Easy
 {
@@ -43,9 +40,9 @@ namespace LeetCode.Com.Easy
                         findleaf = true;
                         break;
                     }
-                    if (treenode.left!= null)
+                    if (treenode.left != null)
                     {
-                        currentqueue.Enqueue(treenode.left);    
+                        currentqueue.Enqueue(treenode.left);
                     }
                     if (treenode.right != null)
                     {

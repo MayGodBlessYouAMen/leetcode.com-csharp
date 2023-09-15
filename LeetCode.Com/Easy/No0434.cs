@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Linq;
 
 namespace LeetCode.Com.Easy
 {
@@ -17,7 +14,7 @@ namespace LeetCode.Com.Easy
                 return 0;
             }
             var arr = s.Split(' ');
-            return arr.Where(x=> !string.IsNullOrWhiteSpace(x)).Count();
+            return arr.Where(x => !string.IsNullOrWhiteSpace(x)).Count();
         }
     }
 }

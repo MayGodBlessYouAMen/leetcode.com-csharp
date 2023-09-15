@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace LeetCode.Com.Easy
 {
@@ -35,7 +32,7 @@ namespace LeetCode.Com.Easy
         {
             _list.Add(x);
 
-            if (_listMin.Count <=0)
+            if (_listMin.Count <= 0)
             {
                 _listMin.Add(x);
             }

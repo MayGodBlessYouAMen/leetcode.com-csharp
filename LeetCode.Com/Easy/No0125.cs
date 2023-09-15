@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace LeetCode.Com.Easy
+﻿namespace LeetCode.Com.Easy
 {
     /// <summary>
     /// Valid Palindrome
@@ -50,7 +45,7 @@ namespace LeetCode.Com.Easy
             return IsNum(c) || IsChar(c);
         }
 
-        public  bool IsChar(int c)
+        public bool IsChar(int c)
         {
             if (c >= 'a' && c <= 'z')
             {
@@ -65,7 +60,7 @@ namespace LeetCode.Com.Easy
             return false;
         }
 
-        public  bool IsNum(int c)
+        public bool IsNum(int c)
         {
             if (c >= '0' && c <= '9')
             {

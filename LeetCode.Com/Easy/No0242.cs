@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace LeetCode.Com.Easy
 {
@@ -16,9 +13,9 @@ namespace LeetCode.Com.Easy
             //if (string.IsNullOrWhiteSpace(s) || string.IsNullOrWhiteSpace(t)) return false; 
             if (s.Length != t.Length) return false;
 
-            int len = s.Length; 
+            int len = s.Length;
             int[] arr1 = new int[len];
-            int[] arr2 = new int[len]; 
+            int[] arr2 = new int[len];
 
             //转为int数组
             for (int i = 0; i < len; i++)

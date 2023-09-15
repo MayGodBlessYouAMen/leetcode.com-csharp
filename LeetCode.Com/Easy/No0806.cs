@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace LeetCode.Com.Easy
+﻿namespace LeetCode.Com.Easy
 {
     public class No0806
     {
         public int[] NumberOfLines(int[] widths, string S)
-        { 
-            int rowcount = 1; 
+        {
+            int rowcount = 1;
             int lineWidth = 0;
             for (int i = 0; i < S.Length; i++)
             {

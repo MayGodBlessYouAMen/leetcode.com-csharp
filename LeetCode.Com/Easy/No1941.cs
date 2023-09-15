@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace LeetCode.Com.Easy
 {
@@ -23,7 +20,7 @@ namespace LeetCode.Com.Easy
             {
                 if (!charDic.ContainsKey(item))
                 {
-                    charDic.Add (item, 1);
+                    charDic.Add(item, 1);
                 }
                 else
                 {
