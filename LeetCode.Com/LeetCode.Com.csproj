@@ -51,6 +51,7 @@
     <Compile Include="Com\Utils.cs" />
     <Compile Include="Easy\0001-0400\No0222.cs" />
     <Compile Include="Easy\0401-0800\No0543.cs" />
+    <Compile Include="Easy\0401-0800\No0637.cs" />
     <Compile Include="Easy\0401-0800\No0661.cs" />
     <Compile Include="Easy\0401-0800\No0566.cs" />
     <Compile Include="Easy\0001-0400\No0001.cs" />

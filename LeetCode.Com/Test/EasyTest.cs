@@ -1187,6 +1187,18 @@ namespace LeetCode.Com.Test
             //Console.WriteLine(no0628.MaximumProduct(new int[] { -1, -2, -3 }));
             #endregion
 
+            #region No0637
+            No0637 no0637 = new No0637();
+            //{
+            //    TreeNode root = Utils.CreateTreeNode(new List<int?>() { 3, 9, 20, null, null, 15, 7 });
+            //    Console.WriteLine(no0637.AverageOfLevels(root).ToConsoleString());         //[3.00000,14.50000,11.00000]
+            //}
+            //{
+            //    TreeNode root = Utils.CreateTreeNode(new List<int?>() { 3, 9, 20, 15, 7 });
+            //    Console.WriteLine(no0637.AverageOfLevels(root).ToConsoleString());        //[3.00000,14.50000,11.00000]
+            //}
+            #endregion
+
             #region No0643
             //No0643 no0643 = new No0643();
             //{
