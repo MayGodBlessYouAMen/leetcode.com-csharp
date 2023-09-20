@@ -116,6 +116,9 @@
     <Content Include="Easy\0401-0800\No0577.sql" />
     <Content Include="Easy\0401-0800\No0584.sql" />
     <Content Include="Easy\0401-0800\No0586.sql" />
+    <Content Include="Easy\0401-0800\No0607.sql" />
+    <Content Include="Easy\0401-0800\No0610.sql" />
+    <Content Include="Easy\0401-0800\No0619.sql" />
     <Content Include="Easy\1601-2000\No1965.sql" />
     <Content Include="Medium\1201-1600\No1393.sql" />
     <None Include="Easy\0001-0400\No0195.sh" />
